@@ -15,9 +15,3 @@
   weight = 300
   identifier = "media"
   url = "/media/"
-
-  [[main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
