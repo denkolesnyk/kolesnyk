@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ukraine on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/ukraine/</link>
+    <description>Recent content in Ukraine on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ukraine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;Ukraine adopte sa Stratégie de sécurité militaire</title>
+      <link>https://example.com/posts/lukraine-adopte-sa-strategie-de-security-militaire/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/lukraine-adopte-sa-strategie-de-security-militaire/</guid>
+      
+        <description>Le président ukrainien Volodymyr Zelenskyy vient d&amp;rsquo;approuver la Stratégie de sécurité militaire de l&amp;rsquo;Ukraine, qui envisage une aggression armée russe à grande échelle.</description>
+      
+    </item>
+    
+    <item>
+      <title>L&#39;infoguerre dans les stratégies de sécurité nationale polonaise et ukrainienne</title>
+      <link>https://example.com/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</guid>
+      
+        <description>Cette année, un certain nombre de pays se dote de nouvelles versions de leurs documents stratégiques, dont la Pologne, l’Ukraine et la Russie.</description>
+      
+    </item>
+    
+    <item>
+      <title>L’Ukraine prolongerait l’interdiction des réseaux sociaux russes</title>
+      <link>https://example.com/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</guid>
+      
+        <description>Le chef du Service de sécurité d’Ukraine (SBU), Ivan Bakanov, a proposé au Conseil de sécurité nationale du pays de prolonger l’interdiction des réseaux sociaux russes pour une durée de trois ans supplémentaires.</description>
+      
+    </item>
+    
+    <item>
+      <title>L’Ukraine s’apprête à adopter une législation contre la désinformation</title>
+      <link>https://example.com/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</guid>
+      
+        <description>Le ministère de la Culture, de la jeunesse et des sports d’Ukraine a récemment publié les propositions d’amendements, exposées sur 129 pages, à la législation visant à lutter contre la désinformation.</description>
+      
+    </item>
+    
+    <item>
+      <title>Celui qui contrôle l’espace informationnel ukrainien contrôle l’Ukraine</title>
+      <link>https://example.com/posts/celui-qui-controle-lespace-informationnel-ukrainien-controle-lukraine/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/celui-qui-controle-lespace-informationnel-ukrainien-controle-lukraine/</guid>
+      
+        <description>D’après la presse ukrainienne, Viktor Medvedtchouk, l’oligarque ukrainien et proche du président Vladimir Poutine (il n’est pas secret que Poutine est le parrain de sa fille) a récemment acheté 80% des parts de l’une de plus grandes chaîne ukrainienne – Inter.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

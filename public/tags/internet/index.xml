@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/internet/</link>
+    <description>Recent content in Internet on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Russie menace Twitter</title>
+      <link>https://example.com/posts/la-russie-menace-twitter/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-russie-menace-twitter/</guid>
+      
+        <description>Le 10 mars dernier, le Service fédéral de supervision des communications, des technologies de l&amp;rsquo;information et des médias de masse, connu en version courte comme le Roskomnadzor, a déclaré dans un communiqué de presse « avoir pris des mesures pour défendre les citoyens russes de l’influence du contenu illégal ».</description>
+      
+    </item>
+    
+    <item>
+      <title>Roskomnadzor controlerait le domaine national d&#39;Internet russe</title>
+      <link>https://example.com/posts/roskomnadzor-controlerait-le-domaine-national-d-internet-russe/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/roskomnadzor-controlerait-le-domaine-national-d-internet-russe/</guid>
+      
+        <description>Le 9 mars dernier, le premier ministre russe Mikhaïl Michoustine a signé l’ordonnance N° 584-p qui nomme le Roskomnadzor (Service fédéral de supervision des communications, des technologies de l’information et des médias de masse) en tant que l’un des fondateurs du Centre de coordination pour le domaine national d’Internet (ci-après nommé Centre).</description>
+      
+    </item>
+    
+    <item>
+      <title>La Russie fait un pas de plus vers la protection de son espace informationnel</title>
+      <link>https://example.com/posts/la-russie-fait-un-pas-de-plus-vers-la-protection-de-son-espace-informationnel/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-russie-fait-un-pas-de-plus-vers-la-protection-de-son-espace-informationnel/</guid>
+      
+        <description>Il y a six mois le président russe Vladimir Poutine a signé la loi amendant les lois fédérales « Sur la communication » et « Sur l’information, les technologies de l’information et sur la protection de l’information ».</description>
+      
+    </item>
+    
+    <item>
+      <title>Le contracteur du FSB travaillait sur la désanonymisation de Tor</title>
+      <link>https://example.com/posts/le-contracteur-du-fsb-travaillait-sur-la-desanonymisation-de-tor/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/le-contracteur-du-fsb-travaillait-sur-la-desanonymisation-de-tor/</guid>
+      
+        <description>Les hackers du collectif 0v1ru$ ont piraté le serveur d’une entreprise russe SyTech qui travaillait, entre autre, avec l’unité militaire N° 71330 considérée par certaines sources comme une unité du 16ème Département du FSB, s’occupant du renseignement d’origine électromagnétique (ROEM).</description>
+      
+    </item>
+    
+  </channel>
+</rss>

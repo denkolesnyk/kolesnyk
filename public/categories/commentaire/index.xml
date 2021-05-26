@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commentaire on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/categories/commentaire/</link>
+    <description>Recent content in Commentaire on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/commentaire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COMMENTAIRE : Secret et silence autour des cyber-troupes russes</title>
+      <link>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</guid>
+      
+        <description>L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce lien.</description>
+      
+    </item>
+    
+    <item>
+      <title>COMMENTAIRE : Le MAE russe évalue la situation des droits de l’homme</title>
+      <link>https://example.com/posts/le-mae-russe-evalue-la-situation-des-droits-de-lhomme/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/le-mae-russe-evalue-la-situation-des-droits-de-lhomme/</guid>
+      
+        <description>Le 7 février 2020 le ministère des Affaires étrangères russe a publié le rapport sur la violation des droits de l’homme dans des pays différents.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

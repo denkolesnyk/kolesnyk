@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sergueï Komov on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/sergue%C3%AF-komov/</link>
+    <description>Recent content in Sergueï Komov on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/sergue%C3%AF-komov/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le colonel Komov et la guerre de l’information</title>
+      <link>https://example.com/posts/le-colonel-komov-et-la-guerre-de-l-information/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/le-colonel-komov-et-la-guerre-de-l-information/</guid>
+      
+        <description>Il est temps d’écrire sur le colonel et professeur soviétique, puis russe, Sergueï Komov, l’un des théoriciens proéminents dans le domaine de la guerre de l’information.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

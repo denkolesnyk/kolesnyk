@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ria Novosti on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/ria-novosti/</link>
+    <description>Recent content in Ria Novosti on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ria-novosti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les Français soutiennent-ils la Russie ? La propagande russe dit « oui »</title>
+      <link>https://example.com/posts/les-francais-soutiennent-ils-la-russie-la-propagande-russe-dit-oui/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/les-francais-soutiennent-ils-la-russie-la-propagande-russe-dit-oui/</guid>
+      
+        <description>Il est rare aujourd’hui de croiser quelqu&amp;rsquo;un qui méconnaisse les notions de « fake news », « désinformation », « manipulation de l&amp;rsquo;information » ou encore « guerre de l&amp;rsquo;information ».</description>
+      
+    </item>
+    
+  </channel>
+</rss>

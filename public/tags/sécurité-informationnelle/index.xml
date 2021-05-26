@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sécurité informationnelle on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/</link>
+    <description>Recent content in sécurité informationnelle on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Russie et l’Iran signent un accord de coopération dans le domaine de la sécurité informationnelle</title>
+      <link>https://example.com/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</guid>
+      
+        <description>Le 26 janvier dernier, la Russie et l’Iran ont signé un accord de coopération dans le domaine de la sécurité informationnelle.</description>
+      
+    </item>
+    
+    <item>
+      <title>COMMENTAIRE : Secret et silence autour des cyber-troupes russes</title>
+      <link>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</guid>
+      
+        <description>L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce lien.</description>
+      
+    </item>
+    
+    <item>
+      <title>L&#39;infoguerre dans les stratégies de sécurité nationale polonaise et ukrainienne</title>
+      <link>https://example.com/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</guid>
+      
+        <description>Cette année, un certain nombre de pays se dote de nouvelles versions de leurs documents stratégiques, dont la Pologne, l’Ukraine et la Russie.</description>
+      
+    </item>
+    
+    <item>
+      <title>L’Ukraine prolongerait l’interdiction des réseaux sociaux russes</title>
+      <link>https://example.com/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</guid>
+      
+        <description>Le chef du Service de sécurité d’Ukraine (SBU), Ivan Bakanov, a proposé au Conseil de sécurité nationale du pays de prolonger l’interdiction des réseaux sociaux russes pour une durée de trois ans supplémentaires.</description>
+      
+    </item>
+    
+    <item>
+      <title>La Russie se dotera d’une nouvelle Stratégie de sécurité nationale en 2020</title>
+      <link>https://example.com/posts/la-russie-se-dotera-d-une-nouvelle-strategie-de-securite-natioale-en-2020/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-russie-se-dotera-d-une-nouvelle-strategie-de-securite-natioale-en-2020/</guid>
+      
+        <description>Le Conseil de sécurité de Russie a commencé l’élaboration d’une nouvelle Stratégie de sécurité nationale.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

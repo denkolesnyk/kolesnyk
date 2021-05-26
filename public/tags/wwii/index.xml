@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WWII on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/wwii/</link>
+    <description>Recent content in WWII on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/wwii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L’importance du « 9 mai » dans le récit historique russe</title>
+      <link>https://example.com/posts/limportance-du-9-mai-dans-le-recit-historique-russe/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/limportance-du-9-mai-dans-le-recit-historique-russe/</guid>
+      
+        <description>La Russie s’apprête à donner un défilé pour marquer « la victoire de l’URSS dans la Grande guerre patriotique », qui est célébrée en Russie et dans ses anciens satellites le 9 mai.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

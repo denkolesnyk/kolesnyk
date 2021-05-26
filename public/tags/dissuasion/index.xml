@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dissuasion on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/dissuasion/</link>
+    <description>Recent content in dissuasion on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/dissuasion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De la dissuasion « informationnelle » russe</title>
+      <link>https://example.com/posts/de-la-dissuasion-informationnelle-russe/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/de-la-dissuasion-informationnelle-russe/</guid>
+      
+        <description>Tout au long de la guerre froide la dissuasion nucléaire est restée un élément clé assurant « la destruction mutuelle » entre les Etats-Unis et l’URSS, par conséquent rendant la première frappe impossible de la part de Washington et de Moscou.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSIS on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/csis/</link>
+    <description>Recent content in CSIS on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/csis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le CSIS propose une nouvelle définition des cyber-opérations</title>
+      <link>https://example.com/posts/le-csis-propose-une-nouvelle-definition-des-cyber-operations/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/le-csis-propose-une-nouvelle-definition-des-cyber-operations/</guid>
+      
+        <description>Le think-tank américain CSIS (Center for Strategic and International Studies) a récemment proposé une nouvelle définition pour les cyber-opérations.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

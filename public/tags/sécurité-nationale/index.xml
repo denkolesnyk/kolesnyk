@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sécurité nationale on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/s%C3%A9curit%C3%A9-nationale/</link>
+    <description>Recent content in sécurité nationale on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/s%C3%A9curit%C3%A9-nationale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;Ukraine adopte sa Stratégie de sécurité militaire</title>
+      <link>https://example.com/posts/lukraine-adopte-sa-strategie-de-security-militaire/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/lukraine-adopte-sa-strategie-de-security-militaire/</guid>
+      
+        <description>Le président ukrainien Volodymyr Zelenskyy vient d&amp;rsquo;approuver la Stratégie de sécurité militaire de l&amp;rsquo;Ukraine, qui envisage une aggression armée russe à grande échelle.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

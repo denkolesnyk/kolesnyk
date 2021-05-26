@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/twitter/</link>
+    <description>Recent content in Twitter on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Russie menace Twitter</title>
+      <link>https://example.com/posts/la-russie-menace-twitter/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-russie-menace-twitter/</guid>
+      
+        <description>Le 10 mars dernier, le Service fédéral de supervision des communications, des technologies de l&amp;rsquo;information et des médias de masse, connu en version courte comme le Roskomnadzor, a déclaré dans un communiqué de presse « avoir pris des mesures pour défendre les citoyens russes de l’influence du contenu illégal ».</description>
+      
+    </item>
+    
+  </channel>
+</rss>

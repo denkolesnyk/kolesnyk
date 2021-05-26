@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vladislav Sourkov on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/vladislav-sourkov/</link>
+    <description>Recent content in Vladislav Sourkov on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/vladislav-sourkov/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vladislav Sourkov sur le « long État de Poutine »</title>
+      <link>https://example.com/posts/vladislav-sourkov-sur-le-long-etat-de-potine/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/vladislav-sourkov-sur-le-long-etat-de-potine/</guid>
+      
+        <description>Il y a quelques jours Vladislav Sourkov, l’homme derrière le concept de « verticale du pouvoir » et de « démocratie souveraine » du premier mandat présidentiel de Vladimir Poutine, a publié un article d’opinion sur Nezavisimaïa Gazeta intitulé « Le long État de Poutine » où il expose son point de vue sur plusieurs thèmes tels que les élections, l’État russe, les relations internationales etc.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

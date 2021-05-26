@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DDoSecrets on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/ddosecrets/</link>
+    <description>Recent content in DDoSecrets on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ddosecrets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDoSecrets publie une archive intitulée « le côté obscur du Kremlin »</title>
+      <link>https://example.com/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</guid>
+      
+        <description>Récemment, le site DDoSecrets (Distributed Denial of Secrets) a publié une archive de données russes piratées sous le nom « The dark side of the Kremlin » (le côté obscur du Kremlin) d’un volume significatif dépassant 100 Go.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

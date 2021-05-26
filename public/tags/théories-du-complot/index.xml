@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>théories du complot on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/th%C3%A9ories-du-complot/</link>
+    <description>Recent content in théories du complot on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Thu, 22 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/th%C3%A9ories-du-complot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pour le FBI les théories du complot sont une nouvelle menace terroriste</title>
+      <link>https://example.com/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</guid>
+      
+        <description>Récemment le FBI a publié un bulletin de renseignement sur l’influence des théories du complot sur les extrémistes américains et le passage à l’acte criminel et parfois violent.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

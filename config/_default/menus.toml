@@ -1,0 +1,23 @@
+  [[main]]
+  name = "À propos"
+  weight = 100
+  identifier = "about"
+  url = "/a-propos/"
+
+  [[main]]
+  name = "Blog"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[main]]
+  name = "Média"
+  weight = 300
+  identifier = "media"
+  url = "/media/"
+
+  [[main]]
+  name = "Contact"
+  weight = 400
+  identifier = "contact"
+  url = "/contact/"

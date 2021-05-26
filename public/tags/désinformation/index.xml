@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>désinformation on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/d%C3%A9sinformation/</link>
+    <description>Recent content in désinformation on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/d%C3%A9sinformation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L’Ukraine s’apprête à adopter une législation contre la désinformation</title>
+      <link>https://example.com/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</guid>
+      
+        <description>Le ministère de la Culture, de la jeunesse et des sports d’Ukraine a récemment publié les propositions d’amendements, exposées sur 129 pages, à la législation visant à lutter contre la désinformation.</description>
+      
+    </item>
+    
+    <item>
+      <title>Pour le FBI les théories du complot sont une nouvelle menace terroriste</title>
+      <link>https://example.com/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</guid>
+      
+        <description>Récemment le FBI a publié un bulletin de renseignement sur l’influence des théories du complot sur les extrémistes américains et le passage à l’acte criminel et parfois violent.</description>
+      
+    </item>
+    
+    <item>
+      <title>La guerre de l’information russe contre le Bélarus</title>
+      <link>https://example.com/posts/la-guerre-de-linformation-russe-contre-le-belarus/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-guerre-de-linformation-russe-contre-le-belarus/</guid>
+      
+        <description>Le Bélarus n’est pas le genre de pays dont on parle beaucoup.</description>
+      
+    </item>
+    
+    <item>
+      <title>DDoSecrets publie une archive intitulée « le côté obscur du Kremlin »</title>
+      <link>https://example.com/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</guid>
+      
+        <description>Récemment, le site DDoSecrets (Distributed Denial of Secrets) a publié une archive de données russes piratées sous le nom « The dark side of the Kremlin » (le côté obscur du Kremlin) d’un volume significatif dépassant 100 Go.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

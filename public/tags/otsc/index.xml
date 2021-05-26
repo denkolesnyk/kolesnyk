@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OTSC on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/otsc/</link>
+    <description>Recent content in OTSC on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/otsc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COMMENTAIRE : Secret et silence autour des cyber-troupes russes</title>
+      <link>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</guid>
+      
+        <description>L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce lien.</description>
+      
+    </item>
+    
+    <item>
+      <title>La Russie engagerait l’OTSC dans la guerre de l’information</title>
+      <link>https://example.com/posts/la-russie-engagerait-lotsc-dans-la-guerre-de-linformation/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-russie-engagerait-lotsc-dans-la-guerre-de-linformation/</guid>
+      
+        <description>Hier, le 20 juin 2019, le vice ministre de la Défense russe, Andreï Kartapolov, a proposé de formuler une politique informationnelle unique pour tous les pays membres de l’OTSC (Organisation du traité de sécurité collective), bloc militaire sous l’égide de la Russie.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

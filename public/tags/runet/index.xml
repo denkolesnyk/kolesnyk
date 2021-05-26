@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RuNet on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/runet/</link>
+    <description>Recent content in RuNet on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/runet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Russie menace Twitter</title>
+      <link>https://example.com/posts/la-russie-menace-twitter/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-russie-menace-twitter/</guid>
+      
+        <description>Le 10 mars dernier, le Service fédéral de supervision des communications, des technologies de l&amp;rsquo;information et des médias de masse, connu en version courte comme le Roskomnadzor, a déclaré dans un communiqué de presse « avoir pris des mesures pour défendre les citoyens russes de l’influence du contenu illégal ».</description>
+      
+    </item>
+    
+    <item>
+      <title>La Russie fait un pas de plus vers la protection de son espace informationnel</title>
+      <link>https://example.com/posts/la-russie-fait-un-pas-de-plus-vers-la-protection-de-son-espace-informationnel/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-russie-fait-un-pas-de-plus-vers-la-protection-de-son-espace-informationnel/</guid>
+      
+        <description>Il y a six mois le président russe Vladimir Poutine a signé la loi amendant les lois fédérales « Sur la communication » et « Sur l’information, les technologies de l’information et sur la protection de l’information ».</description>
+      
+    </item>
+    
+  </channel>
+</rss>

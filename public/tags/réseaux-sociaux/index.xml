@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>réseaux sociaux on Le site de Denys Kolesnyk</title>
+    <link>https://example.com/tags/r%C3%A9seaux-sociaux/</link>
+    <description>Recent content in réseaux sociaux on Le site de Denys Kolesnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018-{{ YEAR }}</copyright>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/r%C3%A9seaux-sociaux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Russie menace Twitter</title>
+      <link>https://example.com/posts/la-russie-menace-twitter/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-russie-menace-twitter/</guid>
+      
+        <description>Le 10 mars dernier, le Service fédéral de supervision des communications, des technologies de l&amp;rsquo;information et des médias de masse, connu en version courte comme le Roskomnadzor, a déclaré dans un communiqué de presse « avoir pris des mesures pour défendre les citoyens russes de l’influence du contenu illégal ».</description>
+      
+    </item>
+    
+    <item>
+      <title>L’Ukraine prolongerait l’interdiction des réseaux sociaux russes</title>
+      <link>https://example.com/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</guid>
+      
+        <description>Le chef du Service de sécurité d’Ukraine (SBU), Ivan Bakanov, a proposé au Conseil de sécurité nationale du pays de prolonger l’interdiction des réseaux sociaux russes pour une durée de trois ans supplémentaires.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
