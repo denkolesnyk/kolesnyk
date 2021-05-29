@@ -7,8 +7,8 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
-# Google Analytics
-#googleAnalytics = "UA-2473685-7"
+# Google Analytics 4
+googleAnalyticsID = "G-W1KFR51MCG"
 
 # Syntax highlighting
 pygmentsUseClasses = true

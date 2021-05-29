@@ -9,7 +9,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["posts"]
+mainSection = ["posts"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Google Site Verify
