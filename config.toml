@@ -2,6 +2,7 @@ baseURL = "https://kolesnyk.fr"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 title = "Denys Kolesnyk"
+description = "Le site personnel de Denys Kolesnyk"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -15,4 +16,6 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
-copyright = "2018-2021"
+[params]
+copyright = "Denys Kolesnyk 2018-{{ YEAR }}"
+gtagId = "G-QRCM1BX8HY"
