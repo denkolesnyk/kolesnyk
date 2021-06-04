@@ -6,8 +6,19 @@
     <description>Recent content in Blog on Le site de Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>2018-{{ YEAR }}</copyright>
-    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2018-2021</copyright>
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Russie dévoile son approche envers la sécurité internationale de l&#39;information</title>
+      <link>https://example.com/posts/la-russie-devoile-son-approche-envers-la-securite-internationale-de-linformation/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/la-russie-devoile-son-approche-envers-la-securite-internationale-de-linformation/</guid>
+      
+        <description>Le 12 avril dernier, le document résumant la politique de la Russie envers la sécurité informationnelle dans le contexte international a été dévoilé.</description>
+      
+    </item>
+    
     <item>
       <title>Les Français soutiennent-ils la Russie ? La propagande russe dit « oui »</title>
       <link>https://example.com/posts/les-francais-soutiennent-ils-la-russie-la-propagande-russe-dit-oui/</link>

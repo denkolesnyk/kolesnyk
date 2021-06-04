@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/blog/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/la-russie-devoile-son-approche-envers-la-securite-internationale-de-linformation/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/russie/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/france/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
@@ -20,19 +35,10 @@
     <loc>https://example.com/tags/manipulation-de-linformation/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/tags/propagande/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/ria-novosti/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/russie/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/lukraine-adopte-sa-strategie-de-security-militaire/</loc>
@@ -69,9 +75,6 @@
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</loc>
-    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/commentaire/</loc>
@@ -238,6 +241,8 @@
   </url><url>
     <loc>https://example.com/posts/pourquoi-ce-blog/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/conseil/</loc>
   </url><url>
     <loc>https://example.com/tags/index/</loc>
   </url><url>

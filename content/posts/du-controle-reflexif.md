@@ -13,7 +13,7 @@ Mais, avec l’arrivée du numérique et la prolifération massive d’Internet,
 
 La partie « non-militaire » au sens conventionnel de la guerre de l’information a pour but d’influer sur l’opinion publique d’un pays cible, et par conséquent, d’influencer la prise de décision dans les démocraties. Il serait, donc, important d’examiner sa partie intégrale – le contrôle réflexif (рефлексивное управление).
 
-# Les racines du contrôle réflexif
+## Les racines du contrôle réflexif
 
 {{< figure src="/images/vladimir-lefebvre.jpg" class="left" >}} Vladimir Lefebvre, psychologue et mathématicien soviétique et américain, est considéré comme le « père » du contrôle réflexif et l’a théorisé dans les années 1960.
 
@@ -42,7 +42,7 @@ Une autre chose qui est primordiale à noter, la théorie du contrôle réflexif
 
 En revanche, si au début le contrôle réflexif était vu plutôt comme un outil dans un conflit armé, avec le temps et l’émergence des technologies modernes, cette théorie a reçu un deuxième souffle dans le cadre du volet « non-militaire » de la guerre de l’information.
 
-# Comment ça marche ?
+## Comment ça marche ?
 
 Si l’on simplifie les choses, il s’agit tout simplement de provoquer ou forcer son adversaire à prendre des décisions qui seraient basées sur l’information (vraie et fausse) spécialement conçue afin de le guider vers une décision finale prédéterminée par la partie qui exerce le contrôle réflexif. Ceci est valable à la fois dans le cadre militaire et politique.
 
@@ -65,7 +65,7 @@ Il a identifié quatre méthodes de transmission de l’information à l’ennem
 
 Même s’il considérait le contrôle réflexif dans le cadre militaire, nous pouvons imaginer qu’un nombre des situations (méthodes) décrites peut être également applicable dans le domaine civil.
 
-# Le contrôle réflexif chez Komov
+## Le contrôle réflexif chez Komov
 
 Sur les pages de ce blog nous avons déjà évoqué le colonel soviétique et russe Komov, mais il est encore une fois important de le faire.
 
@@ -86,7 +86,7 @@ Dans ses écrits il divisait la [guerre de l’information](/posts/le-colonel-ko
 
 Le colonel Komov reste l’un des théoriciens les plus avancés, à mon avis, de la guerre de l’information.
 
-# Le contrôle réflexif ≠ la guerre de l’information
+## Le contrôle réflexif ≠ la guerre de l’information
 
 Malgré le fait que le contrôle réflexif ressemble beaucoup à ce que nous entendons dans les médias ou le discours politique sous le terme de guerre de l’information, on ne peut en aucun cas mettre un signe d’égalité entre les deux.
 

@@ -6,8 +6,30 @@
     <description>Recent content in Tags on Le site de Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>2018-{{ YEAR }}</copyright>
-    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2018-2021</copyright>
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Russie</title>
+      <link>https://example.com/tags/russie/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/russie/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>sécurité informationnelle</title>
+      <link>https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>France</title>
       <link>https://example.com/tags/france/</link>
@@ -47,17 +69,6 @@
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/ria-novosti/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Russie</title>
-      <link>https://example.com/tags/russie/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/russie/</guid>
       
         <description></description>
       
@@ -157,17 +168,6 @@
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/iran/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>sécurité informationnelle</title>
-      <link>https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/</link>
-      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/</guid>
       
         <description></description>
       

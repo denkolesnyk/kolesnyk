@@ -3,6 +3,7 @@ title: "Les Français soutiennent-ils la Russie ? La propagande russe dit « ou
 date: "2021-05-26"
 categories: ["Blog"]
 tags: ["France", "manipulation de l'information", "propagande", "Ria Novosti", "Russie"]
+thumbnail: "images/rianovosti.jpg"
 draft: false
 ---
 Il est rare aujourd’hui de croiser quelqu'un qui méconnaisse les notions de « fake news », « désinformation », « manipulation de l'information » ou encore « guerre de l'information ». Depuis quelques années, non seulement le milieu des experts, mais également la société ont (re)découvert le danger de manipulation de l'information ainsi que le rôle de certaines puissances étrangères dans les tentatives de façonnage de l'opinion publique.
@@ -18,8 +19,6 @@ Et même si nous avons une tendance à analyser les activités de puissances ét
 A titre d'exemple, il faut noter le sujet de la perception de la Russie à l'international et l'importance que les Russes y octroient. Cette perception est tellement importante que les médias étatiques russes cherchent à tout prix à présenter aux lecteurs russes une opinion positive ou une approbation des décisions de Kremlin par le public international.
 
 Ici, nous examineront les articles publiés par Ria Novosti, agence gérée par Rossiya Segodnia (du russe : Russie aujourd'hui) - une entité gouvernementale russe établie en 2013 par le décret de Vladimir Poutine. Il est à noter, que Rossiya Segodnia gère, entre autre, les sites tels que Ukraina.ru et Baltnews.lt, ainsi que l'agence Sputnik - une entité qui produit et dissémine de l'information dans plus de 30 langues.
-
-![Un article de Ria Novosti du 15 avril 2021 intitulé « Les Français ont qualifié la Russie de meilleur allié que les États-Unis »](/images/rianovosti.jpg)
 
 Il a été décidé de sélectionner les articles publiés par Ria Novosti car ils visent, avant tout, le public russe en Russie.  Tous les articles sélectionnés contiennent le mot « les Français » dans leurs titres :
 

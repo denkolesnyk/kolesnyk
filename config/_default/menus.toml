@@ -11,7 +11,13 @@
   url = "/posts/"
 
   [[main]]
-  name = "Média"
+  name = "Conseil"
   weight = 300
+  identifier = "conseil"
+  url = "/conseil/"
+
+  [[main]]
+  name = "Média"
+  weight = 400
   identifier = "media"
   url = "/media/"

@@ -3,13 +3,12 @@ title: "COMMENTAIRE : Secret et silence autour des cyber-troupes russes"
 date: 2020-12-10
 categories: ["Commentaire"]
 tags: ["cyber", "guerre de l'information", "OTSC", "Russie", "sécurité informationnelle"]
+thumbnail: "images/mod-ru-satellite-dish-and-troops.jpg"
 draft: false
 ---
 *L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce [lien](https://nci.org.pl/komentarz-mgla-tajemnicy-i-milczenia-wokol-rosyjskich-cyberwojsk/).*
 
 Depuis 2017, le sujet des cyber-troupes russes, ou plus précisément des Forces d’opérations informationnelles, n’est pratiquement pas abordé et les publications sur ce sujet sont rares. Cependant, à la fin de l’année 2019, le ministère de la Défense russe a annoncé le déploiement de cyber-unités dans chaque District militaire de la Russie à la mi-2020. Depuis lors, aucune information n’est disponible concernant ce déploiement. Que cela pourrait-il signifier pour l’Occident, puisqu’il apparait qu’il y a de plus en plus de questions que de réponses concernants les activités russes ?
-
-![L'unité de la 15e armée des Forces aérospatiales russes](/images/mod-ru-satellite-dish-and-troops.jpg)
 
 Il faut noter que sous la notion de cyber, la Russie entend quelque chose d’autre que l’Occident. La première personne à s’exprimer en public concernant la nécessité de création du cyber commandement de la Fédération de Russie était Dmitri Rogozine, le vice-Premier ministre d’alors. Cela a eu lieu en 2012. Ce commandement fut créé au sein de l'état-major des Forces armées de la Fédération russe en 2014, ayant officiellement pour tâche principale la protection contre les interférences extérieures dans les systèmes de communication et de commandement internes. On peut dire que c’est ce moment qui a établi les structures militaires cybers formelles en Russie.
 

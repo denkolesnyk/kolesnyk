@@ -8,11 +8,11 @@ enableEmoji = true
 enableRobotsTXT = true
 
 # Google Analytics 4
-googleAnalyticsID = "G-W1KFR51MCG"
+googleAnalyticsID = "G-QRCM1BX8HY"
 
 # Syntax highlighting
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
-copyright = "2018-{{ YEAR }}"
+copyright = "2018-2021"
