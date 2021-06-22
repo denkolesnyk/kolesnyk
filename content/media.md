@@ -3,6 +3,8 @@ title: Média
 slug: media
 ---
 
+{{< youtube Omn5WmqOpzk >}}
+<br>
 {{< youtube wmVA0LiaIuM >}}
 <br>
 {{< youtube c6d4tP0LYdg >}}
