@@ -3,27 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/blog/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/la-russie-devoile-son-approche-envers-la-securite-internationale-de-linformation/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/confrontation-informationnelle/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/guerre-de-linformation/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/russie/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/s%C3%A9curit%C3%A9-nationale/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/la-russie-devoile-son-approche-envers-la-securite-internationale-de-linformation/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/france/</loc>
@@ -42,9 +54,6 @@
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/lukraine-adopte-sa-strategie-de-security-militaire/</loc>
-    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/s%C3%A9curit%C3%A9-nationale/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/ukraine/</loc>
@@ -66,9 +75,6 @@
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/cyber/</loc>
-    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/guerre-de-linformation/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/iran/</loc>
