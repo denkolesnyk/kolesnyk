@@ -13,6 +13,8 @@ Commentaire pour Narodowy Instytut Cyberbezpieczeństwa (Pologne) : [Komentarz: 
 
 Podcast Signal sur bruit du Centre de documentation de l'École militaire (France) : [Parcours de recherche Denys Kolesnyk et la guerre de l'information](https://www.dems.defense.gouv.fr/cdem/productions/valorisation/voir-ecouter/signal-bruit/parcours-de-recherche-denys-kolesnyk)
 
+Entretien pour Narodowy Instytut Cyberbezpieczeństwa (Pologne) : [Wywiad: Francuski model wzmacniania bezpieczeństwa informacyjnego](https://nci.org.pl/wywiad-francuski-model-wzmacniania-bezpieczenstwa-informacyjnego/)
+
 Intervention dans l'émission "Le Débat" sur France 24 (France) : [L'après Poutine en Russie : tout change...et rien ne change ?](https://youtu.be/c6d4tP0LYdg)
 
 Intervention sur CNews (France) : https://youtu.be/pg7SYwlGPsA
