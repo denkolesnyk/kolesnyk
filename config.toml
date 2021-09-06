@@ -8,8 +8,8 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
-# Google Analytics 4
-googleAnalyticsID = "G-QRCM1BX8HY"
+# Google Analytics
+googleAnalyticsID = "UA-2473685-7"
 
 # Syntax highlighting
 pygmentsUseClasses = true
@@ -18,4 +18,3 @@ pygmentsCodefencesGuessSyntax = true
 
 [params]
 copyright = "Denys Kolesnyk 2018-{{ YEAR }}"
-gtagId = "G-QRCM1BX8HY"
