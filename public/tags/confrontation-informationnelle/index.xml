@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>confrontation informationnelle on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/confrontation-informationnelle/</link>
-    <description>Recent content in confrontation informationnelle on Le site de Denys Kolesnyk</description>
+    <title>confrontation informationnelle on Denys Kolesnyk</title>
+    <link>/tags/confrontation-informationnelle/</link>
+    <description>Recent content in confrontation informationnelle on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/confrontation-informationnelle/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/confrontation-informationnelle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Russie se dote d&#39;une nouvelle Stratégie de sécurité nationale</title>
-      <link>https://example.com/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</link>
+      <link>/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</guid>
-      
-        <description>Après environ un an et demi de travaux sur la nouvelle Stratégie de sécurité nationale (SSN) de la Russie, le processus s&amp;rsquo;est enfin terminé le 2 juin dernier avec la publication du décret N°400.</description>
-      
+      <guid>/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</guid>
+      <description>Après environ un an et demi de travaux sur la nouvelle Stratégie de sécurité nationale (SSN) de la Russie, le processus s&amp;rsquo;est enfin terminé le 2 juin dernier avec la publication du décret N°400. Ce document, signé par le président russe Vladimir Poutine, remplace l&amp;rsquo;ancienne SSN en vigueur depuis le 31 décembre 2015.
+La publication du document stratégique a été rétardée, très probablement en raison des élections présidentielles aux États-Unis, qui, par conséquent, ont suscité la nécessité d’évaluer les positions du nouveau maître de la Maison blanche et d’ajuster certains alinéas du document et d&amp;rsquo;adapter le langage.</description>
     </item>
     
   </channel>

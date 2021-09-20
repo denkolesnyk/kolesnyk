@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soudan on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/soudan/</link>
-    <description>Recent content in Soudan on Le site de Denys Kolesnyk</description>
+    <title>Soudan on Denys Kolesnyk</title>
+    <link>/tags/soudan/</link>
+    <description>Recent content in Soudan on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/soudan/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/soudan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La proposition russe de la stabilisation de la situation au Soudan</title>
-      <link>https://example.com/posts/la-proposition-russe-de-la-stabilisation-de-la-situation-au-soudan/</link>
+      <link>/posts/la-proposition-russe-de-la-stabilisation-de-la-situation-au-soudan/</link>
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-proposition-russe-de-la-stabilisation-de-la-situation-au-soudan/</guid>
-      
-        <description>Les années 2018 et 2019 ont été marquées par des manifestations massives au Soudan contre le président du pays Omar al-Bachir, qui a été renversé le 11 avril dernier suite à un coup d’État organisé par l’armée.</description>
-      
+      <guid>/posts/la-proposition-russe-de-la-stabilisation-de-la-situation-au-soudan/</guid>
+      <description>Les années 2018 et 2019 ont été marquées par des manifestations massives au Soudan contre le président du pays Omar al-Bachir, qui a été renversé le 11 avril dernier suite à un coup d’État organisé par l’armée.
+En avril dernier, après le renversement du régime de Bachir, le site russe MBX Media a publié une enquête sur les activités russes dans le pays dans le but de soutenir le régime. Cette enquête contenait un document intitulé « Le concept de la campagne sur la stabilisation de la situation socio-politique au République de Soudan » qui a été transmis à MBX Media par le centre Dossier, projet non-commercial de Mikhaïl Khodorkovski.</description>
     </item>
     
   </channel>

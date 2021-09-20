@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cyberattaque on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/cyberattaque/</link>
-    <description>Recent content in cyberattaque on Le site de Denys Kolesnyk</description>
+    <title>cyberattaque on Denys Kolesnyk</title>
+    <link>/tags/cyberattaque/</link>
+    <description>Recent content in cyberattaque on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/cyberattaque/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cyberattaque/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Une cyberattaque perturbe (partiellement) la presse aux États-Unis</title>
-      <link>https://example.com/posts/une-cyberattaque-perturbe-partilalement-presse-aux-etats-unis/</link>
+      <link>/posts/une-cyberattaque-perturbe-partilalement-presse-aux-etats-unis/</link>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/une-cyberattaque-perturbe-partilalement-presse-aux-etats-unis/</guid>
-      
-        <description>Je cherchais un sujet pour terminer cette année, et à vrai dire, j’ai déjà écris un article.</description>
-      
+      <guid>/posts/une-cyberattaque-perturbe-partilalement-presse-aux-etats-unis/</guid>
+      <description>Je cherchais un sujet pour terminer cette année, et à vrai dire, j’ai déjà écris un article. Mais ce matin j’ai appris qu’une cyberattaque avait eu lieu aux États-Unis, qui a causé des perturbations majeures au niveau de l’impression et de la distribution des journaux sur la côte Est du pays. Je me suis dis que c’était un très bon exemple à vous donner pour terminer cette année.
+Plusieurs entreprises médiatiques, notamment The Los Angeles Times, ont été touchées par cette cyberattaque.</description>
     </item>
     
   </channel>

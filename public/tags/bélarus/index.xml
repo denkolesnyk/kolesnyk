@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bélarus on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/b%C3%A9larus/</link>
-    <description>Recent content in Bélarus on Le site de Denys Kolesnyk</description>
+    <title>Bélarus on Denys Kolesnyk</title>
+    <link>/tags/b%C3%A9larus/</link>
+    <description>Recent content in Bélarus on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/b%C3%A9larus/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/b%C3%A9larus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La guerre de l’information russe contre le Bélarus</title>
-      <link>https://example.com/posts/la-guerre-de-linformation-russe-contre-le-belarus/</link>
+      <link>/posts/la-guerre-de-linformation-russe-contre-le-belarus/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-guerre-de-linformation-russe-contre-le-belarus/</guid>
-      
-        <description>Le Bélarus n’est pas le genre de pays dont on parle beaucoup.</description>
-      
+      <guid>/posts/la-guerre-de-linformation-russe-contre-le-belarus/</guid>
+      <description>Le Bélarus n’est pas le genre de pays dont on parle beaucoup. Et pourtant, ce pays subit des actions qui peuvent, au final, mener à une perte de souveraineté par Minsk. D’ailleurs, actuellement le Bélarus ne jouit pas de sa pleine souveraineté, mais profite de ce que l’on peut appeler « une souveraineté limitée ».
+Faisant partie de l’ « Union de la Russie et du Bélarus », projet créé en 1997, Minsk peut être considéré comme un « bon élève » en termes d’intégration dans les projets russes, notamment la Communauté des États indépendants (CEI), l’Union économique eurasiatique (UEEA), l’Organisation du traité de sécurité collective (OTSC), etc.</description>
     </item>
     
   </channel>

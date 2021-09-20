@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Twitter on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/twitter/</link>
-    <description>Recent content in Twitter on Le site de Denys Kolesnyk</description>
+    <title>Twitter on Denys Kolesnyk</title>
+    <link>/tags/twitter/</link>
+    <description>Recent content in Twitter on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Russie menace Twitter</title>
-      <link>https://example.com/posts/la-russie-menace-twitter/</link>
+      <link>/posts/la-russie-menace-twitter/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-russie-menace-twitter/</guid>
-      
-        <description>Le 10 mars dernier, le Service fédéral de supervision des communications, des technologies de l&amp;rsquo;information et des médias de masse, connu en version courte comme le Roskomnadzor, a déclaré dans un communiqué de presse « avoir pris des mesures pour défendre les citoyens russes de l’influence du contenu illégal ».</description>
-      
+      <guid>/posts/la-russie-menace-twitter/</guid>
+      <description>Le 10 mars dernier, le Service fédéral de supervision des communications, des technologies de l&amp;rsquo;information et des médias de masse, connu en version courte comme le Roskomnadzor, a déclaré dans un communiqué de presse « avoir pris des mesures pour défendre les citoyens russes de l’influence du contenu illégal ». Plus précisément, il s’agissait du ralentissement de l’accès à Twitter pour les utilisateurs se situant en Russie.
+Selon le Roskomnadzor, cette mesure a été prise car Twitter ne réagissait pas aux multiples demandes de suppression du « contenu encourageant les mineurs au suicide, du contenu pornographique juvénile ainsi que l’information sur l’utilisation de drogues », formulées par les autorités russes dès 2017 et jusqu’à aujourd’hui.</description>
     </item>
     
   </channel>

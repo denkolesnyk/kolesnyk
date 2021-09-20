@@ -1,2 +1,0 @@
-# kolesnyk
-Le site personnel

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iran on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/iran/</link>
-    <description>Recent content in Iran on Le site de Denys Kolesnyk</description>
+    <title>Iran on Denys Kolesnyk</title>
+    <link>/tags/iran/</link>
+    <description>Recent content in Iran on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/iran/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/iran/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Russie et l’Iran signent un accord de coopération dans le domaine de la sécurité informationnelle</title>
-      <link>https://example.com/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</link>
+      <link>/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</guid>
-      
-        <description>Le 26 janvier dernier, la Russie et l’Iran ont signé un accord de coopération dans le domaine de la sécurité informationnelle.</description>
-      
+      <guid>/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</guid>
+      <description>Le 26 janvier dernier, la Russie et l’Iran ont signé un accord de coopération dans le domaine de la sécurité informationnelle. Cette signature a eu lieu à Moscou lors de la visite du ministre des Affaires étrangères de l’Iran, Mohammad Javad Zarif.
+Il faut noter que la Russie a conclu par le passé des accords similaires, notamment dans le cadre de l’Organisation du traité de la sécurité collective (OTSC), ainsi que dans le cadre de la Communauté des États indépendants (CEI).</description>
     </item>
     
   </channel>

@@ -1,43 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>propagande on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/propagande/</link>
-    <description>Recent content in propagande on Le site de Denys Kolesnyk</description>
+    <title>propagande on Denys Kolesnyk</title>
+    <link>/tags/propagande/</link>
+    <description>Recent content in propagande on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/propagande/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/propagande/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les Français soutiennent-ils la Russie ? La propagande russe dit « oui »</title>
-      <link>https://example.com/posts/les-francais-soutiennent-ils-la-russie-la-propagande-russe-dit-oui/</link>
+      <link>/posts/les-francais-soutiennent-ils-la-russie-la-propagande-russe-dit-oui/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/les-francais-soutiennent-ils-la-russie-la-propagande-russe-dit-oui/</guid>
-      
-        <description>Il est rare aujourd’hui de croiser quelqu&amp;rsquo;un qui méconnaisse les notions de « fake news », « désinformation », « manipulation de l&amp;rsquo;information » ou encore « guerre de l&amp;rsquo;information ».</description>
-      
+      <guid>/posts/les-francais-soutiennent-ils-la-russie-la-propagande-russe-dit-oui/</guid>
+      <description>Il est rare aujourd’hui de croiser quelqu&amp;rsquo;un qui méconnaisse les notions de « fake news », « désinformation », « manipulation de l&amp;rsquo;information » ou encore « guerre de l&amp;rsquo;information ». Depuis quelques années, non seulement le milieu des experts, mais également la société ont (re)découvert le danger de manipulation de l&amp;rsquo;information ainsi que le rôle de certaines puissances étrangères dans les tentatives de façonnage de l&amp;rsquo;opinion publique.
+Ce n&amp;rsquo;est pas pour rien que la manipulation de l&amp;rsquo;information et la désinformation sont reconnues comme des enjeux importants dans l&amp;rsquo;Actualisation stratégique publiée par le ministère des Armées au début de l&amp;rsquo;année.</description>
     </item>
     
     <item>
       <title>De la propagande</title>
-      <link>https://example.com/posts/de-la-propagande/</link>
+      <link>/posts/de-la-propagande/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/de-la-propagande/</guid>
-      
-        <description>Aujourd’hui nous parlons beaucoup de la guerre de l’information, de la désinformation, des « mesures actives » ainsi que d’autres activités non amicales, mais nous évoquons également la propagande.</description>
-      
+      <guid>/posts/de-la-propagande/</guid>
+      <description>Aujourd’hui nous parlons beaucoup de la guerre de l’information, de la désinformation, des « mesures actives » ainsi que d’autres activités non amicales, mais nous évoquons également la propagande.
+Ce mot a souvent une connotation négative, cependant, jetons un œil sur la définition de la propagande donnée par le dictionnaire Larousse :
+ Action systématique exercée sur l’opinion pour lui faire accepter certaines idées ou doctrines, notamment dans le domaine politique ou social.</description>
     </item>
     
     <item>
       <title>L’importance du « 9 mai » dans le récit historique russe</title>
-      <link>https://example.com/posts/limportance-du-9-mai-dans-le-recit-historique-russe/</link>
+      <link>/posts/limportance-du-9-mai-dans-le-recit-historique-russe/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/limportance-du-9-mai-dans-le-recit-historique-russe/</guid>
-      
-        <description>La Russie s’apprête à donner un défilé pour marquer « la victoire de l’URSS dans la Grande guerre patriotique », qui est célébrée en Russie et dans ses anciens satellites le 9 mai.</description>
-      
+      <guid>/posts/limportance-du-9-mai-dans-le-recit-historique-russe/</guid>
+      <description>La Russie s’apprête à donner un défilé pour marquer « la victoire de l’URSS dans la Grande guerre patriotique », qui est célébrée en Russie et dans ses anciens satellites le 9 mai. Cette année le leadership russe célébrera cette date dans la solitude, car aucun leader étranger n’assistera à ce défilé (d’après le Kremlin, personne n’a été invité).
+Les défilés locaux ont soit déjà eu lieu, soit auront lieu dans plusieurs autres villes russes.</description>
     </item>
     
   </channel>

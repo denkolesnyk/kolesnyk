@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Commentaire on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/categories/commentaire/</link>
-    <description>Recent content in Commentaire on Le site de Denys Kolesnyk</description>
+    <title>Commentaire on Denys Kolesnyk</title>
+    <link>/categories/commentaire/</link>
+    <description>Recent content in Commentaire on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/commentaire/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/commentaire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COMMENTAIRE : Secret et silence autour des cyber-troupes russes</title>
-      <link>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</link>
+      <link>/posts/secret-et-silence-autour-des-cyber-troupes-russes/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</guid>
-      
-        <description>L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce lien.</description>
-      
+      <guid>/posts/secret-et-silence-autour-des-cyber-troupes-russes/</guid>
+      <description>L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce lien.
+Depuis 2017, le sujet des cyber-troupes russes, ou plus précisément des Forces d’opérations informationnelles, n’est pratiquement pas abordé et les publications sur ce sujet sont rares. Cependant, à la fin de l’année 2019, le ministère de la Défense russe a annoncé le déploiement de cyber-unités dans chaque District militaire de la Russie à la mi-2020.</description>
     </item>
     
     <item>
       <title>COMMENTAIRE : Le MAE russe évalue la situation des droits de l’homme</title>
-      <link>https://example.com/posts/le-mae-russe-evalue-la-situation-des-droits-de-lhomme/</link>
+      <link>/posts/le-mae-russe-evalue-la-situation-des-droits-de-lhomme/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/le-mae-russe-evalue-la-situation-des-droits-de-lhomme/</guid>
-      
-        <description>Le 7 février 2020 le ministère des Affaires étrangères russe a publié le rapport sur la violation des droits de l’homme dans des pays différents.</description>
-      
+      <guid>/posts/le-mae-russe-evalue-la-situation-des-droits-de-lhomme/</guid>
+      <description>Le 7 février 2020 le ministère des Affaires étrangères russe a publié le rapport sur la violation des droits de l’homme dans des pays différents. Cela a provoqué une discussion vive dans les médias polonais.
+La publication du rapport « Sur la situation des droits de l’homme dans certains pays » suit bien la logique de la « guerre des mots » en cours entre la Russie et l’Occident. Cependant, malgré une impression possible que la forte activité de la Russie ne se manifeste que dans le contexte de la « politique historique », en particulier l’échange mutuel d’accusations entre Moscou et Varsovie concernant la Seconde guerre mondiale, le Kremlin est actif dans l’espace informationnel depuis l’époque soviétique.</description>
     </item>
     
   </channel>

@@ -18,7 +18,9 @@ Le texte de l’ordonnance contient trois clauses, dont la première nous annonc
 
 Voici le texte de l’ordonnance ainsi que sa traduction en français :
 
-{{< figure src="/images/ordonnance-russe-roskomnadzor-RU-TLD.png" class="left" >}} 1) Établir que :
+![](/images/ordonnance-russe-roskomnadzor-RU-TLD.png)
+
+1) Établir que :
 au nom de la Fédération de Russie, le Roskomnadzor réalise les fonctions et pouvoirs du fondateur de l’organisation autonome à but non lucratif « Centre de coordination pour le domaine national d’Internet », qui coordonne la création des noms de domaine qui font partie des groupes de noms de domaine qui composent la zone du domaine national russe, et qui est le propriétaire enregistré des bases de données de cette zone dans les organisations internationales pour la distribution des adresses de réseau et des noms de domaine ;
 Des représentants de la Fédération de Russie au sein de la direction de l’organisation autonome à but non lucratif « Centre de coordination pour le domaine national d’Internet » sont nommés par Roskomnadzor.  
 2) Pour l’usage officiel.  

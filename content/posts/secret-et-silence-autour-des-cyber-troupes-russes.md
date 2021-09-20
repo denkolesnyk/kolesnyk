@@ -3,7 +3,6 @@ title: "COMMENTAIRE : Secret et silence autour des cyber-troupes russes"
 date: 2020-12-10
 categories: ["Commentaire"]
 tags: ["cyber", "guerre de l'information", "OTSC", "Russie", "sécurité informationnelle"]
-thumbnail: "images/mod-ru-satellite-dish-and-troops.jpg"
 draft: false
 ---
 *L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce [lien](https://nci.org.pl/komentarz-mgla-tajemnicy-i-milczenia-wokol-rosyjskich-cyberwojsk/).*

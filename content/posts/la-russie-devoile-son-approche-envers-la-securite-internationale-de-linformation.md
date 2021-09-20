@@ -3,7 +3,6 @@ title: "La Russie dévoile son approche envers la sécurité internationale de l
 date: "2021-06-04"
 categories: ["Blog"]
 tags: ["sécurité informationnelle", "Russie"]
-thumbnail: "images/politique-securite-internationale-information-russie-2021.jpg"
 draft: false
 ---
  

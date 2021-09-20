@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>contrôle réflexif on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/contr%C3%B4le-r%C3%A9flexif/</link>
-    <description>Recent content in contrôle réflexif on Le site de Denys Kolesnyk</description>
+    <title>contrôle réflexif on Denys Kolesnyk</title>
+    <link>/tags/contr%C3%B4le-r%C3%A9flexif/</link>
+    <description>Recent content in contrôle réflexif on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/contr%C3%B4le-r%C3%A9flexif/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/contr%C3%B4le-r%C3%A9flexif/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Du contrôle réflexif</title>
-      <link>https://example.com/posts/du-controle-reflexif/</link>
+      <link>/posts/du-controle-reflexif/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/du-controle-reflexif/</guid>
-      
-        <description>Dans les démocraties, l’opinion publique se trouve au coeur du fonctionnement même de la société et est un facteur majeur d’influence de la prise de décision par les autorités.</description>
-      
+      <guid>/posts/du-controle-reflexif/</guid>
+      <description>Dans les démocraties, l’opinion publique se trouve au coeur du fonctionnement même de la société et est un facteur majeur d’influence de la prise de décision par les autorités.
+Cependant, l’opinion publique peut non seulement exercer une pression sur le gouvernement dans la prise de décision, mais le gouvernement peut également prendre des mesures afin de l’influencer pour appuyer sa décision ou créer un soutien pour une réforme.
+Mais, avec l’arrivée du numérique et la prolifération massive d’Internet, l’opinion publique peut être façonnée de l’extérieur, notamment par des puissances étrangères.</description>
     </item>
     
     <item>
       <title>Vladislav Sourkov sur le « long État de Poutine »</title>
-      <link>https://example.com/posts/vladislav-sourkov-sur-le-long-etat-de-potine/</link>
+      <link>/posts/vladislav-sourkov-sur-le-long-etat-de-potine/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/vladislav-sourkov-sur-le-long-etat-de-potine/</guid>
-      
-        <description>Il y a quelques jours Vladislav Sourkov, l’homme derrière le concept de « verticale du pouvoir » et de « démocratie souveraine » du premier mandat présidentiel de Vladimir Poutine, a publié un article d’opinion sur Nezavisimaïa Gazeta intitulé « Le long État de Poutine » où il expose son point de vue sur plusieurs thèmes tels que les élections, l’État russe, les relations internationales etc.</description>
-      
+      <guid>/posts/vladislav-sourkov-sur-le-long-etat-de-potine/</guid>
+      <description>Il y a quelques jours Vladislav Sourkov, l’homme derrière le concept de « verticale du pouvoir » et de « démocratie souveraine » du premier mandat présidentiel de Vladimir Poutine, a publié un article d’opinion sur Nezavisimaïa Gazeta intitulé « Le long État de Poutine » où il expose son point de vue sur plusieurs thèmes tels que les élections, l’État russe, les relations internationales etc.
+Il explique que la « machine politique de Poutine » ne fait que prendre de l’ampleur et prédit que d’ici plusieurs années la Russie resterait « l’État de Poutine ».</description>
     </item>
     
   </channel>

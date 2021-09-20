@@ -1,87 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sécurité informationnelle on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/</link>
-    <description>Recent content in sécurité informationnelle on Le site de Denys Kolesnyk</description>
+    <title>sécurité informationnelle on Denys Kolesnyk</title>
+    <link>/tags/s%C3%A9curit%C3%A9-informationnelle/</link>
+    <description>Recent content in sécurité informationnelle on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/s%C3%A9curit%C3%A9-informationnelle/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/s%C3%A9curit%C3%A9-informationnelle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Russie se dote d&#39;une nouvelle Stratégie de sécurité nationale</title>
-      <link>https://example.com/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</link>
+      <link>/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</guid>
-      
-        <description>Après environ un an et demi de travaux sur la nouvelle Stratégie de sécurité nationale (SSN) de la Russie, le processus s&amp;rsquo;est enfin terminé le 2 juin dernier avec la publication du décret N°400.</description>
-      
+      <guid>/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</guid>
+      <description>Après environ un an et demi de travaux sur la nouvelle Stratégie de sécurité nationale (SSN) de la Russie, le processus s&amp;rsquo;est enfin terminé le 2 juin dernier avec la publication du décret N°400. Ce document, signé par le président russe Vladimir Poutine, remplace l&amp;rsquo;ancienne SSN en vigueur depuis le 31 décembre 2015.
+La publication du document stratégique a été rétardée, très probablement en raison des élections présidentielles aux États-Unis, qui, par conséquent, ont suscité la nécessité d’évaluer les positions du nouveau maître de la Maison blanche et d’ajuster certains alinéas du document et d&amp;rsquo;adapter le langage.</description>
     </item>
     
     <item>
       <title>La Russie dévoile son approche envers la sécurité internationale de l&#39;information</title>
-      <link>https://example.com/posts/la-russie-devoile-son-approche-envers-la-securite-internationale-de-linformation/</link>
+      <link>/posts/la-russie-devoile-son-approche-envers-la-securite-internationale-de-linformation/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-russie-devoile-son-approche-envers-la-securite-internationale-de-linformation/</guid>
-      
-        <description>Le 12 avril dernier, le document résumant la politique de la Russie envers la sécurité informationnelle dans le contexte international a été dévoilé.</description>
-      
+      <guid>/posts/la-russie-devoile-son-approche-envers-la-securite-internationale-de-linformation/</guid>
+      <description>Le 12 avril dernier, le document résumant la politique de la Russie envers la sécurité informationnelle dans le contexte international a été dévoilé. Ce document s’appelle « Les principes fondamentaux de la politique de la Fédération russe dans le domaine de la sécurité internationale de l’information » et est disponible sur le site du Conseil de sécurité de Russie (en langue russe).
+Bien que ce document soit passé inaperçu dans les médias, il est néanmoins intéressant de l’examiner.</description>
     </item>
     
     <item>
       <title>La Russie et l’Iran signent un accord de coopération dans le domaine de la sécurité informationnelle</title>
-      <link>https://example.com/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</link>
+      <link>/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</guid>
-      
-        <description>Le 26 janvier dernier, la Russie et l’Iran ont signé un accord de coopération dans le domaine de la sécurité informationnelle.</description>
-      
+      <guid>/posts/la-russie-et-liran-signent-un-accord-de-la-cooperation-dans-le-domaine-de-la-securite-informationnelle/</guid>
+      <description>Le 26 janvier dernier, la Russie et l’Iran ont signé un accord de coopération dans le domaine de la sécurité informationnelle. Cette signature a eu lieu à Moscou lors de la visite du ministre des Affaires étrangères de l’Iran, Mohammad Javad Zarif.
+Il faut noter que la Russie a conclu par le passé des accords similaires, notamment dans le cadre de l’Organisation du traité de la sécurité collective (OTSC), ainsi que dans le cadre de la Communauté des États indépendants (CEI).</description>
     </item>
     
     <item>
       <title>COMMENTAIRE : Secret et silence autour des cyber-troupes russes</title>
-      <link>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</link>
+      <link>/posts/secret-et-silence-autour-des-cyber-troupes-russes/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</guid>
-      
-        <description>L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce lien.</description>
-      
+      <guid>/posts/secret-et-silence-autour-des-cyber-troupes-russes/</guid>
+      <description>L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce lien.
+Depuis 2017, le sujet des cyber-troupes russes, ou plus précisément des Forces d’opérations informationnelles, n’est pratiquement pas abordé et les publications sur ce sujet sont rares. Cependant, à la fin de l’année 2019, le ministère de la Défense russe a annoncé le déploiement de cyber-unités dans chaque District militaire de la Russie à la mi-2020.</description>
     </item>
     
     <item>
       <title>L&#39;infoguerre dans les stratégies de sécurité nationale polonaise et ukrainienne</title>
-      <link>https://example.com/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</link>
+      <link>/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</guid>
-      
-        <description>Cette année, un certain nombre de pays se dote de nouvelles versions de leurs documents stratégiques, dont la Pologne, l’Ukraine et la Russie.</description>
-      
+      <guid>/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</guid>
+      <description>Cette année, un certain nombre de pays se dote de nouvelles versions de leurs documents stratégiques, dont la Pologne, l’Ukraine et la Russie. En septembre, l&amp;rsquo;Ukraine a adopté une nouvelle Stratégie de la sécurité nationale (plus loin - Stratégie), alors que son voisin - la Pologne - s’est doté de sa Stratégie au mois de mai dernier. De son côté, la Stratégie russe devrait voir le jour en fin d’année.</description>
     </item>
     
     <item>
       <title>L’Ukraine prolongerait l’interdiction des réseaux sociaux russes</title>
-      <link>https://example.com/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</link>
+      <link>/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</guid>
-      
-        <description>Le chef du Service de sécurité d’Ukraine (SBU), Ivan Bakanov, a proposé au Conseil de sécurité nationale du pays de prolonger l’interdiction des réseaux sociaux russes pour une durée de trois ans supplémentaires.</description>
-      
+      <guid>/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</guid>
+      <description>Le chef du Service de sécurité d’Ukraine (SBU), Ivan Bakanov, a proposé au Conseil de sécurité nationale du pays de prolonger l’interdiction des réseaux sociaux russes pour une durée de trois ans supplémentaires. Il s’agit de réseaux sociaux comme « VKontakte » (aussi connu comme VK) et « Odnoklassniki », qui sont désormais interdits en Ukraine depuis mai 2017.
+Cette interdiction initiale a été promulguée par Petro Porochenko, alors président d’Ukraine, qui s’inscrivait légalement dans le cadre des sanctions introduites par l’Ukraine à l’égard de la Russie pour son annexion illégale de la Crimée et la guerre dans le Donbas.</description>
     </item>
     
     <item>
       <title>La Russie se dotera d’une nouvelle Stratégie de sécurité nationale en 2020</title>
-      <link>https://example.com/posts/la-russie-se-dotera-d-une-nouvelle-strategie-de-securite-natioale-en-2020/</link>
+      <link>/posts/la-russie-se-dotera-d-une-nouvelle-strategie-de-securite-natioale-en-2020/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-russie-se-dotera-d-une-nouvelle-strategie-de-securite-natioale-en-2020/</guid>
-      
-        <description>Le Conseil de sécurité de Russie a commencé l’élaboration d’une nouvelle Stratégie de sécurité nationale.</description>
-      
+      <guid>/posts/la-russie-se-dotera-d-une-nouvelle-strategie-de-securite-natioale-en-2020/</guid>
+      <description>Le Conseil de sécurité de Russie a commencé l’élaboration d’une nouvelle Stratégie de sécurité nationale. Cela a été rapporté par Novaïa Gazeta. La nouvelle Stratégie devrait voir le jour en 2020, vu que la version en vigueur nécessite des ajustements, étant donné qu’elle a été signé par le président russe il y a cinq ans, le 31 décembre 2015.
+D’après le Conseil de sécurité russe, dans la nouvelle version du document il faut clarifier certaines dispositions « en tenant compte de la situation internationale actuelle et de la situation dans le pays ».</description>
     </item>
     
   </channel>

@@ -17,7 +17,7 @@ Dans le cadre de ce blog, nous nous intéressons principalement à la composante
 
 Il faut premièrement souligner que si la stratégie polonaise insiste sur une distinction entre cybersécurité et espace informationnel en lui consacrant une attention particulière dans le cadre du premier « pilier », ce n’est pas le cas de l’Ukraine qui ne sépare pas cette composante informationnelle du cadre général de sa stratégie.
 
-# La guerre de l’information absente dans les deux documents
+## La guerre de l’information absente dans les deux documents
 
 Structurellement, le document polonais se focalise sur les quatre « piliers » qui lui servent de chapitres. Le document ukrainien est, quant à lui, divisé en cinq parties.
 
@@ -29,7 +29,7 @@ En analysant ces deux documents, on se rend rapidement compte que la Stratégie 
 
 Il est également intéressant de souligner l’apparition de l’expression « propagande destructrice » dans le document ukrainien (alors qu’elle sera complètement absente du document polonais). En revanche le mot « désinformation » a été relevé trois fois dans le document polonais et est complètement absent dans le document ukrainien.
 
-# Le cyber et l’information dans la Stratégie polonaise
+## Le cyber et l’information dans la Stratégie polonaise
 
 Comme il a déjà été précisé, le document polonais contient un sous-chapitre dédié à la cybersécurité et un autre traitant de l’espace informationnel.
 
@@ -43,7 +43,7 @@ Le document a également pour ambition de créer un « système homogène » de 
 
 Pour d’assurer le fonctionnement sécurisé de l'État et de ses citoyens dans l'espace informationnel, il est envisagé une sensibilisation du public aux menaces liées à la manipulation de l'information à travers l'éducation dans le domaine de la sécurité informationnelle.
 
-# L’approche ukrainienne du cyber et de l’information dans la Stratégie
+## L’approche ukrainienne du cyber et de l’information dans la Stratégie
 
 La Stratégie de la sécurité nationale ukrainienne est basée sur trois principes : l’endiguement, la fermeté, et l’interaction. Le document note l'absence d'une politique informationnelle cohérente au niveau de l’État ainsi que la faiblesse du système de communication stratégique parmi les facteurs qui rendent difficile la neutralisation d’une « propagande destructrice ».
 
@@ -55,7 +55,7 @@ Le document note également « l’utilisation de l’arme énergétique et info
 
 La Stratégie évoque, enfin, le fait que l’Ukraine doit contrer de façon efficace, entre autres, « les opérations informationnelles spéciales ainsi que les cybermenaces, la propagande subversive russe et autre ». L’une des tâches principales de l’État ukrainien au niveau du développement du système de cybersécurité, d’après le document, est d’assurer « la cyber résilience et la cybersécurité de l’infrastructure informationnelle nationale ».
 
-# Le mot de la fin
+## Le mot de la fin
 
 Même si chaque État a le droit d’élaborer ses documents stratégiques sous la forme qu’il juge la plus opportune, il est toutefois nécessaire qu’une stratégie de sécurité nationale établisse clairement la vision de l’État sur les menaces présentes et à venir et sur la façon de les contrer. Et que, si nécessaire, elles soient le point de départ à l’élaboration de documents supplémentaires.
 

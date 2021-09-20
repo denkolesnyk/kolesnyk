@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OTSC on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/otsc/</link>
-    <description>Recent content in OTSC on Le site de Denys Kolesnyk</description>
+    <title>OTSC on Denys Kolesnyk</title>
+    <link>/tags/otsc/</link>
+    <description>Recent content in OTSC on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/otsc/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/otsc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COMMENTAIRE : Secret et silence autour des cyber-troupes russes</title>
-      <link>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</link>
+      <link>/posts/secret-et-silence-autour-des-cyber-troupes-russes/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/secret-et-silence-autour-des-cyber-troupes-russes/</guid>
-      
-        <description>L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce lien.</description>
-      
+      <guid>/posts/secret-et-silence-autour-des-cyber-troupes-russes/</guid>
+      <description>L’original du commentaire est publié en langue polonaise pour le think-tank Narodowy Instytut Cyberbezpieczeństwa (Institut national de cybersécurité) et est accessible via ce lien.
+Depuis 2017, le sujet des cyber-troupes russes, ou plus précisément des Forces d’opérations informationnelles, n’est pratiquement pas abordé et les publications sur ce sujet sont rares. Cependant, à la fin de l’année 2019, le ministère de la Défense russe a annoncé le déploiement de cyber-unités dans chaque District militaire de la Russie à la mi-2020.</description>
     </item>
     
     <item>
       <title>La Russie engagerait l’OTSC dans la guerre de l’information</title>
-      <link>https://example.com/posts/la-russie-engagerait-lotsc-dans-la-guerre-de-linformation/</link>
+      <link>/posts/la-russie-engagerait-lotsc-dans-la-guerre-de-linformation/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-russie-engagerait-lotsc-dans-la-guerre-de-linformation/</guid>
-      
-        <description>Hier, le 20 juin 2019, le vice ministre de la Défense russe, Andreï Kartapolov, a proposé de formuler une politique informationnelle unique pour tous les pays membres de l’OTSC (Organisation du traité de sécurité collective), bloc militaire sous l’égide de la Russie.</description>
-      
+      <guid>/posts/la-russie-engagerait-lotsc-dans-la-guerre-de-linformation/</guid>
+      <description>Hier, le 20 juin 2019, le vice ministre de la Défense russe, Andreï Kartapolov, a proposé de formuler une politique informationnelle unique pour tous les pays membres de l’OTSC (Organisation du traité de sécurité collective), bloc militaire sous l’égide de la Russie.
+« Une attention particulière est accordée aujourd’hui aux questions de l’élaboration d’une politique informationnelle active et coordonnée des États membres de l’OTSC, au développement d’un espace informationnel commun, à la création d’un potentiel conjoint afin de contrer les menaces informationnelles.</description>
     </item>
     
   </channel>

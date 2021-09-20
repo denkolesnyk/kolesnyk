@@ -3,10 +3,11 @@ title: "Les Français soutiennent-ils la Russie ? La propagande russe dit « ou
 date: "2021-05-26"
 categories: ["Blog"]
 tags: ["France", "manipulation de l'information", "propagande", "Ria Novosti", "Russie"]
-thumbnail: "images/rianovosti.jpg"
 draft: false
 ---
-Il est rare aujourd’hui de croiser quelqu'un qui méconnaisse les notions de « fake news », « désinformation », « manipulation de l'information » ou encore « guerre de l'information ». Depuis quelques années, non seulement le milieu des experts, mais également la société ont (re)découvert le danger de manipulation de l'information ainsi que le rôle de certaines puissances étrangères dans les tentatives de façonnage de l'opinion publique.
+
+
+![](/images/rianovosti-les-francais.jpg) Il est rare aujourd’hui de croiser quelqu'un qui méconnaisse les notions de « fake news », « désinformation », « manipulation de l'information » ou encore « guerre de l'information ». Depuis quelques années, non seulement le milieu des experts, mais également la société ont (re)découvert le danger de manipulation de l'information ainsi que le rôle de certaines puissances étrangères dans les tentatives de façonnage de l'opinion publique.
 
 Ce n'est pas pour rien que la manipulation de l'information et la désinformation sont reconnues comme des enjeux importants dans [l'Actualisation stratégique](https://www.defense.gouv.fr/dgris/presentation/evenements/actualisation-strategique-2021) publiée par le ministère des Armées au début de l'année.
 

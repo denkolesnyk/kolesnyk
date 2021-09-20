@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Roskomnadzor on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/roskomnadzor/</link>
-    <description>Recent content in Roskomnadzor on Le site de Denys Kolesnyk</description>
+    <title>Roskomnadzor on Denys Kolesnyk</title>
+    <link>/tags/roskomnadzor/</link>
+    <description>Recent content in Roskomnadzor on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/roskomnadzor/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/roskomnadzor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roskomnadzor controlerait le domaine national d&#39;Internet russe</title>
-      <link>https://example.com/posts/roskomnadzor-controlerait-le-domaine-national-d-internet-russe/</link>
+      <link>/posts/roskomnadzor-controlerait-le-domaine-national-d-internet-russe/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/roskomnadzor-controlerait-le-domaine-national-d-internet-russe/</guid>
-      
-        <description>Le 9 mars dernier, le premier ministre russe Mikhaïl Michoustine a signé l’ordonnance N° 584-p qui nomme le Roskomnadzor (Service fédéral de supervision des communications, des technologies de l’information et des médias de masse) en tant que l’un des fondateurs du Centre de coordination pour le domaine national d’Internet (ci-après nommé Centre).</description>
-      
+      <guid>/posts/roskomnadzor-controlerait-le-domaine-national-d-internet-russe/</guid>
+      <description>Le 9 mars dernier, le premier ministre russe Mikhaïl Michoustine a signé l’ordonnance N° 584-p qui nomme le Roskomnadzor (Service fédéral de supervision des communications, des technologies de l’information et des médias de masse) en tant que l’un des fondateurs du Centre de coordination pour le domaine national d’Internet (ci-après nommé Centre).
+L’ordonnance n’arrive pas par surprise, étant donné que son projet a été rendu public le 27 mai 2019 et annonçait l’entrée du Roskomnadzor au sein des fondateurs du Centre de coordination pour le domaine national d’Internet.</description>
     </item>
     
   </channel>

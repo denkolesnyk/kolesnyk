@@ -1,7 +1,9 @@
-+++
-title = "À propos"
-slug = "a-propos"
-+++
+---
+title: "À propos"
+slug: "a-propos"
+menu: "main"
+draft: "false"
+---
 
 Denys Kolesnyk est un analyste politique, consultant et chercheur français basé à Paris. Il est spécialiste des questions de sécurité et de défense en Europe centrale et orientale, notamment la Pologne, l’Ukraine et la Russie. Plus particuliérement, il se focalise sur la guerre de l'information et l'influence.
 

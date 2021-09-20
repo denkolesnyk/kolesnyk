@@ -1,7 +1,6 @@
 ---
 title: "Celui qui contrôle l’espace informationnel ukrainien contrôle l’Ukraine"
 date: 2019-07-03
-description: "Alors que l’Ukraine approche des élections législatives anticipées, prévues pour le 21 juillet 2019, le contrôle de l’espace informationnel ukrainien par l’oligarchie reprend de l’importance."
 categories: ["Blog"]
 tags: ["guerre de l'information", "Inter", "Russie", "Ukraine"]
 draft: false

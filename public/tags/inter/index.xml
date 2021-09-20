@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inter on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/inter/</link>
-    <description>Recent content in Inter on Le site de Denys Kolesnyk</description>
+    <title>Inter on Denys Kolesnyk</title>
+    <link>/tags/inter/</link>
+    <description>Recent content in Inter on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/inter/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/inter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Celui qui contrôle l’espace informationnel ukrainien contrôle l’Ukraine</title>
-      <link>https://example.com/posts/celui-qui-controle-lespace-informationnel-ukrainien-controle-lukraine/</link>
+      <link>/posts/celui-qui-controle-lespace-informationnel-ukrainien-controle-lukraine/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/celui-qui-controle-lespace-informationnel-ukrainien-controle-lukraine/</guid>
-      
-        <description>D’après la presse ukrainienne, Viktor Medvedtchouk, l’oligarque ukrainien et proche du président Vladimir Poutine (il n’est pas secret que Poutine est le parrain de sa fille) a récemment acheté 80% des parts de l’une de plus grandes chaîne ukrainienne – Inter.</description>
-      
+      <guid>/posts/celui-qui-controle-lespace-informationnel-ukrainien-controle-lukraine/</guid>
+      <description>D’après la presse ukrainienne, Viktor Medvedtchouk, l’oligarque ukrainien et proche du président Vladimir Poutine (il n’est pas secret que Poutine est le parrain de sa fille) a récemment acheté 80% des parts de l’une de plus grandes chaîne ukrainienne – Inter.
+Il devient donc le patron de quatre chaînes ukrainiennes de niveau national. Il s’agit de 112 Ukraine, NewsOne, Zik et Inter, qu’il a consolidé dans ses mains de jure ou de facto dans le cadre du groupe média « Novyny ».</description>
     </item>
     
   </channel>

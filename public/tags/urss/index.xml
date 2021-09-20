@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>URSS on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/urss/</link>
-    <description>Recent content in URSS on Le site de Denys Kolesnyk</description>
+    <title>URSS on Denys Kolesnyk</title>
+    <link>/tags/urss/</link>
+    <description>Recent content in URSS on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/urss/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/urss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L’importance du « 9 mai » dans le récit historique russe</title>
-      <link>https://example.com/posts/limportance-du-9-mai-dans-le-recit-historique-russe/</link>
+      <link>/posts/limportance-du-9-mai-dans-le-recit-historique-russe/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/limportance-du-9-mai-dans-le-recit-historique-russe/</guid>
-      
-        <description>La Russie s’apprête à donner un défilé pour marquer « la victoire de l’URSS dans la Grande guerre patriotique », qui est célébrée en Russie et dans ses anciens satellites le 9 mai.</description>
-      
+      <guid>/posts/limportance-du-9-mai-dans-le-recit-historique-russe/</guid>
+      <description>La Russie s’apprête à donner un défilé pour marquer « la victoire de l’URSS dans la Grande guerre patriotique », qui est célébrée en Russie et dans ses anciens satellites le 9 mai. Cette année le leadership russe célébrera cette date dans la solitude, car aucun leader étranger n’assistera à ce défilé (d’après le Kremlin, personne n’a été invité).
+Les défilés locaux ont soit déjà eu lieu, soit auront lieu dans plusieurs autres villes russes.</description>
     </item>
     
   </channel>

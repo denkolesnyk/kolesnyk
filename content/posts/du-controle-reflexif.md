@@ -15,7 +15,7 @@ La partie « non-militaire » au sens conventionnel de la guerre de l’informat
 
 ## Les racines du contrôle réflexif
 
-{{< figure src="/images/vladimir-lefebvre.jpg" class="left" >}} Vladimir Lefebvre, psychologue et mathématicien soviétique et américain, est considéré comme le « père » du contrôle réflexif et l’a théorisé dans les années 1960.
+![](/images/vladimir-lefebvre.jpg)Vladimir Lefebvre, psychologue et mathématicien soviétique et américain, est considéré comme le « père » du contrôle réflexif et l’a théorisé dans les années 1960.
 
 Il l’a défini comme : « le processus dans lequel l’un des adversaire transmet à l’autre les bases pour la prise de décision ». Au début, le contrôle réflexif n’a été considéré qu’à des fins militaires.
 
@@ -54,7 +54,7 @@ D’après S. Leonenko, afin de mener à bien le contrôle réflexif, une étude
 
 Ce « filtre » peut être considéré comme les capacités intellectuelles, de réflexion, connaissance de l’adversaire, l’expérience, etc. qui aide à distinguer l’information nécessaire de celle qui n’a aucune importance, ou encore les données vraies des fausses.
 
-{{< figure src="/images/mikhail-ionov.jpg" class="left" >}} Un autre spécialiste dans ce domaine, qui évoquait le contrôle de l’ennemi au lieu du contrôle réflexif, était Mikhail Ionov.
+![](/images/mikhail-ionov.jpg)Un autre spécialiste dans ce domaine, qui évoquait le contrôle de l’ennemi au lieu du contrôle réflexif, était Mikhail Ionov.
 
 Il a identifié quatre méthodes de transmission de l’information à l’ennemi afin d’arriver à un contrôle réflexif à son égard :
 
@@ -71,7 +71,7 @@ Sur les pages de ce blog nous avons déjà évoqué le colonel soviétique et ru
 
 Dans ses écrits il divisait la [guerre de l’information](/posts/le-colonel-komov-et-la-guerre-de-l-information.md) en trois catégories, y compris la **catégorie intellectuelle**. Cette catégorie comprend, d’après lui, plusieurs éléments ou méthodes, notamment :
 
-{{< figure src="/images/serguei-komov.jpg" class="left" >}} 
+![](/images/serguei-komov.jpg)
 1. distraction – la création d’une menace réelle ou fausse à l’endroit critique du déploiement des troupes de l’adversaire ; 
 2. surcharge – l’envoie d’une grande quantité d’informations contradictoires à l’ennemi ; 
 3. paralyse – la création des perceptions de menaces spéciales aux intérêts vitaux ou les endroits les plus faibles de l’adversaire ;

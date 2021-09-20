@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sécurité nationale on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/s%C3%A9curit%C3%A9-nationale/</link>
-    <description>Recent content in sécurité nationale on Le site de Denys Kolesnyk</description>
+    <title>sécurité nationale on Denys Kolesnyk</title>
+    <link>/tags/s%C3%A9curit%C3%A9-nationale/</link>
+    <description>Recent content in sécurité nationale on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/s%C3%A9curit%C3%A9-nationale/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/s%C3%A9curit%C3%A9-nationale/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Russie se dote d&#39;une nouvelle Stratégie de sécurité nationale</title>
-      <link>https://example.com/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</link>
+      <link>/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</guid>
-      
-        <description>Après environ un an et demi de travaux sur la nouvelle Stratégie de sécurité nationale (SSN) de la Russie, le processus s&amp;rsquo;est enfin terminé le 2 juin dernier avec la publication du décret N°400.</description>
-      
+      <guid>/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/</guid>
+      <description>Après environ un an et demi de travaux sur la nouvelle Stratégie de sécurité nationale (SSN) de la Russie, le processus s&amp;rsquo;est enfin terminé le 2 juin dernier avec la publication du décret N°400. Ce document, signé par le président russe Vladimir Poutine, remplace l&amp;rsquo;ancienne SSN en vigueur depuis le 31 décembre 2015.
+La publication du document stratégique a été rétardée, très probablement en raison des élections présidentielles aux États-Unis, qui, par conséquent, ont suscité la nécessité d’évaluer les positions du nouveau maître de la Maison blanche et d’ajuster certains alinéas du document et d&amp;rsquo;adapter le langage.</description>
     </item>
     
     <item>
       <title>L&#39;Ukraine adopte sa Stratégie de sécurité militaire</title>
-      <link>https://example.com/posts/lukraine-adopte-sa-strategie-de-security-militaire/</link>
+      <link>/posts/lukraine-adopte-sa-strategie-de-security-militaire/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/lukraine-adopte-sa-strategie-de-security-militaire/</guid>
-      
-        <description>Le président ukrainien Volodymyr Zelenskyy vient d&amp;rsquo;approuver la Stratégie de sécurité militaire de l&amp;rsquo;Ukraine, qui envisage une aggression armée russe à grande échelle.</description>
-      
+      <guid>/posts/lukraine-adopte-sa-strategie-de-security-militaire/</guid>
+      <description>Le président ukrainien Volodymyr Zelenskyy vient d&amp;rsquo;approuver la Stratégie de sécurité militaire de l&amp;rsquo;Ukraine, qui envisage une aggression armée russe à grande échelle. Pour la première fois dans le langage officiel ukrainien, ce document introduit la notion de « défense complète » tout en reconnaissant que le pays se trouve dans les conditions d&amp;rsquo;une « menace militaire existentielle ».
+Le travail sur ce document a été possible suite à l&amp;rsquo;introduction d&amp;rsquo;une nouvelle rédaction de la Stratégie de sécurité nationale, approuvée par l&amp;rsquo;administration Zelenskyy en septembre 2020.</description>
     </item>
     
   </channel>

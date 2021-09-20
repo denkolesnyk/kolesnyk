@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pologne on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/pologne/</link>
-    <description>Recent content in Pologne on Le site de Denys Kolesnyk</description>
+    <title>Pologne on Denys Kolesnyk</title>
+    <link>/tags/pologne/</link>
+    <description>Recent content in Pologne on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/pologne/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/pologne/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;infoguerre dans les stratégies de sécurité nationale polonaise et ukrainienne</title>
-      <link>https://example.com/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</link>
+      <link>/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</guid>
-      
-        <description>Cette année, un certain nombre de pays se dote de nouvelles versions de leurs documents stratégiques, dont la Pologne, l’Ukraine et la Russie.</description>
-      
+      <guid>/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</guid>
+      <description>Cette année, un certain nombre de pays se dote de nouvelles versions de leurs documents stratégiques, dont la Pologne, l’Ukraine et la Russie. En septembre, l&amp;rsquo;Ukraine a adopté une nouvelle Stratégie de la sécurité nationale (plus loin - Stratégie), alors que son voisin - la Pologne - s’est doté de sa Stratégie au mois de mai dernier. De son côté, la Stratégie russe devrait voir le jour en fin d’année.</description>
     </item>
     
     <item>
       <title>COMMENTAIRE : Le MAE russe évalue la situation des droits de l’homme</title>
-      <link>https://example.com/posts/le-mae-russe-evalue-la-situation-des-droits-de-lhomme/</link>
+      <link>/posts/le-mae-russe-evalue-la-situation-des-droits-de-lhomme/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/le-mae-russe-evalue-la-situation-des-droits-de-lhomme/</guid>
-      
-        <description>Le 7 février 2020 le ministère des Affaires étrangères russe a publié le rapport sur la violation des droits de l’homme dans des pays différents.</description>
-      
+      <guid>/posts/le-mae-russe-evalue-la-situation-des-droits-de-lhomme/</guid>
+      <description>Le 7 février 2020 le ministère des Affaires étrangères russe a publié le rapport sur la violation des droits de l’homme dans des pays différents. Cela a provoqué une discussion vive dans les médias polonais.
+La publication du rapport « Sur la situation des droits de l’homme dans certains pays » suit bien la logique de la « guerre des mots » en cours entre la Russie et l’Occident. Cependant, malgré une impression possible que la forte activité de la Russie ne se manifeste que dans le contexte de la « politique historique », en particulier l’échange mutuel d’accusations entre Moscou et Varsovie concernant la Seconde guerre mondiale, le Kremlin est actif dans l’espace informationnel depuis l’époque soviétique.</description>
     </item>
     
   </channel>

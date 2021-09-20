@@ -1,43 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>États-Unis on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/%C3%A9tats-unis/</link>
-    <description>Recent content in États-Unis on Le site de Denys Kolesnyk</description>
+    <title>États-Unis on Denys Kolesnyk</title>
+    <link>/tags/%C3%A9tats-unis/</link>
+    <description>Recent content in États-Unis on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/%C3%A9tats-unis/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%C3%A9tats-unis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La désinformation russe se saisit du Covid-19</title>
-      <link>https://example.com/posts/la-desinformation-russe-se-saisit-du-covid-19/</link>
+      <link>/posts/la-desinformation-russe-se-saisit-du-covid-19/</link>
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-desinformation-russe-se-saisit-du-covid-19/</guid>
-      
-        <description>La Russie déploie de la désinformation sur Covid-19, selon la dépêche de Reuters, qui cite le document de l’UE.</description>
-      
+      <guid>/posts/la-desinformation-russe-se-saisit-du-covid-19/</guid>
+      <description>La Russie déploie de la désinformation sur Covid-19, selon la dépêche de Reuters, qui cite le document de l’UE. On peut y lire, que la Russie dissémine de la désinformation sur le coronavirus afin de semer la panique en Occident. Selon le document, la Russie utilise « des informations contradictoires confuses et malveillantes » dans sa campagne de désinformation afin de « rendre la communication de l’Union européenne sur sa réponse à la pandémie plus difficile ».</description>
     </item>
     
     <item>
       <title>De la dissuasion « informationnelle » russe</title>
-      <link>https://example.com/posts/de-la-dissuasion-informationnelle-russe/</link>
+      <link>/posts/de-la-dissuasion-informationnelle-russe/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/de-la-dissuasion-informationnelle-russe/</guid>
-      
-        <description>Tout au long de la guerre froide la dissuasion nucléaire est restée un élément clé assurant « la destruction mutuelle » entre les Etats-Unis et l’URSS, par conséquent rendant la première frappe impossible de la part de Washington et de Moscou.</description>
-      
+      <guid>/posts/de-la-dissuasion-informationnelle-russe/</guid>
+      <description>Tout au long de la guerre froide la dissuasion nucléaire est restée un élément clé assurant « la destruction mutuelle » entre les Etats-Unis et l’URSS, par conséquent rendant la première frappe impossible de la part de Washington et de Moscou. Même aujourd’hui une telle approche reste d’actualité et l’arme de dissuasion figure dans les documents stratégiques des puissances nucléaires.
+Cependant, avec l’émergence du concept de la guerre de l’information en Russie, certains militaires et chercheurs de cette puissance eurasienne avancent l’idée d’une « dissuasion informationnelle ».</description>
     </item>
     
     <item>
       <title>Une cyberattaque perturbe (partiellement) la presse aux États-Unis</title>
-      <link>https://example.com/posts/une-cyberattaque-perturbe-partilalement-presse-aux-etats-unis/</link>
+      <link>/posts/une-cyberattaque-perturbe-partilalement-presse-aux-etats-unis/</link>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/une-cyberattaque-perturbe-partilalement-presse-aux-etats-unis/</guid>
-      
-        <description>Je cherchais un sujet pour terminer cette année, et à vrai dire, j’ai déjà écris un article.</description>
-      
+      <guid>/posts/une-cyberattaque-perturbe-partilalement-presse-aux-etats-unis/</guid>
+      <description>Je cherchais un sujet pour terminer cette année, et à vrai dire, j’ai déjà écris un article. Mais ce matin j’ai appris qu’une cyberattaque avait eu lieu aux États-Unis, qui a causé des perturbations majeures au niveau de l’impression et de la distribution des journaux sur la côte Est du pays. Je me suis dis que c’était un très bon exemple à vous donner pour terminer cette année.
+Plusieurs entreprises médiatiques, notamment The Los Angeles Times, ont été touchées par cette cyberattaque.</description>
     </item>
     
   </channel>

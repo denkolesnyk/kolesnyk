@@ -1,54 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>désinformation on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/d%C3%A9sinformation/</link>
-    <description>Recent content in désinformation on Le site de Denys Kolesnyk</description>
+    <title>désinformation on Denys Kolesnyk</title>
+    <link>/tags/d%C3%A9sinformation/</link>
+    <description>Recent content in désinformation on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/d%C3%A9sinformation/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/d%C3%A9sinformation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L’Ukraine s’apprête à adopter une législation contre la désinformation</title>
-      <link>https://example.com/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</link>
+      <link>/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</guid>
-      
-        <description>Le ministère de la Culture, de la jeunesse et des sports d’Ukraine a récemment publié les propositions d’amendements, exposées sur 129 pages, à la législation visant à lutter contre la désinformation.</description>
-      
+      <guid>/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</guid>
+      <description>Le ministère de la Culture, de la jeunesse et des sports d’Ukraine a récemment publié les propositions d’amendements, exposées sur 129 pages, à la législation visant à lutter contre la désinformation. Les amendements visent à modifier quelques lois, portant notamment : « Sur l’information », « Sur le Service de sécurité d’Ukraine », « Sur le Code de procédure pénale » etc.
+On peut lire sur le site officiel du ministère que ce projet de loi a pour but d’assurer le droit à l’accès à des informations fiables et équilibrées à travers la mise en œuvre des mécanismes afin de lutter contre la désinformation.</description>
     </item>
     
     <item>
       <title>Pour le FBI les théories du complot sont une nouvelle menace terroriste</title>
-      <link>https://example.com/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</link>
+      <link>/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</link>
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</guid>
-      
-        <description>Récemment le FBI a publié un bulletin de renseignement sur l’influence des théories du complot sur les extrémistes américains et le passage à l’acte criminel et parfois violent.</description>
-      
+      <guid>/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</guid>
+      <description>Récemment le FBI a publié un bulletin de renseignement sur l’influence des théories du complot sur les extrémistes américains et le passage à l’acte criminel et parfois violent. Le sujet est en soi intéressant, puisque la dissémination des théories du complot n’est pas nouvelle et s’inscrit dans la guerre de l’information.
+Ce bulletin de renseignement est un premier effort du FBI d’examiner la menace provenant de la part d’extrémistes domestiques qui s’inspirent des théories du complot et « sert d’une base pour les futurs travaux de renseignement ».</description>
     </item>
     
     <item>
       <title>La guerre de l’information russe contre le Bélarus</title>
-      <link>https://example.com/posts/la-guerre-de-linformation-russe-contre-le-belarus/</link>
+      <link>/posts/la-guerre-de-linformation-russe-contre-le-belarus/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/la-guerre-de-linformation-russe-contre-le-belarus/</guid>
-      
-        <description>Le Bélarus n’est pas le genre de pays dont on parle beaucoup.</description>
-      
+      <guid>/posts/la-guerre-de-linformation-russe-contre-le-belarus/</guid>
+      <description>Le Bélarus n’est pas le genre de pays dont on parle beaucoup. Et pourtant, ce pays subit des actions qui peuvent, au final, mener à une perte de souveraineté par Minsk. D’ailleurs, actuellement le Bélarus ne jouit pas de sa pleine souveraineté, mais profite de ce que l’on peut appeler « une souveraineté limitée ».
+Faisant partie de l’ « Union de la Russie et du Bélarus », projet créé en 1997, Minsk peut être considéré comme un « bon élève » en termes d’intégration dans les projets russes, notamment la Communauté des États indépendants (CEI), l’Union économique eurasiatique (UEEA), l’Organisation du traité de sécurité collective (OTSC), etc.</description>
     </item>
     
     <item>
       <title>DDoSecrets publie une archive intitulée « le côté obscur du Kremlin »</title>
-      <link>https://example.com/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</link>
+      <link>/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</link>
       <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</guid>
-      
-        <description>Récemment, le site DDoSecrets (Distributed Denial of Secrets) a publié une archive de données russes piratées sous le nom « The dark side of the Kremlin » (le côté obscur du Kremlin) d’un volume significatif dépassant 100 Go.</description>
-      
+      <guid>/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</guid>
+      <description>Récemment, le site DDoSecrets (Distributed Denial of Secrets) a publié une archive de données russes piratées sous le nom « The dark side of the Kremlin » (le côté obscur du Kremlin) d’un volume significatif dépassant 100 Go.
+D’après DDoSecrets, l’archive contient 175 Go de données compressées consistant en « des centaines de milliers d’e-mails, autres messages et fichiers piratés provenant d’hommes politiques, journalistes, oligarches, figures religieuses et sociales, ainsi que nationalistes/séparatistes/terroristes opérant en Ukraine ».</description>
     </item>
     
   </channel>

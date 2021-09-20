@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FBI on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/fbi/</link>
-    <description>Recent content in FBI on Le site de Denys Kolesnyk</description>
+    <title>FBI on Denys Kolesnyk</title>
+    <link>/tags/fbi/</link>
+    <description>Recent content in FBI on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 22 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/fbi/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Thu, 22 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/fbi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pour le FBI les théories du complot sont une nouvelle menace terroriste</title>
-      <link>https://example.com/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</link>
+      <link>/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</link>
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</guid>
-      
-        <description>Récemment le FBI a publié un bulletin de renseignement sur l’influence des théories du complot sur les extrémistes américains et le passage à l’acte criminel et parfois violent.</description>
-      
+      <guid>/posts/pour-le-fbi-les-theories-du-complot-sont-une-nouvelle-menace-terroriste/</guid>
+      <description>Récemment le FBI a publié un bulletin de renseignement sur l’influence des théories du complot sur les extrémistes américains et le passage à l’acte criminel et parfois violent. Le sujet est en soi intéressant, puisque la dissémination des théories du complot n’est pas nouvelle et s’inscrit dans la guerre de l’information.
+Ce bulletin de renseignement est un premier effort du FBI d’examiner la menace provenant de la part d’extrémistes domestiques qui s’inspirent des théories du complot et « sert d’une base pour les futurs travaux de renseignement ».</description>
     </item>
     
   </channel>

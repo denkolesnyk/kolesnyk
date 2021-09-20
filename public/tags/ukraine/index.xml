@@ -1,65 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ukraine on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/ukraine/</link>
-    <description>Recent content in Ukraine on Le site de Denys Kolesnyk</description>
+    <title>Ukraine on Denys Kolesnyk</title>
+    <link>/tags/ukraine/</link>
+    <description>Recent content in Ukraine on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ukraine/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ukraine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;Ukraine adopte sa Stratégie de sécurité militaire</title>
-      <link>https://example.com/posts/lukraine-adopte-sa-strategie-de-security-militaire/</link>
+      <link>/posts/lukraine-adopte-sa-strategie-de-security-militaire/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/lukraine-adopte-sa-strategie-de-security-militaire/</guid>
-      
-        <description>Le président ukrainien Volodymyr Zelenskyy vient d&amp;rsquo;approuver la Stratégie de sécurité militaire de l&amp;rsquo;Ukraine, qui envisage une aggression armée russe à grande échelle.</description>
-      
+      <guid>/posts/lukraine-adopte-sa-strategie-de-security-militaire/</guid>
+      <description>Le président ukrainien Volodymyr Zelenskyy vient d&amp;rsquo;approuver la Stratégie de sécurité militaire de l&amp;rsquo;Ukraine, qui envisage une aggression armée russe à grande échelle. Pour la première fois dans le langage officiel ukrainien, ce document introduit la notion de « défense complète » tout en reconnaissant que le pays se trouve dans les conditions d&amp;rsquo;une « menace militaire existentielle ».
+Le travail sur ce document a été possible suite à l&amp;rsquo;introduction d&amp;rsquo;une nouvelle rédaction de la Stratégie de sécurité nationale, approuvée par l&amp;rsquo;administration Zelenskyy en septembre 2020.</description>
     </item>
     
     <item>
       <title>L&#39;infoguerre dans les stratégies de sécurité nationale polonaise et ukrainienne</title>
-      <link>https://example.com/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</link>
+      <link>/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</guid>
-      
-        <description>Cette année, un certain nombre de pays se dote de nouvelles versions de leurs documents stratégiques, dont la Pologne, l’Ukraine et la Russie.</description>
-      
+      <guid>/posts/linfoguerre-dans-les-strategies-de-securite-nationale-polonaise-et-ukrainienne/</guid>
+      <description>Cette année, un certain nombre de pays se dote de nouvelles versions de leurs documents stratégiques, dont la Pologne, l’Ukraine et la Russie. En septembre, l&amp;rsquo;Ukraine a adopté une nouvelle Stratégie de la sécurité nationale (plus loin - Stratégie), alors que son voisin - la Pologne - s’est doté de sa Stratégie au mois de mai dernier. De son côté, la Stratégie russe devrait voir le jour en fin d’année.</description>
     </item>
     
     <item>
       <title>L’Ukraine prolongerait l’interdiction des réseaux sociaux russes</title>
-      <link>https://example.com/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</link>
+      <link>/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</guid>
-      
-        <description>Le chef du Service de sécurité d’Ukraine (SBU), Ivan Bakanov, a proposé au Conseil de sécurité nationale du pays de prolonger l’interdiction des réseaux sociaux russes pour une durée de trois ans supplémentaires.</description>
-      
+      <guid>/posts/lukraine-prolongerait-linterdiction-des-reseaux-sociaux-russes/</guid>
+      <description>Le chef du Service de sécurité d’Ukraine (SBU), Ivan Bakanov, a proposé au Conseil de sécurité nationale du pays de prolonger l’interdiction des réseaux sociaux russes pour une durée de trois ans supplémentaires. Il s’agit de réseaux sociaux comme « VKontakte » (aussi connu comme VK) et « Odnoklassniki », qui sont désormais interdits en Ukraine depuis mai 2017.
+Cette interdiction initiale a été promulguée par Petro Porochenko, alors président d’Ukraine, qui s’inscrivait légalement dans le cadre des sanctions introduites par l’Ukraine à l’égard de la Russie pour son annexion illégale de la Crimée et la guerre dans le Donbas.</description>
     </item>
     
     <item>
       <title>L’Ukraine s’apprête à adopter une législation contre la désinformation</title>
-      <link>https://example.com/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</link>
+      <link>/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</guid>
-      
-        <description>Le ministère de la Culture, de la jeunesse et des sports d’Ukraine a récemment publié les propositions d’amendements, exposées sur 129 pages, à la législation visant à lutter contre la désinformation.</description>
-      
+      <guid>/posts/l-ukraine-s-apprete-a-adopter-une-legislation-contre-la-desinformation/</guid>
+      <description>Le ministère de la Culture, de la jeunesse et des sports d’Ukraine a récemment publié les propositions d’amendements, exposées sur 129 pages, à la législation visant à lutter contre la désinformation. Les amendements visent à modifier quelques lois, portant notamment : « Sur l’information », « Sur le Service de sécurité d’Ukraine », « Sur le Code de procédure pénale » etc.
+On peut lire sur le site officiel du ministère que ce projet de loi a pour but d’assurer le droit à l’accès à des informations fiables et équilibrées à travers la mise en œuvre des mécanismes afin de lutter contre la désinformation.</description>
     </item>
     
     <item>
       <title>Celui qui contrôle l’espace informationnel ukrainien contrôle l’Ukraine</title>
-      <link>https://example.com/posts/celui-qui-controle-lespace-informationnel-ukrainien-controle-lukraine/</link>
+      <link>/posts/celui-qui-controle-lespace-informationnel-ukrainien-controle-lukraine/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/celui-qui-controle-lespace-informationnel-ukrainien-controle-lukraine/</guid>
-      
-        <description>D’après la presse ukrainienne, Viktor Medvedtchouk, l’oligarque ukrainien et proche du président Vladimir Poutine (il n’est pas secret que Poutine est le parrain de sa fille) a récemment acheté 80% des parts de l’une de plus grandes chaîne ukrainienne – Inter.</description>
-      
+      <guid>/posts/celui-qui-controle-lespace-informationnel-ukrainien-controle-lukraine/</guid>
+      <description>D’après la presse ukrainienne, Viktor Medvedtchouk, l’oligarque ukrainien et proche du président Vladimir Poutine (il n’est pas secret que Poutine est le parrain de sa fille) a récemment acheté 80% des parts de l’une de plus grandes chaîne ukrainienne – Inter.
+Il devient donc le patron de quatre chaînes ukrainiennes de niveau national. Il s’agit de 112 Ukraine, NewsOne, Zik et Inter, qu’il a consolidé dans ses mains de jure ou de facto dans le cadre du groupe média « Novyny ».</description>
     </item>
     
   </channel>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DDoSecrets on Le site de Denys Kolesnyk</title>
-    <link>https://example.com/tags/ddosecrets/</link>
-    <description>Recent content in DDoSecrets on Le site de Denys Kolesnyk</description>
+    <title>DDoSecrets on Denys Kolesnyk</title>
+    <link>/tags/ddosecrets/</link>
+    <description>Recent content in DDoSecrets on Denys Kolesnyk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ddosecrets/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2018-2021, Denys Kolesnyk</copyright>
+    <lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ddosecrets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DDoSecrets publie une archive intitulée « le côté obscur du Kremlin »</title>
-      <link>https://example.com/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</link>
+      <link>/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</link>
       <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</guid>
-      
-        <description>Récemment, le site DDoSecrets (Distributed Denial of Secrets) a publié une archive de données russes piratées sous le nom « The dark side of the Kremlin » (le côté obscur du Kremlin) d’un volume significatif dépassant 100 Go.</description>
-      
+      <guid>/posts/ddosecrets-publie-une-archive-intitulee-le-cote-obscur-du-kremlin/</guid>
+      <description>Récemment, le site DDoSecrets (Distributed Denial of Secrets) a publié une archive de données russes piratées sous le nom « The dark side of the Kremlin » (le côté obscur du Kremlin) d’un volume significatif dépassant 100 Go.
+D’après DDoSecrets, l’archive contient 175 Go de données compressées consistant en « des centaines de milliers d’e-mails, autres messages et fichiers piratés provenant d’hommes politiques, journalistes, oligarches, figures religieuses et sociales, ainsi que nationalistes/séparatistes/terroristes opérant en Ukraine ».</description>
     </item>
     
   </channel>
