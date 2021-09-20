@@ -13,6 +13,8 @@ Commentaire pour Ara (Catalogne, Espagne) : [Rússia i la Xina capitalitzen la d
 
 Intervention pour Європейська Правда (Ukraine) : [Французьсий "Зе" проти Макрона](https://youtu.be/Omn5WmqOpzk)
 
+Commentaire pour le magazine MilTech 3/2021 (Allemagne) : [Doctrine Demands Information Warfare Components](/images/miltech_doctrine_demands_information_warfare_components_kolesnyk.pdf)
+
 Commentaire pour Euro Créative (France) : [Volodymyr Zelenskyy en visite à Paris](https://youtu.be/wmVA0LiaIuM)
 
 Commentaire pour Narodowy Instytut Cyberbezpieczeństwa (Pologne) : [Komentarz: Mgła tajemnicy i milczenia wokół rosyjskich cyberwojsk](https://nci.org.pl/komentarz-mgla-tajemnicy-i-milczenia-wokol-rosyjskich-cyberwojsk)
