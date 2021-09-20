@@ -14,7 +14,7 @@ D’après le document, le FBI considère que « ces théories du complot vont t
 
 Il faut attirer l’attention sur un certain nombre de théories du complot évoquées par les extrémistes avant et/ou après être passé à l’acte. 
 
-# Les actes
+### Les actes
 
 Le 19 décembre un Californien a été arrêté pour la possession de matériaux prévus pour la construction d’une bombe. Le suspect voulait se rendre à Springfield (Illinois) afin d’exploser ce qu’il appelle « le temple satanique » ayant pour but « de rendre les Américains conscient du ‘Pizzagate’ et du **Nouvel ordre mondial** (NWO), qui démantèlent la société ».
 
@@ -24,7 +24,7 @@ Un dernier cas décrit dans le document et que j’estime nécessaire d’évoqu
 
 Même s’il existe d’autres cas évoquant les théories du complot tels que le « **Pizzagate** » ou « **QAnon** », je trouve important de s’arrêter aux théories qui ciblent soit le gouvernement en place soit les groupes ethniques ou religieux.
 
-# Les définitions
+### Les définitions
 
 Le rapport nous donne une définition d’une théorie du complot qui est définie comme « *une tentative d’expliquer les événements ou les circonstances comme un résultat d’actions d’un groupe d’acteurs travaillant en secret pour en tirer profit aux dépens des autres* ».
 

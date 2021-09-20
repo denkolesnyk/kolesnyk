@@ -12,7 +12,7 @@ Les dispositifs prévus par cette loi renforceront le contrôle du segment natio
 
 Certains médias et analystes ont décrié ces dispositifs accusant le Kremlin de vouloir isoler le Runet ou encore en les comparant au « Grand Firewall de Chine ». Les autorités russes à leur tour ont parlé de la nécessité de renforcer le contrôle sur la stabilité du segment national d’Internet afin d’assurer que les services publics et l’appareil étatique fonctionnent en cas de coupure de la Russie du réseau par les acteurs adverses, étatiques ou non.
 
-# Des exercices pour assurer le fonctionnement du réseau
+### Des exercices pour assurer le fonctionnement du réseau
 
 Le 18 octobre dernier, le gouvernement russe a approuvé une [disposition](http://publication.pravo.gov.ru/Document/View/0001201910210025) relative à la conduite d’exercices visant à garantir le fonctionnement d’Internet sur le territoire russe en cas de coupure de la Russie du réseau mondial. La disposition approuvée est entrée en vigueur depuis hier, le 1 novembre 2019.
 
@@ -22,7 +22,7 @@ Cependant, c’est le ministère des Communications qui décide de la conduite d
 
 Il est également important de noter que des exercices instantanés sont prévus en cas de menaces qui pèsent sur la stabilité et l’intégrité du Runet.
 
-# Un pas vers la bonne direction ?
+### Un pas vers la bonne direction ?
 
 Afin de comprendre la logique derrière cette législation et les efforts des autorités russe dans le domaine informationnel il faut prendre en compte deux choses : 1) le concept russe de la [guerre de l’information](posts/le-colonel-komov-et-la-guerre-de-l-information.md) et 2) les documents stratégiques de ce pays, notamment la [Doctrine de la sécurité informationnelle](https://rg.ru/2016/12/06/doktrina-infobezobasnost-site-dok.html) en vigueur.
 

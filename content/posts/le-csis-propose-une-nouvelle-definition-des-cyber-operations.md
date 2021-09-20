@@ -18,7 +18,7 @@ Nous pouvons observer que dans la définition proposée par le CCDCOE, ni l’es
 
 ![Définition des cyber-opérations](/images/cyber-operations-definition-csis.png)
 
-Ceci donne en français : *L’utilisation de piratage informatique, de virus ou d’autres méthodes pour __mener une guerre de l’information__, causer des dommages physiques, __perturber les processus politiques__, punir des concurrents économiques ou commettre d’autres actes de malveillance dans le cyberespace.*
+>Ceci donne en français : *L’utilisation de piratage informatique, de virus ou d’autres méthodes pour __mener une guerre de l’information__, causer des dommages physiques, __perturber les processus politiques__, punir des concurrents économiques ou commettre d’autres actes de malveillance dans le cyberespace.*
 
 J’ai souligné en « gras » deux phrases très importantes ici. Tout d’abord cette définition nous indique que les cyber-opérations sont employées afin de mener une guerre de l’information. Autrement dit, le domaine cyber fait partie de la guerre de l’information et ne constitue pas un domaine séparé, comme il est considéré en Occident.
 

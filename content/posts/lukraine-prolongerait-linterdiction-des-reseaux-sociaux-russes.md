@@ -14,7 +14,7 @@ Cette interdiction initiale a été promulguée par Petro Porochenko, alors pré
 
 Même si la logique semble être claire, les exemples dans le monde peuvent suggérer que l’interdiction totale d’accès aux sites web semble être impossible, sauf dans les cas d’une coupure complète de pays du réseau mondial comme cela fut le [cas](https://www.cnet.com/news/iran-cuts-off-internet-access/) en Iran pour une brève période il y a quelques mois ou encore la Corée du nord.
 
-# Que nous disent les statistiques ?
+### Que nous disent les statistiques ?
 
 Tenant compte du fait que l’Ukraine faisait, et fait toujours partie d’ailleurs, de l’espace informationnel russe, les réseaux sociaux russes étaient très populaires. On peut même dire que la pénétration du RuNet a été assez importante en Ukraine.
 
@@ -30,7 +30,7 @@ En mars 2020 le site Vk.com a été visité 1,81 milliards de fois, dont 77,97% 
 
 Nous pouvons estimer qu’un nombre d’internautes ukrainiens a abandonné les réseaux sociaux russes à cause de l’aggression militaire russe, alors que les autres n’ont pas souhaité utiliser des solutions techniques avancées telles que les VPN et, ont donc migré vers Facebook (croissance de 306,2% entre 2014 et 2019). Toutefois, nous pouvons considerer qu’il existe également ceux qui ne peuvent pas s’en passer et préfèrent utiliser un VPN afin d’accéder aux réseaux sociaux de leur choix, ce qui n’est pas forcément pris en compte dans les statistiques.
 
-# L’opinion publique polarisée
+### L’opinion publique polarisée
 
 Selon le [sondage](https://tns-ua.com/news/stavlennya-ukrayintsiv-do-prodovzhennya-blokuvannya-rosiyskih-veb-resursiv) mené en mars 2020 par Kantar TNS, la société ukrainienne est polarisée sur le sujet de la prolongation de l’interdiction des réseaux sociaux russe avec 46% de sondés qui soutiennent cette mesure et 43% qui s’y opposent.
 

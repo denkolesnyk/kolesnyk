@@ -12,7 +12,7 @@ Selon Reuters, cette désinformation russe est communiquée en plusieurs langues
 
 Dmitri Peskov, le porte-parole du président russe, tente de dédouaner son pays en évoquant l’absence d’exemple spécifique ou de lien vers un média spécifique dans le document de l’UE sur cette désinformation et, selon Reuters, le Service européen pour l’action extérieure (SEAE) à son tour a refusé de commenter directement son rapport.
 
-# Le coronavirus comme une arme biologique américaine
+### Le coronavirus comme une arme biologique américaine
 
 Sergueï Glaziev, homme politique et économiste russe, membre à part entière de l’Académie russe des sciences, s’est exprimé sur le sujet sur la chaîne russe TsarGrad (12,84 millions de visites en février 2020 d’après [SimilarWeb](https://www.similarweb.com/fr/website/tsargrad.tv)) appartenant à Konstantin Malofeev.
 
@@ -24,7 +24,7 @@ Dans cette intervention du 13 mars 2020 Glaziev a participé à la désinformati
 
 Cependant, ce genre de désinformation n’est pas un cas isolé en Russie. Quelques recherches rapides sur le moteur de recherche de votre choix donnent des dizaines de résultats.
 
-# D’autres médias russes participent aussi à la désinformation sur le Covid-19
+### D’autres médias russes participent aussi à la désinformation sur le Covid-19
 
 Quelques semaines avant l’intervention de Sergueï Glaziev, le site russe Zveda Weekly a publié le 29 janvier 2020 un [article](https://zvezdaweekly.ru/news/t/20201291341-AfM0x.html) assez long intitulé « Coronavirus : guerre biologique américaine contre la Russie et la Chine. »
 
@@ -50,7 +50,7 @@ Il se termine par une phrase « Il faut faire quelque chose. Parce que beaucoup 
 
 Il existe, bien évidemment, plusieurs autres articles que l’on ne peut pas tous examiner ici, mais une grande partie d’entre eux trace une ligne générale de la responsabilité américaine, parfois occidentale.
 
-# L’URSS exploitait le SIDA, la Russie désinforme sur le Covid-19
+### L’URSS exploitait le SIDA, la Russie désinforme sur le Covid-19
 
 Ce narratif russe qui vise à accuser les États-Unis dans la création du Covid-19 n’est pas une chose nouvelle. Ceci a déjà été observée dans le cas du SIDA.
 

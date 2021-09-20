@@ -12,7 +12,7 @@ La publication du document stratégique a été rétardée, très probablement e
 
 Les positions ont été confirmées au sommet Putin-Biden à Genève et deux semaines après, la stratégie a été rendue publique, inscrivant la rivalité idéologique avec l’Occident, incarnée par les États-Unis.
 
-**La sécurité informationnelle placée au cœur du document**
+### La sécurité informationnelle placée au cœur du document
 
 L’importance que Moscou octroie aux enjeux informationnels n'est pas quelque chose de nouveau. Moscou fut l’un des premiers pays à adopter une Doctrine de sécurité informationnelle en 2000, dont la version actuelle est entrée en vigueur en 2016.
 
@@ -24,7 +24,7 @@ Le document note également le danger des cyberattaques, néanmoins le terme «�
 
 La Stratégie fixe un nombre de tâches afin de protéger la sécurité informationnelle de l’État russe, qui varient de l’amélioration de la protection informatique de l’infrastructure critique et la nécéssité d'accroître la sécurité et la stabilité du segment russe de l’Internet - le soit-disant « RuNet », au développement des forces et des moyens de la _confrontation informationnelle (informatsionnoye protivoborstvo)_.
 
-**Les valeurs traditionnelles contre l'occidentalisation**
+### Les valeurs traditionnelles contre l'occidentalisation
 
 Le document met l’accent sur la rivalité idéologique, et d’après ses auteurs, les « valeurs spirituelles, morales, culturelles et historiques traditionnelles russes sont activement attaquées par les États-Unis et leurs alliés ».
 
