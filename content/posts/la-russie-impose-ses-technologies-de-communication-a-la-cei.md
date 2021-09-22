@@ -1,6 +1,6 @@
 ---
 title: "La Russie impose ses technologies de communication à la CEI"
-date: 2022-09-22
+date: 2021-09-22T17:18:21+02:00
 categories: ["Blog"]
 tags: ["CEI", "communication", "défense", "Kazakhstan", "Russie"]
 draft: false
