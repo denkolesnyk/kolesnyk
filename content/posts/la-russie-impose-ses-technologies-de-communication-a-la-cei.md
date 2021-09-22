@@ -18,7 +18,7 @@ Moscou a l'intention d'imposer ses systèmes de communications aux pays-membres 
 
 La Russie vise à la fois diminuer la dépendance à la technologie de l'information et de la communication étrangère, ainsi que d'imposer ses technologies et solutions, tout d'abord aux pays qu'elle considère comme étant de sa sphère d'influence, et puis au reste du monde.
 
-Cependant, le vice ministre de la Défense du Kazakhstans a rassuré que la fourniture par la Russie des technologies de la communication « *ne peut en aucun cas affecter le système de communication et de commandement existants* »
+Cependant, le vice ministre de la Défense du Kazakhstans a rassuré que la fourniture par la Russie des technologies de la communication « *ne peut en aucun cas affecter le système de communication et de commandement existant.* »
 
 ---
 *Seulement neuf pays de l'ex-URSS sont membres de la CEI, notamment l'Arménie, l'Azerbaïdjan, le Bélarus, le Kazakhstan, le Kirghizistan, la Moldavie, l'Ouzbékistan, la Russie ainsi que le Tajikistan.
