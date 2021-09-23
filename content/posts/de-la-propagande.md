@@ -2,7 +2,7 @@
 title: "De la propagande"
 date: 2019-11-04
 categories: ["Blog"]
-tags: ["guerre de l'information", "propagande"]
+tags: ["Edward Bernays", "guerre de l'information", "propagande"]
 draft: false
 ---
 
@@ -10,7 +10,7 @@ Aujourd’hui nous parlons beaucoup de la guerre de l’information, de la dési
 
 Ce mot a souvent une connotation négative, cependant, jetons un œil sur la définition de la **propagande** donnée par le dictionnaire Larousse :
 
->Action systématique exercée sur l’opinion pour lui faire accepter certaines idées ou doctrines, notamment dans le domaine politique ou social.
+>*Action systématique exercée sur l’opinion pour lui faire accepter certaines idées ou doctrines, notamment dans le domaine politique ou social.*
 
 Edward Bernays, « le père de la propagande », soutenait qu’afin de définir si la propagande est quelque chose de bien ou de mauvais, il faut définir la cause qu’elle sert ainsi que l’authenticité de l’information.
 
@@ -24,7 +24,7 @@ Mais revenons à Edward Bernays. D’après lui, la propagande au sens moderne (
 
 Il faut ajouter que l’on peut distinguer trois types de propagande : blanche, grise et noire. Cependant, il existe des divergences dans la définition de ces termes, que nous n’allons pas examiner ici.
 
-Nous pouvons facilement distinguer la **propagande blanche** parce que la source des messages est facilement identifiable (gouvernement, institution, etc.) et l’information est plutôt véridique. Elle est souvent associée au relations publiques (RP), même s’il existe un débat sur ce sujet.
+Nous pouvons facilement distinguer la **propagande blanche** parce que la source des messages est facilement identifiable (gouvernement, institution, etc.) et l’information est plutôt véridique. Elle est souvent associée aux relations publiques (RP), même s’il existe un débat sur ce sujet.
 
 À son tour, la **propagande grise** se situe entre la propagande blanche et noire. Il est difficile de la distinguer avec un œil non expérimenté, car elle semble présenter des arguments légitimes sans agenda caché, cependant l’origine de l’information est difficile à identifier. Une source peut être occasionnellement mentionnée, mais souvent elle est difficilement vérifiable ou fausse. Ce type de propagande est la plus dangereuse dans l’ère de l’information, car l’utilisateur de réseaux sociaux ne passe pas beaucoup de temps à décortiquer ou vérifier l’information qu’il a pu lire dans les transports sur son smartphone.
 

@@ -1,7 +1,7 @@
 baseURL = "/"
 title = "Denys Kolesnyk"
 copyright = "Copyright © 2018-2021, Denys Kolesnyk"
-languageCode = "en-US"
+languageCode = "fr-FR"
 theme = "indigo"
 
 [params]
