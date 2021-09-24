@@ -5,6 +5,8 @@ menu: "main"
 draft: "false"
 ---
 
+Commentaire pour LRT (Lituanie) : [Pasaulyje nuskambėjus Lietuvos pareiškimui apie kinų telefonus, ekspertai ragina imtis teisinių priemonių](https://www.lrt.lt/naujienos/pasaulyje/6/1503523/pasaulyje-nuskambejus-lietuvos-pareiskimui-apie-kinu-telefonus-ekspertai-ragina-imtis-teisiniu-priemoniu)
+
 Commentaire pour Público (Espagne) : [El partido de Putin busca mantener su hegemonía en las elecciones parlamentarias](https://www.publico.es/internacional/elecciones-rusia-partido-putin-busca-mantener-hegemonia-elecciones-parlamentarias.html)
 
 Commentaire pour Ara (Catalogne, Espagne) : [Rússia sorteja apartaments i cotxes entre els electors que acudeixin a les urnes](https://www.ara.cat/internacional/eleccions-legislatives-russia-sorteigs-d-apartaments-i-el-govern-rus-sorteja-apartaments-i-cotxes-entre-els-electors-que-acudeixi-a-les-urnes_1_4119301.html)
