@@ -122,12 +122,6 @@
     <loc>http://localhost:1313/posts/d%C3%A9finition-de-la-guerre-de-linformation/</loc>
     <lastmod>2018-12-23T11:54:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a-propos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/medias/</loc>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
   </url>
 </urlset>
