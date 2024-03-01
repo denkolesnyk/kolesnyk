@@ -281,26 +281,5 @@
       <guid>http://localhost:1313/posts/d%C3%A9finition-de-la-guerre-de-linformation/</guid>
       <description>De plus en plus nous entendons parler de « fake news », de manipulation de l’information, de cyberattaques, d’espionnage, d’assassinat ou de tentatives d’assassinat (affaire Skripal, affaire Babtchenko) et de l’influence exercée par les puissances étrangères sur notre sol.</description>
     </item>
-    <item>
-      <title>À propos</title>
-      <link>http://localhost:1313/a-propos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/a-propos/</guid>
-      <description>Denys Kolesnyk est un analyste et consultant français basé à Paris. Il est spécialiste des questions de sécurité et de défense en Europe centrale et orientale, notamment la Pologne, l’Ukraine et la Russie.</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>mailto:dkolesnyk@pm.me</description>
-    </item>
-    <item>
-      <title>Médias</title>
-      <link>http://localhost:1313/medias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/medias/</guid>
-      <description>Article dans la Revue Défense de l&amp;rsquo;Union-IHEDN (France) : L&amp;rsquo;Ukraine la pierre angulaire de la sécurité polonaise&#xA;Commentaire pour Le Parisien (France) : Guerre Israël-Hamas : quand Tel-Aviv reprend les codes de communication de l’armée ukrainienne</description>
-    </item>
   </channel>
 </rss>
