@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Confrontation on dk</title>
+    <link>//localhost:1313/tags/information-confrontation/</link>
+    <description>Recent content in Information Confrontation on dk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/information-confrontation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Russia adopts a new National Security Strategy</title>
+      <link>//localhost:1313/post/russia-adopts-a-new-national-security-strategy/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/russia-adopts-a-new-national-security-strategy/</guid>
+      <description>After around a year and a half of work on Russia&amp;rsquo;s new National Security Strategy (NSS), the process was finally completed on June 2 with the publication of Decree No.</description>
+    </item>
+  </channel>
+</rss>

@@ -2,38 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/index/</loc>
+    <loc>//localhost:1313/tags/index/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/information-warfare/</loc>
+    <loc>//localhost:1313/tags/information-warfare/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mental-warfare/</loc>
+    <loc>//localhost:1313/tags/mental-warfare/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/mental-warfare-russian-style-cognitive-warfare/</loc>
+    <loc>//localhost:1313/post/mental-warfare-russian-style-cognitive-warfare/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/russia/</loc>
+    <loc>//localhost:1313/categories/russia/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>//localhost:1313/tags/information-confrontation/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/russia-adopts-a-new-national-security-strategy/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/media/</loc>
+    <loc>//localhost:1313/media/</loc>
   </url>
 </urlset>

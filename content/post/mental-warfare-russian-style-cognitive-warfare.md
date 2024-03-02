@@ -28,7 +28,7 @@ He also outlines the aims, stages, and technologies of Mental Warfare (*see tabl
 
 ![](/images/tableau-buts-guerre-mentale.jpg)
 
-In general, in the two articles published by Andrei Ilnitski, we observe the dominance of propaganda elements focusing on the importance of the army, the regime, and Russian "traditional values", echoing the [National Security Strategy](https://kolesnyk.fr/posts/la-russie-se-dote-dune-nouvelle-strategie-de-la-securite-nationale/), published in 2021, where "*Westernization*" is seen as a threat to the Russian state.
+In general, in the two articles published by Andrei Ilnitski, we observe the dominance of propaganda elements focusing on the importance of the army, the regime, and Russian "traditional values", echoing the [National Security Strategy](https://kolesnyk.fr/post/russia-adopts-a-new-national-security-strategy/), published in 2021, where "*Westernization*" is seen as a threat to the Russian state.
 
 ## The concept of Mental Warfare as a doctrinal element
 

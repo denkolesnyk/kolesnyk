@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information Warfare on dk</title>
-    <link>/tags/information-warfare/</link>
+    <link>//localhost:1313/tags/information-warfare/</link>
     <description>Recent content in Information Warfare on dk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/information-warfare/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/information-warfare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mental Warfare - Russian-style Cognitive Warfare</title>
-      <link>/post/mental-warfare-russian-style-cognitive-warfare/</link>
+      <link>//localhost:1313/post/mental-warfare-russian-style-cognitive-warfare/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/post/mental-warfare-russian-style-cognitive-warfare/</guid>
+      <guid>//localhost:1313/post/mental-warfare-russian-style-cognitive-warfare/</guid>
       <description>This article was originally published on January 27, 2023, on Info Ops France.&#xA;In March 2021, Andrei Ilnitski, advisor to the Russian Defense Minister, declared that &amp;ldquo;the West, led by the United States, has unleashed a Mental Warfare against Russia, the consequences of which will manifest themselves at least a generation later&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Russia adopts a new National Security Strategy</title>
+      <link>//localhost:1313/post/russia-adopts-a-new-national-security-strategy/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/russia-adopts-a-new-national-security-strategy/</guid>
+      <description>After around a year and a half of work on Russia&amp;rsquo;s new National Security Strategy (NSS), the process was finally completed on June 2 with the publication of Decree No.</description>
     </item>
   </channel>
 </rss>
