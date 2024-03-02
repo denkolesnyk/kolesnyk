@@ -21,7 +21,7 @@ menu:
   main:
     - identifier: "Accueil"
       name: "Accueil"
-      url: "/"
+      url: "https://kolesnyk.fr/"
       weight: 1
 
     - identifier: "À propos"
