@@ -1,4 +1,4 @@
-baseURL: "https://kolesnyk.fr/"
+baseURL: "/"
 theme: "writeonlyhugo-theme"
 languageCode: "en-us"
 
@@ -21,7 +21,7 @@ menu:
   main:
     - identifier: "Accueil"
       name: "Accueil"
-      url: "https://kolesnyk.fr/"
+      url: "/"
       weight: 1
 
     - identifier: "À propos"
