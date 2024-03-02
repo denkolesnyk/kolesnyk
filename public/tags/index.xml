@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on dk</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on dk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>/tags/index/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Information Warfare</title>
+      <link>/tags/information-warfare/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/information-warfare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Warfare</title>
+      <link>/tags/mental-warfare/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/mental-warfare/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

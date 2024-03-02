@@ -2,126 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/la-guerre-mentale-la-guerre-cognitive-%C3%A0-la-russe/</loc>
+    <loc>/categories/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/la-france-adopte-une-nouvelle-revue-nationale-strat%C3%A9gique/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <loc>/tags/index/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/discursus-de-bello-moscovitico/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+    <loc>/tags/information-warfare/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/la-rh%C3%A9torique-belliciste-russe-sugg%C3%A8re-t-elle-une-invasion-de-lukraine/</loc>
-    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+    <loc>/tags/mental-warfare/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/la-france-d%C3%A9voile-une-doctrine-de-lutte-informatique-dinfluence/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <loc>/post/mental-warfare-russian-style-cognitive-warfare/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/la-confrontation-informationnelle-un-nouveau-concept-russe/</loc>
-    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/la-russie-impose-ses-technologies-de-communication-%C3%A0-la-cei/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <loc>/categories/russia/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/la-russie-se-dote-dune-nouvelle-strat%C3%A9gie-de-s%C3%A9curit%C3%A9-nationale/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/la-russie-d%C3%A9voile-son-approche-envers-la-s%C3%A9curit%C3%A9-internationale-de-linformation/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <loc>/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/les-fran%C3%A7ais-soutiennent-ils-la-russie-la-propagande-russe-dit--oui-/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/lukraine-adopte-sa-strat%C3%A9gie-de-s%C3%A9curit%C3%A9-militaire/</loc>
-    <lastmod>2021-03-28T22:06:43+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/la-russie-menace-twitter/</loc>
-    <lastmod>2021-03-23T10:36:35+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/la-russie-et-liran-signent-un-accord-de-coop%C3%A9ration-dans-le-domaine-de-la-s%C3%A9curit%C3%A9/</loc>
-    <lastmod>2021-02-04T10:38:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/secret-et-silence-autour-des-cyber-troupes-russes/</loc>
-    <lastmod>2020-12-10T10:40:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/linfoguerre-dans-les-strat%C3%A9gies-de-s%C3%A9curit%C3%A9-nationale-polonaise-et-ukrainienne/</loc>
-    <lastmod>2020-10-01T09:42:46+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/un-rapport-russe-accuse-loccident-de-la-conduite-de-la-guerre-de-linformation/</loc>
-    <lastmod>2020-06-16T09:44:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/lukraine-prolongerait-linterdiction-des-r%C3%A9seaux-sociaux-russes/</loc>
-    <lastmod>2020-04-12T10:43:55+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/la-d%C3%A9sinformation-russe-se-saisit-du-covid-19/</loc>
-    <lastmod>2020-03-23T12:20:39+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/roskomnadzor-controlerait-le-domaine-national-dinternet-russe/</loc>
-    <lastmod>2020-03-13T12:37:33+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/la-classification-russe-des-conflits-arm%C3%A9s-et-la-guerre-de-linformation/</loc>
-    <lastmod>2020-03-09T12:28:40+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/le-ma%C3%A9-russe-%C3%A9value-la-situation-des-droits-de-lhomme/</loc>
-    <lastmod>2020-02-14T12:30:01+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/la-russie-se-dotera-dune-nouvelle-strat%C3%A9gie-de-s%C3%A9curit%C3%A9-nationale-en-2020/</loc>
-    <lastmod>2020-02-12T21:36:47+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/lukraine-sappr%C3%AAte-%C3%A0-adopter-une-l%C3%A9gislation-contre-la-d%C3%A9sinformation/</loc>
-    <lastmod>2020-01-28T21:50:07+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/du-contr%C3%B4le-r%C3%A9flexif/</loc>
-    <lastmod>2019-11-26T16:11:32+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/de-la-propagande/</loc>
-    <lastmod>2019-11-04T21:59:42+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/la-russie-fait-un-pas-de-plus-vers-la-protection-de-son-espace-informationnel/</loc>
-    <lastmod>2019-11-02T22:03:36+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/pour-le-fbi-les-th%C3%A9ories-du-complot-sont-une-nouvelle-menace-terroriste/</loc>
-    <lastmod>2019-08-22T21:08:24+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/le-csis-propose-une-nouvelle-d%C3%A9finition-des-cyber-op%C3%A9rations/</loc>
-    <lastmod>2019-08-16T21:15:24+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/le-contracteur-du-fsb-travaillait-sur-la-d%C3%A9sanonymisation-de-tor/</loc>
-    <lastmod>2019-07-21T09:29:16+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/la-proposition-russe-de-la-stabilisation-de-la-situation-au-soudan/</loc>
-    <lastmod>2019-07-16T10:08:07+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/celui-qui-contr%C3%B4le-lespace-informationnel-ukrainien-contr%C3%B4le-lukraine/</loc>
-    <lastmod>2019-07-03T10:16:27+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/limportance-du--9-mai--dans-le-r%C3%A9cit-historique-russe-1/</loc>
-    <lastmod>2019-05-08T10:57:37+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/la-guerre-de-linformation-russe-contre-le-b%C3%A9larus/</loc>
-    <lastmod>2019-04-28T10:26:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/de-la-dissuasion--informationnelle--russe/</loc>
-    <lastmod>2019-03-29T11:37:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/vladislav-sourkov-sur-le--long-%C3%A9tat-de-poutine-/</loc>
-    <lastmod>2019-02-17T11:41:35+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/ddosecrets-publie-une-archive-intitul%C3%A9e--le-c%C3%B4t%C3%A9-obscur-du-kremlin-/</loc>
-    <lastmod>2019-01-27T11:44:06+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/le-colonel-komov-et-la-guerre-de-linformation/</loc>
-    <lastmod>2019-01-23T11:48:15+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/une-cyberattaque-perturbe-la-presse-aux-%C3%A9tats-unis/</loc>
-    <lastmod>2018-12-30T11:51:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/d%C3%A9finition-de-la-guerre-de-linformation/</loc>
-    <lastmod>2018-12-23T11:54:31+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>/media/</loc>
   </url>
 </urlset>
