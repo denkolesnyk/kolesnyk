@@ -30,6 +30,20 @@
       <description></description>
     </item>
     <item>
+      <title>History</title>
+      <link>//localhost:1313/tags/history/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Muscovy</title>
+      <link>//localhost:1313/tags/muscovy/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/muscovy/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Information Confrontation</title>
       <link>//localhost:1313/tags/information-confrontation/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
