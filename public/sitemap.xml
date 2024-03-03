@@ -2,53 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/index/</loc>
+    <loc>/tags/index/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/information-warfare/</loc>
+    <loc>/tags/information-warfare/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/mental-warfare/</loc>
+    <loc>/tags/mental-warfare/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/mental-warfare-russian-style-cognitive-warfare/</loc>
+    <loc>/post/mental-warfare-russian-style-cognitive-warfare/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/russia/</loc>
+    <loc>/categories/russia/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/discursus-de-bello-moscovitico/</loc>
+    <loc>/post/discursus-de-bello-moscovitico/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/history/</loc>
+    <loc>/tags/history/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/muscovy/</loc>
+    <loc>/tags/muscovy/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/information-confrontation/</loc>
+    <loc>/tags/information-confrontation/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/russia-adopts-a-new-national-security-strategy/</loc>
+    <loc>/post/russia-adopts-a-new-national-security-strategy/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>/post/on-reflexive-control/</loc>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/reflexive-control/</loc>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/tags/vladislav-surkov/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/media/</loc>
+    <loc>/post/vladislav-surkov-on-putin-long-state/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+  </url><url>
+    <loc>/media/</loc>
   </url>
 </urlset>
