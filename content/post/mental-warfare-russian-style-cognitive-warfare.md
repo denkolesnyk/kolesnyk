@@ -26,7 +26,12 @@ Ilnitski refers to the objective of this "new type of warfare" as the destructio
 
 He also outlines the aims, stages, and technologies of Mental Warfare (*see table below*).
 
-![](/images/tableau-buts-guerre-mentale.jpg)
+| Indicators    | Substance and content |
+| -------- | ------- |
+| Strategic aims  | Rebooting of historical self-consciousness, education and upbringing system, and thus the basic meanings and goals of society, i.e. ideology, including rewriting (zeroing) of history, destruction of traditions, ways of life, faith (religion) and basic values. Realized on a generational scale (10-15 years)    |
+| Operational aims | Attack on the established way of life, dismantling, vulgarization and displacement of actual norms of behavior, undermining trust in the authorities, splitting society. Realized within 3-5 years     |
+| Steps    | First step - informational and ideological influence; Second step - social technologies of manipulating society   |
+| Implementation technology  | It includes informational and psycho-emotional components. AI technologies are actively used in both of them     |
 
 In general, in the two articles published by Andrei Ilnitski, we observe the dominance of propaganda elements focusing on the importance of the army, the regime, and Russian "traditional values", echoing the [National Security Strategy](https://kolesnyk.fr/post/russia-adopts-a-new-national-security-strategy/), published in 2021, where "*Westernization*" is seen as a threat to the Russian state.
 
