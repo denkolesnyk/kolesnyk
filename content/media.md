@@ -3,7 +3,7 @@ title = "Media"
 menu = "main"
 +++
 
-Article in Revu Défense of Union-IHEDN: [L'Ukraine - la pierre angulaire de la sécurité polonaise](https://twitter.com/denkolesnyk/status/1721511691316330980/photo/1)
+Article in Revue Défense of Union-IHEDN (France): [L'Ukraine - la pierre angulaire de la sécurité polonaise](https://kolesnyk.fr/images/RevueDefense_Nov23HS_Kolesnyk.pdf)
 
 Comment for Le Parisien (France) : [Guerre en Ukraine : brouille avec la Pologne, présidentielle américaine… le soutien à Kiev est-il en train de se fissurer ?](https://www.leparisien.fr/international/guerre-en-ukraine-brouille-avec-la-pologne-presidentielle-americaine-le-soutien-a-kiev-est-il-en-train-de-se-fissurer-21-09-2023-J3TL5DGWE5DRBM5MWL4QTHLEGI.php)
 
