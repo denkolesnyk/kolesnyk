@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reflexive Control on dk</title>
-    <link>//localhost:1313/tags/reflexive-control/</link>
+    <link>https://kolesnyk.fr/tags/reflexive-control/</link>
     <description>Recent content in Reflexive Control on dk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/reflexive-control/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kolesnyk.fr/tags/reflexive-control/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Reflexive Control</title>
-      <link>//localhost:1313/post/on-reflexive-control/</link>
+      <link>https://kolesnyk.fr/post/on-reflexive-control/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/on-reflexive-control/</guid>
+      <guid>https://kolesnyk.fr/post/on-reflexive-control/</guid>
       <description>In democracies, public opinion lies at the very heart of how society functions and is a factor that influences decision-making by the authorities.</description>
     </item>
   </channel>

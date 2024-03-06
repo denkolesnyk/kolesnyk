@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vladislav Surkov on dk</title>
-    <link>//localhost:1313/tags/vladislav-surkov/</link>
+    <link>https://kolesnyk.fr/tags/vladislav-surkov/</link>
     <description>Recent content in Vladislav Surkov on dk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/vladislav-surkov/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kolesnyk.fr/tags/vladislav-surkov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vladislav Surkov on &#34;Putin&#39;s long state&#34;</title>
-      <link>//localhost:1313/post/vladislav-surkov-on-putin-long-state/</link>
+      <link>https://kolesnyk.fr/post/vladislav-surkov-on-putin-long-state/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/vladislav-surkov-on-putin-long-state/</guid>
+      <guid>https://kolesnyk.fr/post/vladislav-surkov-on-putin-long-state/</guid>
       <description>A few days ago, Vladislav Surkov, the man behind the &amp;ldquo;power vertical&amp;rdquo; and &amp;ldquo;sovereign democracy&amp;rdquo; concept of Vladimir Putin&amp;rsquo;s first presidential term, published an opinion piece entitled &amp;ldquo;Putin&amp;rsquo;s long state&amp;rdquo;.</description>
     </item>
   </channel>

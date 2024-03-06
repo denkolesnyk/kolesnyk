@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Russia on dk</title>
-    <link>//localhost:1313/categories/russia/</link>
+    <link>https://kolesnyk.fr/categories/russia/</link>
     <description>Recent content in Russia on dk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/russia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kolesnyk.fr/categories/russia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mental Warfare - Russian-style Cognitive Warfare</title>
-      <link>//localhost:1313/post/mental-warfare-russian-style-cognitive-warfare/</link>
+      <link>https://kolesnyk.fr/post/mental-warfare-russian-style-cognitive-warfare/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/mental-warfare-russian-style-cognitive-warfare/</guid>
+      <guid>https://kolesnyk.fr/post/mental-warfare-russian-style-cognitive-warfare/</guid>
       <description>This article was originally published on January 27, 2023, on Info Ops France.&#xA;In March 2021, Andrei Ilnitski, advisor to the Russian Defense Minister, declared that &amp;ldquo;the West, led by the United States, has unleashed a Mental Warfare against Russia, the consequences of which will manifest themselves at least a generation later&amp;rdquo;.</description>
     </item>
     <item>
       <title>Discursus de bello Moscovitico</title>
-      <link>//localhost:1313/post/discursus-de-bello-moscovitico/</link>
+      <link>https://kolesnyk.fr/post/discursus-de-bello-moscovitico/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/discursus-de-bello-moscovitico/</guid>
+      <guid>https://kolesnyk.fr/post/discursus-de-bello-moscovitico/</guid>
       <description>On February 24, 2022, Russia launched a full-scale invasion of Ukraine. It was considered an unlikely event given several factors, including the insufficient number of Russian troops amassed at the Ukrainian border.</description>
     </item>
     <item>
       <title>Russia adopts a new National Security Strategy</title>
-      <link>//localhost:1313/post/russia-adopts-a-new-national-security-strategy/</link>
+      <link>https://kolesnyk.fr/post/russia-adopts-a-new-national-security-strategy/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/russia-adopts-a-new-national-security-strategy/</guid>
+      <guid>https://kolesnyk.fr/post/russia-adopts-a-new-national-security-strategy/</guid>
       <description>After around a year and a half of work on Russia&amp;rsquo;s new National Security Strategy (NSS), the process was finally completed on June 2 with the publication of Decree No.</description>
     </item>
     <item>
       <title>On Reflexive Control</title>
-      <link>//localhost:1313/post/on-reflexive-control/</link>
+      <link>https://kolesnyk.fr/post/on-reflexive-control/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/on-reflexive-control/</guid>
+      <guid>https://kolesnyk.fr/post/on-reflexive-control/</guid>
       <description>In democracies, public opinion lies at the very heart of how society functions and is a factor that influences decision-making by the authorities.</description>
     </item>
     <item>
       <title>Vladislav Surkov on &#34;Putin&#39;s long state&#34;</title>
-      <link>//localhost:1313/post/vladislav-surkov-on-putin-long-state/</link>
+      <link>https://kolesnyk.fr/post/vladislav-surkov-on-putin-long-state/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/vladislav-surkov-on-putin-long-state/</guid>
+      <guid>https://kolesnyk.fr/post/vladislav-surkov-on-putin-long-state/</guid>
       <description>A few days ago, Vladislav Surkov, the man behind the &amp;ldquo;power vertical&amp;rdquo; and &amp;ldquo;sovereign democracy&amp;rdquo; concept of Vladimir Putin&amp;rsquo;s first presidential term, published an opinion piece entitled &amp;ldquo;Putin&amp;rsquo;s long state&amp;rdquo;.</description>
     </item>
   </channel>
