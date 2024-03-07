@@ -9,7 +9,7 @@ Comment for Le Parisien (France): [Guerre en Ukraine : brouille avec la Pologne
 
 Comment for Le Parisien (France): [« Convoy », « Redut », « Patriot »… ces milices russes qui pourraient profiter du déclin de Wagner](https://www.leparisien.fr/international/convoy-redut-patriot-ces-milices-russes-qui-pourraient-profiter-du-declin-de-wagner-25-08-2023-DZGQFJA4RVBQTPQAW3TJQS3LAA.php)
 
-Intervention at TVP World (Pologne): [Émission du 12 juillet 2023 portant sur la place de la France dans l'OTAN](https://www.youtube.com/watch?v=KIDKRC0krFA)
+Intervention at TVP World (Pologne): [France's place in NATO, 12 juillet 2023](https://www.youtube.com/watch?v=KIDKRC0krFA)
 
 Intervention at BFMTV (France) : [Émission 7 jours BFM du 20 mai 2023](https://www.bfmtv.com/replay-emissions/7-jours-bfm/bakhmout-aux-mains-des-russes-kiev-dement-20-05_VN-202305200402.html)
 
