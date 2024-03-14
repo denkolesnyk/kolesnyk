@@ -16,9 +16,9 @@ But let's get back to the Russia-Iran agreement. The agreement is in line with t
 
 As far as the text is concerned, it should be noted that it follows similar language adopted in similar agreements. It notes the concern over the use of threats related to the use of information and communication technologies to "undermine the sovereignty and security of States and interference in their internal affairs".
 
-The text of the agreement (non-exhaustive list below) defines the main threats to information security arising from the use of information and communications technology, inter alia, for :
+The text of the agreement (non-exhaustive list below) defines the main threats to information security arising from the use of information and communications technology, inter alia, for:
 
-- undermine sovereignty and territorial integrity ;
+- undermine sovereignty and territorial integrity;
 - damaging economic interests, including through the destruction of critical and informational infrastructure;
 - commit data piracy;
 - interfering in the internal affairs of States, violating public order, inciting inter-ethnic hatred, inciting violence and instability, as well as destabilising domestic politics and the socio-economic situation;
@@ -28,7 +28,7 @@ One is a purely cyber element, expressed in cyber attacks to damage critical inf
 
 In terms of cooperation between the two countries, a distinction must be made between coordination within international organisations, countering threats to information security, the exchange of information (police, intelligence, etc.), and "cooperation to eliminate the negative consequences of unilateral coercive measures taken in violation of the Charter of the United Nations and international law in the field of information security".
 
-The agreement explicitly states that neither Russia nor Iran will conduct cyber attacks/information operations against each other.
+The agreement explicitly states that neither Russia nor Iran will conduct cyber attacks / information operations against each other.
 
 Official Iranian and Russian communication is also interesting in itself, with sources such as the official Iranian government website referring to the signing of a "Pact" for cooperation on information security. While Russia's head of diplomacy, Sergei Lavrov stated that he was opening up the possibility of coordination given the growing importance of problems in cyberspace and their growing influence on international relations and "the state of affairs in each country".
 

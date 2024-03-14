@@ -3,6 +3,10 @@ title = "Media"
 menu = "main"
 +++
 
+Comment for El Periódico (Catalonia, Spain): [Rusia pone cada vez más candados a internet](https://www.elperiodico.com/es/internacional/20240313/rusia-pone-candados-internet-represion-96813401)
+
+Intervention at Radio Liberty:[Инициатива Макрона: декларация или намерения?](https://www.youtube.com/watch?v=8lhgOFUekx0)
+
 Article in Revue Défense of Union-IHEDN (France): [L'Ukraine - la pierre angulaire de la sécurité polonaise](https://kolesnyk.fr/images/RevueDefense_Nov23HS_Kolesnyk.pdf)
 
 Comment for Le Parisien (France): [Guerre en Ukraine : brouille avec la Pologne, présidentielle américaine… le soutien à Kiev est-il en train de se fissurer ?](https://www.leparisien.fr/international/guerre-en-ukraine-brouille-avec-la-pologne-presidentielle-americaine-le-soutien-a-kiev-est-il-en-train-de-se-fissurer-21-09-2023-J3TL5DGWE5DRBM5MWL4QTHLEGI.php)
@@ -37,7 +41,7 @@ Intervention at TVP World (Poland): [Émission Rock Rachon 20 septembre 2022 «
 
 Intervention at BFMTV (France): [Émission Calvi3D avec Yves Calvi 20 septembre 2022 « Ukraine : Référendums d’annexion dès vendredi »](https://www.bfmtv.com/replay-emissions/calvi-3d/ukraine-referendums-d-annexion-des-vendredi-20-09_VN-202209200663.html)
 
-Comment for El Periódico (Catalonia, Spain) : [Las regiones ocupadas en Ucrania anuncian referendos para unirse a Rusia](https://www.elperiodico.com/es/internacional/20220920/regiones-ocupadas-ucrania-anuncian-referendum-adhesion-rusia-75678964)
+Comment for El Periódico (Catalonia, Spain): [Las regiones ocupadas en Ucrania anuncian referendos para unirse a Rusia](https://www.elperiodico.com/es/internacional/20220920/regiones-ocupadas-ucrania-anuncian-referendum-adhesion-rusia-75678964)
 
 Comment for El Periódico (Catalonia, Spain): [El Kremlin despide a Gorbachov sin un funeral de Estado](https://www.elperiodico.com/es/internacional/20220831/kremlin-organizara-funeral-despedir-gorbachov-14384106)
 
