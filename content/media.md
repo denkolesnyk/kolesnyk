@@ -5,7 +5,7 @@ menu = "main"
 
 Comment for El Periódico (Catalonia, Spain): [Rusia pone cada vez más candados a internet](https://www.elperiodico.com/es/internacional/20240313/rusia-pone-candados-internet-represion-96813401)
 
-Intervention at Radio Liberty:[Инициатива Макрона: декларация или намерения?](https://www.youtube.com/watch?v=8lhgOFUekx0)
+Intervention at Radio Liberty: [Инициатива Макрона: декларация или намерения?](https://www.youtube.com/watch?v=8lhgOFUekx0)
 
 Article in Revue Défense of Union-IHEDN (France): [L'Ukraine - la pierre angulaire de la sécurité polonaise](https://kolesnyk.fr/images/RevueDefense_Nov23HS_Kolesnyk.pdf)
 
@@ -13,13 +13,13 @@ Comment for Le Parisien (France): [Guerre en Ukraine : brouille avec la Pologne
 
 Comment for Le Parisien (France): [« Convoy », « Redut », « Patriot »… ces milices russes qui pourraient profiter du déclin de Wagner](https://www.leparisien.fr/international/convoy-redut-patriot-ces-milices-russes-qui-pourraient-profiter-du-declin-de-wagner-25-08-2023-DZGQFJA4RVBQTPQAW3TJQS3LAA.php)
 
-Intervention at TVP World (Pologne): [France's place in NATO, 12 juillet 2023](https://www.youtube.com/watch?v=KIDKRC0krFA)
+Intervention at TVP World (Poland): [France's place in NATO, 12 juillet 2023](https://www.youtube.com/watch?v=KIDKRC0krFA)
 
 Intervention at BFMTV (France) : [Émission 7 jours BFM du 20 mai 2023](https://www.bfmtv.com/replay-emissions/7-jours-bfm/bakhmout-aux-mains-des-russes-kiev-dement-20-05_VN-202305200402.html)
 
 Comment for Le Parisien (France): [« « Une guerre a été lancée contre notre patrie » : Poutine célèbre la victoire de 1945 et se paie à nouveau l’Occident »](https://www.leparisien.fr/international/guerre-en-ukraine-poutine-celebre-la-victoire-de-1945-et-se-paie-a-nouveau-loccident-09-05-2023-246NHMIGCFCTDAN2HV5UOZ3CVY.php) or paper version of May 10 ,2023, p. 6
 
-Comment for WP (Pologne): « [Czy Macron wyrzuci Rosjan z igrzysk w Paryżu? Francuz nie zostawia wątpliwości](https://sportowefakty.wp.pl/igrzyska-olimpijskie/1058215/czy-macron-wyrzuci-rosjan-z-igrzysk-w-paryzu-francuz-nie-zostawia-watpliwosci) »
+Comment for WP (Poland): « [Czy Macron wyrzuci Rosjan z igrzysk w Paryżu? Francuz nie zostawia wątpliwości](https://sportowefakty.wp.pl/igrzyska-olimpijskie/1058215/czy-macron-wyrzuci-rosjan-z-igrzysk-w-paryzu-francuz-nie-zostawia-watpliwosci) »
 
 Comment for Le Parisien (France): « [Tymofiï Chatoura, soldat fusillé de sang-froid érigé en martyr de la résistance ukrainienne](https://www.leparisien.fr/international/tymofii-chatoura-soldat-fusille-de-sang-froid-erige-en-martyr-de-la-resistance-ukrainienne-08-03-2023-LC34NKMMJBB7ZPAZDBAH7BQBVI.php) »
 
