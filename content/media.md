@@ -9,6 +9,8 @@ Intervention at Radio Liberty: [Инициатива Макрона: декла�
 
 Article in Revue Défense of Union-IHEDN (France): [L'Ukraine - la pierre angulaire de la sécurité polonaise](https://kolesnyk.fr/images/RevueDefense_Nov23HS_Kolesnyk.pdf)
 
+Comment for Le Parisien (France): [Guerre en Ukraine : la prise de Marinka par la Russie, « un gain tactique », mais pas « une grande victoire »](https://www.leparisien.fr/international/guerre-en-ukraine-la-prise-de-marinka-par-la-russie-un-gain-tactique-mais-pas-une-grande-victoire-27-12-2023-YR6Z52TPJRG57MFX5X6SA5T57M.php)
+
 Comment for Le Parisien (France): [Guerre en Ukraine : brouille avec la Pologne, présidentielle américaine… le soutien à Kiev est-il en train de se fissurer ?](https://www.leparisien.fr/international/guerre-en-ukraine-brouille-avec-la-pologne-presidentielle-americaine-le-soutien-a-kiev-est-il-en-train-de-se-fissurer-21-09-2023-J3TL5DGWE5DRBM5MWL4QTHLEGI.php)
 
 Comment for Le Parisien (France): [« Convoy », « Redut », « Patriot »… ces milices russes qui pourraient profiter du déclin de Wagner](https://www.leparisien.fr/international/convoy-redut-patriot-ces-milices-russes-qui-pourraient-profiter-du-declin-de-wagner-25-08-2023-DZGQFJA4RVBQTPQAW3TJQS3LAA.php)
