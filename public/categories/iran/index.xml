@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iran on dk</title>
-    <link>https://kolesnyk.fr/categories/iran/</link>
+    <link>http://localhost:1313/categories/iran/</link>
     <description>Recent content in Iran on dk</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kolesnyk.fr/categories/iran/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/iran/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Russia and Iran sign information security cooperation agreement</title>
-      <link>https://kolesnyk.fr/post/russia-and-iran-sign-information-security-cooperation-agreement/</link>
+      <link>http://localhost:1313/post/russia-and-iran-sign-information-security-cooperation-agreement/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://kolesnyk.fr/post/russia-and-iran-sign-information-security-cooperation-agreement/</guid>
+      <guid>http://localhost:1313/post/russia-and-iran-sign-information-security-cooperation-agreement/</guid>
       <description>On 26th of January, Russia and Iran signed a cooperation agreement in the field of information security. The agreement was signed in Moscow during a visit by Iran&amp;rsquo;s Foreign Minister, Mohammad Javad Zarif.</description>
     </item>
   </channel>

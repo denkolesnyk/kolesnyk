@@ -3,6 +3,8 @@ title = "Media"
 menu = "main"
 +++
 
+Discussion at France Info, Le Talk (France) : [Russie : À quoi sert la fête du « jour de la victoire » pour Vladimir Poutine ?](https://www.twitch.tv/videos/2141393806)
+
 Comment for El Periódico (Catalonia, Spain): [Rusia pone cada vez más candados a internet](https://www.elperiodico.com/es/internacional/20240313/rusia-pone-candados-internet-represion-96813401)
 
 Intervention at Radio Liberty: [Инициатива Макрона: декларация или намерения?](https://www.youtube.com/watch?v=8lhgOFUekx0)

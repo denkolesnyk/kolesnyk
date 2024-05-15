@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muscovy on dk</title>
-    <link>https://kolesnyk.fr/tags/muscovy/</link>
+    <link>http://localhost:1313/tags/muscovy/</link>
     <description>Recent content in Muscovy on dk</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kolesnyk.fr/tags/muscovy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/muscovy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discursus de bello Moscovitico</title>
-      <link>https://kolesnyk.fr/post/discursus-de-bello-moscovitico/</link>
+      <link>http://localhost:1313/post/discursus-de-bello-moscovitico/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://kolesnyk.fr/post/discursus-de-bello-moscovitico/</guid>
+      <guid>http://localhost:1313/post/discursus-de-bello-moscovitico/</guid>
       <description>On February 24, 2022, Russia launched a full-scale invasion of Ukraine. It was considered an unlikely event given several factors, including the insufficient Russian troops amassed at the Ukrainian border.</description>
     </item>
   </channel>

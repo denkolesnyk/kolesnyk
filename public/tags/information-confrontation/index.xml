@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information Confrontation on dk</title>
-    <link>https://kolesnyk.fr/tags/information-confrontation/</link>
+    <link>http://localhost:1313/tags/information-confrontation/</link>
     <description>Recent content in Information Confrontation on dk</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kolesnyk.fr/tags/information-confrontation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/information-confrontation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is Information Confrontation a new Russian concept?</title>
-      <link>https://kolesnyk.fr/post/is-information-confrontation-a-new-russian-concept/</link>
+      <link>http://localhost:1313/post/is-information-confrontation-a-new-russian-concept/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://kolesnyk.fr/post/is-information-confrontation-a-new-russian-concept/</guid>
+      <guid>http://localhost:1313/post/is-information-confrontation-a-new-russian-concept/</guid>
       <description>With the publication of Russia&amp;rsquo;s new National Security Strategy (NSS) last June, some Western experts began talking about &amp;ldquo;informational confrontation&amp;rdquo;. In particular, Michel Duclos of the Institut Montaigne published an article entitled &amp;ldquo;Russia&amp;rsquo;s National Security Strategy 2021: time for informational confrontation&amp;rdquo;, while Sergey Sukhankin of the Jamestown Foundation discussed information confrontation in the context of the use of the Russian private military company Wagner.</description>
     </item>
     <item>
       <title>Russia adopts a new National Security Strategy</title>
-      <link>https://kolesnyk.fr/post/russia-adopts-a-new-national-security-strategy/</link>
+      <link>http://localhost:1313/post/russia-adopts-a-new-national-security-strategy/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://kolesnyk.fr/post/russia-adopts-a-new-national-security-strategy/</guid>
+      <guid>http://localhost:1313/post/russia-adopts-a-new-national-security-strategy/</guid>
       <description>After around a year and a half of work on Russia&amp;rsquo;s new National Security Strategy (NSS), the process was finally completed on June 2 with the publication of Decree No.</description>
     </item>
   </channel>
