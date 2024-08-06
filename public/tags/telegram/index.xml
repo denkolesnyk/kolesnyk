@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram on dk</title>
+    <link>http://localhost:1313/tags/telegram/</link>
+    <description>Recent content in Telegram on dk</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grey Zone eliminated in Mali together with Russian mercenaries and the FAMa</title>
+      <link>http://localhost:1313/post/grey-zone-eliminated-in-mali/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/grey-zone-eliminated-in-mali/</guid>
+      <description>At the end of July 2024, a military convoy of the Malian Armed Forces (FAMa) supported by Russian mercenaries from Africa Corps (formerly Wagner) was eliminated near the town of Tinzaouatine in northern Mali by fighters from the Strategic Framework for the Defence of the People of Azawad (CSP-DPA).</description>
+    </item>
+  </channel>
+</rss>
