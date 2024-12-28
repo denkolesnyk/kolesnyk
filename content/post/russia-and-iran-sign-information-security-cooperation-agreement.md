@@ -1,9 +1,12 @@
 ---
-author: Denys Kolesnyk
 title: Russia and Iran sign information security cooperation agreement
+author: Denys Kolesnyk
 date: 2021-02-04
-tags: ["information security"]
-categories: ["Iran", "Russia"]
+categories:
+  - Iran
+  - Russia
+tags:
+  - information security
 ---
 
 On 26th of January, Russia and Iran signed a [cooperation agreement in the field of information security](https://mddoc.mid.ru/api/ia/download/?uuid=451cab2c-c651-471b-9e96-35a5793e8053). The agreement was signed in Moscow during a visit by Iran's Foreign Minister, Mohammad Javad Zarif.

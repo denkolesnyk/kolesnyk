@@ -1,95 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on dk</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on dk</description>
+    <title>Tags on Denys Kolesnyk</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Denys Kolesnyk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grey Zone</title>
-      <link>http://localhost:1313/tags/grey-zone/</link>
+      <link>//localhost:1313/tags/grey-zone/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/grey-zone/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Index</title>
-      <link>http://localhost:1313/tags/index/</link>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/index/</guid>
+      <guid>//localhost:1313/tags/grey-zone/</guid>
       <description></description>
     </item>
     <item>
       <title>Telegram</title>
-      <link>http://localhost:1313/tags/telegram/</link>
+      <link>//localhost:1313/tags/telegram/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/telegram/</guid>
+      <guid>//localhost:1313/tags/telegram/</guid>
       <description></description>
     </item>
     <item>
       <title>Information Warfare</title>
-      <link>http://localhost:1313/tags/information-warfare/</link>
+      <link>//localhost:1313/tags/information-warfare/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/information-warfare/</guid>
+      <guid>//localhost:1313/tags/information-warfare/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental Warfare</title>
-      <link>http://localhost:1313/tags/mental-warfare/</link>
+      <link>//localhost:1313/tags/mental-warfare/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mental-warfare/</guid>
+      <guid>//localhost:1313/tags/mental-warfare/</guid>
       <description></description>
     </item>
     <item>
       <title>History</title>
-      <link>http://localhost:1313/tags/history/</link>
+      <link>//localhost:1313/tags/history/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/history/</guid>
+      <guid>//localhost:1313/tags/history/</guid>
       <description></description>
     </item>
     <item>
       <title>Muscovy</title>
-      <link>http://localhost:1313/tags/muscovy/</link>
+      <link>//localhost:1313/tags/muscovy/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/muscovy/</guid>
+      <guid>//localhost:1313/tags/muscovy/</guid>
       <description></description>
     </item>
     <item>
       <title>L2I</title>
-      <link>http://localhost:1313/tags/l2i/</link>
+      <link>//localhost:1313/tags/l2i/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/l2i/</guid>
+      <guid>//localhost:1313/tags/l2i/</guid>
       <description></description>
     </item>
     <item>
       <title>Information Confrontation</title>
-      <link>http://localhost:1313/tags/information-confrontation/</link>
+      <link>//localhost:1313/tags/information-confrontation/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/information-confrontation/</guid>
+      <guid>//localhost:1313/tags/information-confrontation/</guid>
       <description></description>
     </item>
     <item>
       <title>Information Security</title>
-      <link>http://localhost:1313/tags/information-security/</link>
+      <link>//localhost:1313/tags/information-security/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/information-security/</guid>
+      <guid>//localhost:1313/tags/information-security/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflexive Control</title>
-      <link>http://localhost:1313/tags/reflexive-control/</link>
+      <link>//localhost:1313/tags/reflexive-control/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reflexive-control/</guid>
+      <guid>//localhost:1313/tags/reflexive-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Vladislav Surkov</title>
-      <link>http://localhost:1313/tags/vladislav-surkov/</link>
+      <link>//localhost:1313/tags/vladislav-surkov/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/vladislav-surkov/</guid>
+      <guid>//localhost:1313/tags/vladislav-surkov/</guid>
       <description></description>
     </item>
   </channel>

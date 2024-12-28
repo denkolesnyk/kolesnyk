@@ -1,0 +1,39 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Denys Kolesnyk"
+theme = "hugo-ivy"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Media"
+    url = "/media/"
+    weight = 3
+  [[menu.main]]
+    name = "Contact"
+    url = "mailto:dkolesnyk@pm.me"
+    weight = 4
+
+[params]
+  description = "French consultant & analyst"
+  footer = "&copy; Denys Kolesnyk 2018-{Year}"
+  highlightjsLang = ["latex"]
+  highlightjsTheme = "github"
+  highlightjsVersion = "11.7.0"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

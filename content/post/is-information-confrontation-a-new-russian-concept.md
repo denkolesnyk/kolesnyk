@@ -1,15 +1,18 @@
 ---
-author: Denys Kolesnyk
 title: "Is Information Confrontation a new Russian concept?"
+author: Denys Kolesnyk
 date: 2021-10-21
-tags: ["Information Confrontation"]
-categories: ["Russia"]
+categories:
+  - Russia
+tags:
+  - Information Confrontation
 ---
+
 With the publication of Russia's new [National Security Strategy](https://kolesnyk.fr/post/russia-adopts-a-new-national-security-strategy/) (NSS) last June, some Western experts began talking about "informational confrontation". In particular, Michel Duclos of the Institut Montaigne published an [article](https://www.institutmontaigne.org/blog/la-strategie-de-securite-nationale-russe-2021-lheure-de-la-confrontation-informationnelle) entitled "Russia's National Security Strategy 2021: time for informational confrontation", while Sergey Sukhankin of the Jamestown Foundation [discussed](https://www.la-croix.com/Monde/France-menacee-linfluence-russe-pre-carre-africain-2021-10-19-1201181313) information confrontation in the context of the use of the Russian private military company Wagner.
 
 Whatever the case, the word seems to have caught on. So the question arises: Is this a new concept or a new Russian approach?
 
-The short answer would be - no. But let's start with the definition of this "informational confrontation" mentioned in the Russian strategic document. There is some confusion about the very definition of this term. Some people in Russia see it as an adapted translation of the English term "Information Warfare", whereas there is no official definition given by the Russian authorities. Only the Russian Ministry of Defence gives a [definition] (https://encyclopedia.mil.ru/encyclopedia/dictionary/details.htm?id=5221@morfDictionary) for Information Confrontation taken from a military encyclopaedic dictionary, which differs from Information Warfare. So, to simplify, we can understand **Informational Confrontation** as:
+The short answer would be - no. But let's start with the definition of this "informational confrontation" mentioned in the Russian strategic document. There is some confusion about the very definition of this term. Some people in Russia see it as an adapted translation of the English term "Information Warfare", whereas there is no official definition given by the Russian authorities. Only the Russian Ministry of Defence gives a [definition](https://encyclopedia.mil.ru/encyclopedia/dictionary/details.htm?id=5221@morfDictionary) for Information Confrontation taken from a military encyclopaedic dictionary, which differs from Information Warfare. So, to simplify, we can understand **Informational Confrontation** as:
 
 > "*An integral part of relations and a form of interminable struggle between powers, each seeking to inflict damage on the enemy by impacting its information space through predominantly non-kinetic means*".
 
@@ -27,7 +30,7 @@ The [2000 Military Doctrine](https://www.ng.ru/politics/2000-04-22/5_doktrina.ht
 
 The [document](http://www.kremlin.ru/supplement/461) adopted ten years later notes "the increasing role of informational confrontation", "the development of the forces and means of informational confrontation", and the "advance implementation of informational confrontation measures to achieve political objectives without recourse to military force".
 
-The [current Military Doctrine] (https://rg.ru/2014/12/30/doktrina-dok.html) seems to avoid the term and limits itself to mentioning it in the following way: "development of forces and means of information confrontation", which was also mentioned in the 2010 version and the current National Security Strategy.
+The [current Military Doctrine](https://rg.ru/2014/12/30/doktrina-dok.html) seems to avoid the term and limits itself to mentioning it in the following way: "development of forces and means of information confrontation", which was also mentioned in the 2010 version and the current National Security Strategy.
 
 As we have seen, the term is not new and can easily be found in Russian strategic documents and traced back to at least 2000.
 

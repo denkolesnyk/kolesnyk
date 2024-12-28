@@ -1,9 +1,11 @@
 ---
-author: Denys Kolesnyk
 title: Vladislav Surkov on "Putin's long state"
+author: Denys Kolesnyk
 date: 2019-02-17
-tags: ["Vladislav Surkov"]
-categories: ["Russia"]
+categories:
+  - Russia
+tags:
+  - Vladislav Surkov
 ---
 ![](/images/vladislav-sourkov.jpg)
 

@@ -1,9 +1,13 @@
 ---
-author: Denys Kolesnyk
 title: Discursus de bello Moscovitico
+author: Denys Kolesnyk
 date: 2022-05-20
-tags: ["history", "Muscovy"]
-categories: ["Russia"]
+categories:
+  - Russia
+tags:
+  - history
+  - Muscovy
+
 ---
 
 ![Discursus de bello Moscovitico](/images/niemirycz-discursus-de-bello-moscovitico.jpeg)

@@ -1,13 +1,18 @@
-+++
-title = "Media"
-menu = "main"
-+++
+---
+title: In the media
+---
+
+Comment for Le Parisien (France): [« Je pense que nous perdrons » : pourquoi Zelensky affirme que la survie de l’Ukraine dépend des États-Unis](https://www.leparisien.fr/international/etats-unis/je-pense-que-nous-perdrons-pourquoi-zelensky-affirme-que-la-survie-de-lukraine-depend-des-etats-unis-20-11-2024-X4AOMAKBLJDPNPY5O7JQFCGMOU.php)
+
+Intervention at TVP World (Poland): [Le Pen Verdict Could Mean Political Ban, 18 November 2024](https://www.youtube.com/watch?v=AIqKG7iomkI)
+
+Comment for Le Parisien (France): [Craintes d’une attaque de Moscou d’ici 2030 : comment la Russie sème les graines d’une future guerre](https://www.leparisien.fr/international/craintes-dune-attaque-de-moscou-dici-2030-comment-la-russie-seme-les-graines-dune-future-guerre-16-10-2024-NWBIIDWPAVEUXJFER3KV2F2YPA.php)
+
+Intervention at TVP World (Poland): [Shooting near the Israeli consulate in Copenhagen, 4 October 2024](https://www.youtube.com/watch?v=7kuGqrnDl0M)
 
 Discussion at France Info, Le Talk (France) : [Russie : À quoi sert la fête du « jour de la victoire » pour Vladimir Poutine ?](https://www.twitch.tv/videos/2141393806)
 
 Comment for El Periódico (Catalonia, Spain): [Rusia pone cada vez más candados a internet](https://www.elperiodico.com/es/internacional/20240313/rusia-pone-candados-internet-represion-96813401)
-
-Intervention at Radio Liberty: [Инициатива Макрона: декларация или намерения?](https://www.youtube.com/watch?v=8lhgOFUekx0)
 
 Article in Revue Défense of Union-IHEDN (France): [L'Ukraine - la pierre angulaire de la sécurité polonaise](https://kolesnyk.fr/images/RevueDefense_Nov23HS_Kolesnyk.pdf)
 
@@ -17,7 +22,7 @@ Comment for Le Parisien (France): [Guerre en Ukraine : brouille avec la Pologne
 
 Comment for Le Parisien (France): [« Convoy », « Redut », « Patriot »… ces milices russes qui pourraient profiter du déclin de Wagner](https://www.leparisien.fr/international/convoy-redut-patriot-ces-milices-russes-qui-pourraient-profiter-du-declin-de-wagner-25-08-2023-DZGQFJA4RVBQTPQAW3TJQS3LAA.php)
 
-Intervention at TVP World (Poland): [France's place in NATO, 12 juillet 2023](https://www.youtube.com/watch?v=KIDKRC0krFA)
+Intervention at TVP World (Poland): [France's place in NATO, 12 July 2023](https://www.youtube.com/watch?v=KIDKRC0krFA)
 
 Intervention at BFMTV (France) : [Émission 7 jours BFM du 20 mai 2023](https://www.bfmtv.com/replay-emissions/7-jours-bfm/bakhmout-aux-mains-des-russes-kiev-dement-20-05_VN-202305200402.html)
 
@@ -41,7 +46,7 @@ Comment for Le Parisien (France): [« Russie : comment Moscou utilise le statut
 
 Intervention at LCI (France) : [Émission LCI Midi Week-end avec Solenn Riou 29 octobre 2022](https://www.tf1info.fr/replay-lci/video-lci-midi-week-end-du-29-octobre-2022-2237071.html)
 
-Intervention at TVP World (Poland): [Émission Rock Rachon 20 septembre 2022 « Rock Rachon 20.09 »](https://tvpworld.com/62868830/rock-rachon-2009)
+Intervention at TVP World (Poland): [Émission Rock Rachon 20 September 2022 « Rock Rachon 20.09 »](https://tvpworld.com/62868830/rock-rachon-2009)
 
 Intervention at BFMTV (France): [Émission Calvi3D avec Yves Calvi 20 septembre 2022 « Ukraine : Référendums d’annexion dès vendredi »](https://www.bfmtv.com/replay-emissions/calvi-3d/ukraine-referendums-d-annexion-des-vendredi-20-09_VN-202209200663.html)
 
@@ -73,8 +78,6 @@ Intervention at ANews (Turkey) : [Russia invades Ukraine](https://www.facebook.
 
 Comment for Ara (Catalonia, Spain): [Rússia retira tropes de la frontera amb Ucraïna i obre la porta a reconèixer les repúbliques de l’Est](https://www.ara.cat/internacional/russia-diu-seves-tropes-s-retirant-frontera-ucraina_1_4272135.html)
 
-Comment for ICTV (Ukraine): [Як пройшли переговори Макрона у Росії і чому його перемога на виборах важлива для України](https://fakty.com.ua/ua/ukraine/polituka/20220212-yak-projshly-peregovory-makrona-u-rosiyi-i-chomu-jogo-peremoga-na-vyborah-vazhlyva-dlya-ukrayiny/)
-
 Article in Military Technology 6/2021 (Germany): [France unveils information operations doctrine](https://kolesnyk.fr/images/miltech62021_franceL2I_kolesnyk.pdf)
 
 Article in Military Technology 5/2021 (Germany): [Zapad-2021 and Fears of Russian Invasion](https://kolesnyk.fr/images/miltech_zapad2021_kolesnyk.pdf)
@@ -88,8 +91,6 @@ Comment for Ara (Catalonia, Spain) : [Rússia sorteja apartaments i cotxes entr
 Comment for Ara (Catalonia, Spain): [Rússia i la Xina capitalitzen la desfeta dels Estats Units a l’Afganistan](https://www.ara.cat/internacional/russia-xina-capitalitzen-desfeta-dels-estats-units-l-afganistan_1_4092749.html)
 
 Article in European Security & Defence (Germany): [France updates its 2017 Defence and National Security Strategic Review](https://kolesnyk.fr/images/ESD_France_Actu_Strategique_KOLESNYK.pdf)
-
-Intervention at Європейська Правда (Ukraine): [Французьсий “Зе” проти Макрона](https://youtu.be/Omn5WmqOpzk)
 
 Article in Military Technology 3/2021 (Germany): [Doctrine Demands Information Warfare Components](https://kolesnyk.fr/images/miltech_doctrine_demands_information_warfare_components_kolesnyk.pdf)
 

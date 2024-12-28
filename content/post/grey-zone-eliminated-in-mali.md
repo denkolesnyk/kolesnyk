@@ -1,9 +1,13 @@
 ---
-author: Denys Kolesnyk
 title: Grey Zone eliminated in Mali together with Russian mercenaries and the FAMa
+author: Denys Kolesnyk
 date: 2024-08-06
-tags: ["Grey Zone", "Telegram"]
-categories: ["Mali", "Russia"]
+categories:
+  - Mali
+  - Russia
+tags:
+  - Grey Zone
+  - Telegram
 ---
 
 *This article was originally published in French on August 6, 2024, on [Info Ops France](https://infoops.fr/posts/grey-zone-elimine-au-mali/).*

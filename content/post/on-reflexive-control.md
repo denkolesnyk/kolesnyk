@@ -1,9 +1,12 @@
 ---
-author: Denys Kolesnyk
 title: On Reflexive Control
+author: Denys Kolesnyk
 date: 2019-11-26
-tags: ["Reflexive Control", "Information Warfare"]
-categories: ["Russia"]
+categories:
+  - Russia
+tags:
+  - Information Warfare
+  - Reflexive Control
 ---
 
 In democracies, public opinion lies at the very heart of how society functions and is a factor that influences decision-making by the authorities. However, public opinion can not only exert pressure on the government in decision-making, but the government can also take steps to influence public opinion to support its decision or create support for reform. But with the advent of digital technology and the massive proliferation of the Internet, public opinion can be shaped from the outside, particularly by foreign powers.

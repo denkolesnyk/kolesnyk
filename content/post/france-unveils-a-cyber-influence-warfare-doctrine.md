@@ -1,9 +1,12 @@
 ---
-author: Denys Kolesnyk
 title: France unveils a Cyber Influence Warfare doctrine
+author: Denys Kolesnyk
 date: 2021-11-01
-tags: ["Information Warfare", "L2I"]
-categories: ["France"]
+categories:
+  - France
+tags:
+  - Information Warfare
+  - L2I
 ---
 
 ![](/images/parly_burkhard.jpeg)

@@ -1,9 +1,12 @@
 ---
-author: Denys Kolesnyk
 title: Mental Warfare - Russian-style Cognitive Warfare
-date: 2023-10-05
-tags: ["Information Warfare", "Mental Warfare"]
-categories: ["Russia"]
+author: Denys Kolesnyk
+date: '2023-10-05'
+categories:
+  - Russia
+tags:
+  - Information Warfare
+  - Mental Warfare
 ---
 
 *This article was originally published on January 27, 2023, on [Info Ops France](https://infoops.fr/posts/la-guerre-mentale-la-guerre-cognitive-a-la-russe/).*

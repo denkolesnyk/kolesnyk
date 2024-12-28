@@ -1,9 +1,12 @@
 ---
-author: Denys Kolesnyk
 title: Russia adopts a new National Security Strategy
+author: Denys Kolesnyk
 date: 2021-07-16
-tags: ["Information Warfare", "Information Confrontation"]
-categories: ["Russia"]
+categories:
+  - Russia
+tags:
+  - Information Warfare
+  - Information Confrontation
 ---
 
 After around a year and a half of work on Russia's new [National Security Strategy (NSS)](http://static.kremlin.ru/media/events/files/ru/QZw6hSk5z9gWq0plD1ZzmR5cER0g5tZC.pdf), the process was finally completed on June 2 with the publication of Decree No. 400. This document, signed by Russian President Vladimir Putin, replaces the old NSS in force since December 31, 2015.

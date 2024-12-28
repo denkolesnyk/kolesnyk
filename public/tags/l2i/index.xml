@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>L2I on dk</title>
-    <link>http://localhost:1313/tags/l2i/</link>
-    <description>Recent content in L2I on dk</description>
+    <title>L2I on Denys Kolesnyk</title>
+    <link>//localhost:1313/tags/l2i/</link>
+    <description>Recent content in L2I on Denys Kolesnyk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/l2i/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/l2i/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>France unveils a Cyber Influence Warfare doctrine</title>
-      <link>http://localhost:1313/post/france-unveils-a-cyber-influence-warfare-doctrine/</link>
+      <link>//localhost:1313/post/france-unveils-a-cyber-influence-warfare-doctrine/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/france-unveils-a-cyber-influence-warfare-doctrine/</guid>
-      <description>At a press conference on October 21, French Defense Minister Florence Parly and Army Chief of Staff General Thierry Burkhard presented the Military Doctrine of Cyber Influence Warfare (Doctrine militaire de lutte informatique d&amp;rsquo;influence - L2I).</description>
+      <guid>//localhost:1313/post/france-unveils-a-cyber-influence-warfare-doctrine/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/parly_burkhard.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;At a press conference on October 21, French Defense Minister Florence Parly and Army Chief of Staff General Thierry Burkhard presented the &lt;a href=&#34;https://www.defense.gouv.fr/sites/default/files/ema/Doctrine%20de%20lutte%20informatique%20d%25u2019influence%20%28L2I%29.pdf&#34;&gt;Military Doctrine of Cyber Influence Warfare&lt;/a&gt; (&lt;em&gt;Doctrine militaire de lutte informatique d&amp;rsquo;influence - L2I&lt;/em&gt;). The publication of &amp;ldquo;public elements&amp;rdquo; of this doctrine may indicate that France recognizes and assumes the conduct of information operations, including on social media, but also demonstrates that a gap at a doctrinal level that exists in relation to Russia or China is shrinking.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
