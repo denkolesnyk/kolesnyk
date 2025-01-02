@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Ukraine</title>
+      <link>//localhost:1313/categories/ukraine/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/ukraine/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>France</title>
       <link>//localhost:1313/categories/france/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
