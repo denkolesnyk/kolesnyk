@@ -95,8 +95,13 @@
     <loc>//localhost:1313/post/vladislav-surkov-on-putin-long-state/</loc>
     <lastmod>2019-02-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/post/information-warfare-according-to-komov/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
     <loc>//localhost:1313/media/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/</loc>
   </url>
 </urlset>
