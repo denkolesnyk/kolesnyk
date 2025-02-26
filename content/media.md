@@ -2,6 +2,8 @@
 title: In the media
 ---
 
+Comment for El Periódico (Catalonia, Spain): [Inflación y menos libertades: el precio que paga Rusia por tres años de guerra en Ucrania](https://www.elperiodico.com/es/internacional/20250224/inflacion-menos-libertades-precio-rusia-guerra-ucrania-114552231)
+
 Comment for Le Parisien (France): [« Je pense que nous perdrons » : pourquoi Zelensky affirme que la survie de l’Ukraine dépend des États-Unis](https://www.leparisien.fr/international/etats-unis/je-pense-que-nous-perdrons-pourquoi-zelensky-affirme-que-la-survie-de-lukraine-depend-des-etats-unis-20-11-2024-X4AOMAKBLJDPNPY5O7JQFCGMOU.php)
 
 Intervention at TVP World (Poland): [Le Pen Verdict Could Mean Political Ban, 18 November 2024](https://www.youtube.com/watch?v=AIqKG7iomkI)
