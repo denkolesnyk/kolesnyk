@@ -108,6 +108,8 @@ Intervention at “Le Débat” on France 24 (France): [L’après Poutine en R
 
 Article in Middle East Eye French edition (United Kingdom): [Les Russes assurent leur présence militaire en mer Rouge](https://www.middleeasteye.net/fr/decryptages/russie-soudan-yemen-mer-rouge-base-navale-poutine)
 
+2018
+
 Intervention in “The Debate” on France 24 (France): [Sea of trouble: Russia seizes Ukrainian vessels](https://youtu.be/ks4IumeosgE)
 
 Article dans le magazine European Security & Defence (Germany): [Arming Ukraine](https://kolesnyk.fr/images/ESD_Arming_Ukraine_Kolesnyk.pdf)

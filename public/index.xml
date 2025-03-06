@@ -90,7 +90,7 @@
       <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/dk_pic.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Denys Kolesnyk is a French analyst and consultant based in Paris. He specializes in security and defense issues in Central and Eastern Europe, including Poland, Ukraine and Russia. In particular, he focuses on Information Warfare and influence.&lt;/p&gt;&#xA;&lt;p&gt;He has worked at the NATO Liaison Office, with Effective Engagement Strategies, and as a consultant for numerous other entities. 2022 he founded &lt;a href=&#34;https://infoops.fr/&#34;&gt;Info Ops France&lt;/a&gt; - an initiative aimed at improving the informational resilience of French society.&lt;/p&gt;</description>
+      <description>&lt;div style=&#34;float: left; margin-right: 15px;&#34;&gt;&#xA;  &lt;img src=&#34;//localhost:1313/images/dk_pic.jpeg&#34; width=&#34;220&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Denys Kolesnyk is a French analyst and consultant based in Paris. He specializes in security and defense issues in Central and Eastern Europe, including Poland, Ukraine, and Russia. In particular, he focuses on Information Warfare and influence.&lt;/p&gt;&#xA;&lt;p&gt;He has worked at the NATO Liaison Office, with Effective Engagement Strategies, and as a consultant for numerous other entities. In 2022, he founded &lt;a href=&#34;https://infoops.fr/&#34;&gt;Info Ops France&lt;/a&gt; — an initiative aimed at improving the informational resilience of French society.&lt;/p&gt;</description>
     </item>
     <item>
       <title>In the media</title>
