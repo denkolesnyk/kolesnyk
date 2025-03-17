@@ -2,7 +2,7 @@
 title: Services
 ---
 
-I provide expert analysis in **geopolitics**, **disinformation**, and **strategic risk**, delivering actionable insights through advanced analytics and multilingual expertise. I combine advanced analytical techniques with multilingual and multicultural expertise to deliver actionable insights. My services are designed for governments, corporations, NGOs, and media organizations seeking clarity for decision-making in an increasingly complex and less secure world.
+I provide expert analysis in **geopolitics**, **disinformation**, and **strategic risk**, delivering actionable insights. By integrating advanced analytical techniques with deep multilingual and multicultural understanding, I offer clear, data-driven assessments. My services cater to governments, corporations, NGOs, and media organizations, helping them navigate an increasingly complex and uncertain world with confidence.
 
 My **geopolitical analysis** helps clients anticipate risks, understand macro trends, and craft strategic responses to emerging challenges. I provide scenario forecasting, policy advisory, and in-depth analytical notes and situation reports on key regions, including France, Central & Eastern Europe, and Russia.  
 
