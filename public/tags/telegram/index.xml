@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Telegram on Denys Kolesnyk</title>
-    <link>//localhost:1313/tags/telegram/</link>
+    <link>/tags/telegram/</link>
     <description>Recent content in Telegram on Denys Kolesnyk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grey Zone eliminated in Mali together with Russian mercenaries and the FAMa</title>
-      <link>//localhost:1313/post/grey-zone-eliminated-in-mali/</link>
+      <link>/post/grey-zone-eliminated-in-mali/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/grey-zone-eliminated-in-mali/</guid>
+      <guid>/post/grey-zone-eliminated-in-mali/</guid>
       <description>&lt;p&gt;&lt;em&gt;This article was originally published in French on August 6, 2024, on &lt;a href=&#34;https://infoops.fr/posts/grey-zone-elimine-au-mali/&#34;&gt;Info Ops France&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;At the end of July 2024, a military convoy of the Malian Armed Forces (FAMa) supported by Russian mercenaries from Africa Corps (formerly Wagner) was eliminated near the town of Tinzaouatine in northern Mali by fighters from the Strategic Framework for the Defence of the People of Azawad (CSP-DPA). In this fight, the person behind the Telegram channel affiliated to the Russian mercenary galaxy &amp;ldquo;GREY ZONE&amp;rdquo;, nickname &amp;ldquo;Белый&amp;rdquo; (&lt;em&gt;from Russian - White&lt;/em&gt;) lost his life &amp;ldquo;with weapons in his hands&amp;rdquo;, according to the Russians.&lt;/p&gt;</description>
     </item>
   </channel>
