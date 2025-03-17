@@ -101,5 +101,7 @@
     <loc>//localhost:1313/about/</loc>
   </url><url>
     <loc>//localhost:1313/media/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/</loc>
   </url>
 </urlset>
