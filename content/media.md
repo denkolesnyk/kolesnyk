@@ -14,7 +14,7 @@ Comment for Le Parisien (France): [Craintes d’une attaque de Moscou d’ici 20
 
 Intervention at TVP World (Poland): [Shooting near the Israeli consulate in Copenhagen, 4 October 2024](https://www.youtube.com/watch?v=7kuGqrnDl0M)
 
-Discussion at France Info, Le Talk (France) : [Russie : À quoi sert la fête du « jour de la victoire » pour Vladimir Poutine ?](https://www.twitch.tv/videos/2141393806)
+Discussion at France Info, Le Talk (France) : [Russie : À quoi sert la fête du « jour de la victoire » pour Vladimir Poutine ?](https://www.youtube.com/watch?v=MriLcBaw3v0)
 
 Comment for El Periódico (Catalonia, Spain): [Rusia pone cada vez más candados a internet](https://www.elperiodico.com/es/internacional/20240313/rusia-pone-candados-internet-represion-96813401)
 
