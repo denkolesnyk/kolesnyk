@@ -2,6 +2,8 @@
 title: In the media
 ---
 
+Comment for Le Parisien (France): (Ukraine : pourquoi le cessez-le-feu sur les infrastructures énergétiques obtenu par Trump ne profiterait qu’à la Russie)[https://www.leparisien.fr/international/ukraine-pourquoi-le-cessez-le-feu-sur-les-infrastructures-energetiques-obtenu-par-trump-ne-profiterait-qua-la-russie-19-03-2025-XN2YOBY5YZDT7KIE3OPRTMIOKQ.php]
+
 Comment for El Periódico (Catalonia, Spain): [Inflación y menos libertades: el precio que paga Rusia por tres años de guerra en Ucrania](https://www.elperiodico.com/es/internacional/20250224/inflacion-menos-libertades-precio-rusia-guerra-ucrania-114552231)
 
 Comment for Le Parisien (France): [« Je pense que nous perdrons » : pourquoi Zelensky affirme que la survie de l’Ukraine dépend des États-Unis](https://www.leparisien.fr/international/etats-unis/je-pense-que-nous-perdrons-pourquoi-zelensky-affirme-que-la-survie-de-lukraine-depend-des-etats-unis-20-11-2024-X4AOMAKBLJDPNPY5O7JQFCGMOU.php)
