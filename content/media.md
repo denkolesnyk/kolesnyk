@@ -14,6 +14,12 @@ Comment for Le Parisien (France): [Craintes d’une attaque de Moscou d’ici 20
 
 Intervention at TVP World (Poland): [Shooting near the Israeli consulate in Copenhagen, 4 October 2024](https://www.youtube.com/watch?v=7kuGqrnDl0M)
 
+Intervention at TVP World (Poland): [Centrist and Left Voters Relieved, 8 July 2024](https://www.youtube.com/watch?v=Wl5gOGGdfzs)
+
+Intervention at TVP World (Poland): [Economic, military, and political aspects of the Weimar triangle meeting, 26 June 2024](https://www.youtube.com/watch?v=DvSoHhMSr0E)
+
+Intervention at TVP World (Poland): [Polish Farmers Suspend Blockade of Ukrainian Border, 30 April 2024](https://www.youtube.com/watch?v=Xk2Mj-7MEHM)
+
 Discussion at France Info, Le Talk (France) : [Russie : À quoi sert la fête du « jour de la victoire » pour Vladimir Poutine ?](https://www.youtube.com/watch?v=MriLcBaw3v0)
 
 Comment for El Periódico (Catalonia, Spain): [Rusia pone cada vez más candados a internet](https://www.elperiodico.com/es/internacional/20240313/rusia-pone-candados-internet-represion-96813401)
