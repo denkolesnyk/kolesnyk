@@ -2,6 +2,8 @@
 title: In the media
 ---
 
+Comment for TRT Global (Turkey): [Is growing ‘Ukraine fatigue’ spurring rise of the far-right in Poland?](https://trt.global/world/article/9e0d3ddfc2a3)
+
 Comment for Le Parisien (France): [Ukraine : pourquoi le cessez-le-feu sur les infrastructures énergétiques obtenu par Trump ne profiterait qu’à la Russie](https://www.leparisien.fr/international/ukraine-pourquoi-le-cessez-le-feu-sur-les-infrastructures-energetiques-obtenu-par-trump-ne-profiterait-qua-la-russie-19-03-2025-XN2YOBY5YZDT7KIE3OPRTMIOKQ.php)
 
 Comment for El Periódico (Catalonia, Spain): [Inflación y menos libertades: el precio que paga Rusia por tres años de guerra en Ucrania](https://www.elperiodico.com/es/internacional/20250224/inflacion-menos-libertades-precio-rusia-guerra-ucrania-114552231)
