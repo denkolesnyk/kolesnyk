@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iran on Denys Kolesnyk</title>
-    <link>//localhost:1313/categories/iran/</link>
+    <link>/categories/iran/</link>
     <description>Recent content in Iran on Denys Kolesnyk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/iran/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/iran/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Russia and Iran sign information security cooperation agreement</title>
-      <link>//localhost:1313/post/russia-and-iran-sign-information-security-cooperation-agreement/</link>
+      <link>/post/russia-and-iran-sign-information-security-cooperation-agreement/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/russia-and-iran-sign-information-security-cooperation-agreement/</guid>
+      <guid>/post/russia-and-iran-sign-information-security-cooperation-agreement/</guid>
       <description>&lt;p&gt;On 26th of January, Russia and Iran signed a &lt;a href=&#34;https://mddoc.mid.ru/api/ia/download/?uuid=451cab2c-c651-471b-9e96-35a5793e8053&#34;&gt;cooperation agreement in the field of information security&lt;/a&gt;. The agreement was signed in Moscow during a visit by Iran&amp;rsquo;s Foreign Minister, Mohammad Javad Zarif.&lt;/p&gt;&#xA;&lt;p&gt;It should be noted that Russia has signed similar agreements in the past, notably within the framework of the Collective Security Treaty Organisation (CSTO) and the Commonwealth of Independent States (CIS). Moscow has also concluded similar agreements at a bilateral level, albeit with some differences. These include cooperation agreements in the field of international information security.&lt;/p&gt;</description>
     </item>
   </channel>
