@@ -2,6 +2,8 @@
 title: In the media
 ---
 
+Op-ed in TRT Global (Turkey): [Is Karol Nawrocki’s victory in Poland a turning point for Europe?](https://trt.global/world/article/82352b034aa7)
+
 Intervention at TVP World (Poland): [Macron and Meloni Reset Ties Amid EU Tensions](https://www.youtube.com/watch?v=b2O1d0W74HY)
 
 Comment for TRT Global (Turkey): [Is growing ‘Ukraine fatigue’ spurring rise of the far-right in Poland?](https://trt.global/world/article/9e0d3ddfc2a3)
