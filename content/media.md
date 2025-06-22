@@ -2,6 +2,8 @@
 title: In the media
 ---
 
+Intervention at TVP World (Poland): [Russia unlikely to defend Iran](https://tvpworld.com/87364268/russia-unlikely-to-defend-iran-analyst-tells-tvp-world)
+
 Op-ed in TRT Global (Turkey): [Is Karol Nawrocki’s victory in Poland a turning point for Europe?](https://trt.global/world/article/82352b034aa7)
 
 Intervention at TVP World (Poland): [Macron and Meloni Reset Ties Amid EU Tensions](https://www.youtube.com/watch?v=b2O1d0W74HY)
