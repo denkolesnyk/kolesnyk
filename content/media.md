@@ -2,6 +2,8 @@
 title: In the media
 ---
 
+Intervention at TVP World (Poland): [France Won’t Replace U.S. as Security Guarantor, But Aims to Lead on Defense](https://www.youtube.com/watch?v=QRKdPBYMyLU)
+
 Intervention at TVP World (Poland): [Russia unlikely to defend Iran](https://tvpworld.com/87364268/russia-unlikely-to-defend-iran-analyst-tells-tvp-world)
 
 Op-ed in TRT Global (Turkey): [Is Karol Nawrocki’s victory in Poland a turning point for Europe?](https://trt.global/world/article/82352b034aa7)
