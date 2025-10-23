@@ -2,6 +2,14 @@
 title: In the media
 ---
 
+Article in Revue Défense of Union-IHEDN (France): [L'Europe après la guerre russo-ukrainienne : quelle place pour la Pologne ?](https://kolesnyk.fr/images/RevueDefense_OctNov25_Kolesnyk.pdf)
+
+Comment for Le Parisien (France): [Volodymyr Zelensky peut-il profiter de la séquence à Gaza pour amener Donald Trump à régler la guerre en Ukraine ?](https://www.leparisien.fr/international/ukraine/volodymyr-zelensky-peut-il-profiter-de-la-sequence-a-gaza-pour-amener-donald-trump-a-regler-la-guerre-en-ukraine-15-10-2025-KR4PKYJG3RH3PEJHNG3DVMTGWM.php)
+
+Intervention at TVP World (Poland): [Macron under pressure: France’s political and economic storm](https://www.youtube.com/watch?v=RBC0TCM0xHA)
+
+Intervention at TVP World (Poland): [Palestine recognized by more countries](https://www.youtube.com/watch?v=sCWAc4onJpk)
+
 Intervention at TVP World (Poland): [France Won’t Replace U.S. as Security Guarantor, But Aims to Lead on Defense](https://www.youtube.com/watch?v=QRKdPBYMyLU)
 
 Intervention at TVP World (Poland): [Russia unlikely to defend Iran](https://tvpworld.com/87364268/russia-unlikely-to-defend-iran-analyst-tells-tvp-world)
