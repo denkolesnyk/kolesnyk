@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muscovy on Denys Kolesnyk</title>
-    <link>//localhost:1313/tags/muscovy/</link>
+    <link>/tags/muscovy/</link>
     <description>Recent content in Muscovy on Denys Kolesnyk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/muscovy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/muscovy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discursus de bello Moscovitico</title>
-      <link>//localhost:1313/post/discursus-de-bello-moscovitico/</link>
+      <link>/post/discursus-de-bello-moscovitico/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/discursus-de-bello-moscovitico/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/niemirycz-discursus-de-bello-moscovitico.jpeg&#34; alt=&#34;Discursus de bello Moscovitico&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;On February 24, 2022, Russia launched a full-scale invasion of Ukraine. It was considered an unlikely event given several factors, including the insufficient Russian troops amassed at the Ukrainian border.&lt;/p&gt;&#xA;&lt;p&gt;To date, the Russians have suffered many defeats, notably failing to capture Kyiv, make Ukraine surrender, or even take Kharkiv - a city barely 40 kilometres from the Russian border. The Russian army performed significantly less well than estimated, and almost three months after the start of the Russian invasion, it is unlikely that they&amp;rsquo;ll manage to achieve their goals.&lt;/p&gt;</description>
+      <guid>/post/discursus-de-bello-moscovitico/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/niemirycz-discursus-de-bello-moscovitico.jpeg&#34; alt=&#34;Discursus de bello Moscovitico&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;On February 24, 2022, Russia launched a full-scale invasion of Ukraine. It was considered an unlikely event given several factors, including the insufficient Russian troops amassed at the Ukrainian border.&lt;/p&gt;&#xA;&lt;p&gt;To date, the Russians have suffered many defeats, notably failing to capture Kyiv, make Ukraine surrender, or even take Kharkiv - a city barely 40 kilometres from the Russian border. The Russian army performed significantly less well than estimated, and almost three months after the start of the Russian invasion, it is unlikely that they&amp;rsquo;ll manage to achieve their goals.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
