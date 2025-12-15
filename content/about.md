@@ -6,10 +6,10 @@ title: About
   <img src="/images/dk_pic.jpeg" width="220">
 </div>
 
-Denys Kolesnyk is a French analyst and consultant based in Paris. He specialises in security and defence issues in Central and Eastern Europe, including Poland, Ukraine, and Russia. In particular, he focuses on Information Warfare and influence.
+Denys Kolesnyk is a French geopolitical and information risk consultant based in Paris. He specialises in security and defence issues in Central and Eastern Europe, including Poland, Ukraine, and Russia. In particular he focuses on Information Warfare and influence operations.
 
-He has worked at the NATO Liaison Office, with Effective Engagement Strategies, and as a consultant for numerous other entities. In 2022, he founded [Info Ops France](https://infoops.fr/) — an initiative aimed at improving the informational resilience of French society. Since mid-2023, Mr. Kolesnyk has supported ESN as an *ad hoc* FIMI / disinformation expert. And,  he also currently serves as President of the [MENA Research Center](https://www.mena-researchcenter.org) think-tank.
+He has worked at the NATO Liaison Office to Ukraine, with Effective Engagement Strategies, and as a consultant for numerous other entities. In 2022, he founded [Info Ops France](https://infoops.fr/) — an initiative aimed at improving the informational resilience of French society. Since mid-2023, Mr. Kolesnyk has supported ESN as an *ad hoc* FIMI / disinformation expert. He also currently serves as President of the [MENA Research Center](https://www.mena-researchcenter.org) think-tank.
 
-Mr. Kolesnyk holds a Master's degree in International Relations from the Université Paris II Panthéon-Assas and, since late 2019, has been pursuing his [PhD](https://theses.fr/s232384) at the Conservatoire national des arts et métiers (CNAM), focusing on the issues of disinformation, social networks, media narratives, and their impact on public opinion.
+Mr. Kolesnyk holds a Master's degree in International Relations from the Université Paris II Panthéon-Assas and is pursuing his PhD at the Conservatoire national des arts et métiers (CNAM), focusing on the issues of disinformation, social networks, media narratives, and their impact on public opinion. He tweets at [@denkolesnyk](https://x.com/denkolesnyk).
 
 He tweets at [@denkolesnyk](https://x.com/denkolesnyk).

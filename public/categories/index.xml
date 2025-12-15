@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Denys Kolesnyk</title>
-    <link>/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Denys Kolesnyk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mali</title>
-      <link>/categories/mali/</link>
+      <link>//localhost:1313/categories/mali/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/categories/mali/</guid>
+      <guid>//localhost:1313/categories/mali/</guid>
       <description></description>
     </item>
     <item>
       <title>Russia</title>
-      <link>/categories/russia/</link>
+      <link>//localhost:1313/categories/russia/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/categories/russia/</guid>
+      <guid>//localhost:1313/categories/russia/</guid>
       <description></description>
     </item>
     <item>
       <title>Ukraine</title>
-      <link>/categories/ukraine/</link>
+      <link>//localhost:1313/categories/ukraine/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/ukraine/</guid>
+      <guid>//localhost:1313/categories/ukraine/</guid>
       <description></description>
     </item>
     <item>
       <title>France</title>
-      <link>/categories/france/</link>
+      <link>//localhost:1313/categories/france/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/france/</guid>
+      <guid>//localhost:1313/categories/france/</guid>
       <description></description>
     </item>
     <item>
       <title>Iran</title>
-      <link>/categories/iran/</link>
+      <link>//localhost:1313/categories/iran/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/iran/</guid>
+      <guid>//localhost:1313/categories/iran/</guid>
       <description></description>
     </item>
   </channel>

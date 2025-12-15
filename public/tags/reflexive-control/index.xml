@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reflexive Control on Denys Kolesnyk</title>
-    <link>/tags/reflexive-control/</link>
+    <link>//localhost:1313/tags/reflexive-control/</link>
     <description>Recent content in Reflexive Control on Denys Kolesnyk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/reflexive-control/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/reflexive-control/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Reflexive Control</title>
-      <link>/post/on-reflexive-control/</link>
+      <link>//localhost:1313/post/on-reflexive-control/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/post/on-reflexive-control/</guid>
+      <guid>//localhost:1313/post/on-reflexive-control/</guid>
       <description>&lt;p&gt;In democracies, public opinion lies at the very heart of how society functions and is a factor that influences decision-making by the authorities. However, public opinion can not only exert pressure on the government in decision-making, but the government can also take steps to influence public opinion to support its decision or create support for reform. But with the advent of digital technology and the massive proliferation of the Internet, public opinion can be shaped from the outside, particularly by foreign powers.&lt;/p&gt;</description>
     </item>
   </channel>
