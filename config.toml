@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "en-uk"
 title = "Denys Kolesnyk"
 theme = "hugo-ivy"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
