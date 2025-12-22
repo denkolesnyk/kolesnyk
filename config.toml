@@ -29,7 +29,7 @@ footnotereturnlinkcontents = "↩"
     weight = 5
 
 [params]
-  description = "Geopolitical and Information Risk Consultant"
+  description = "Geopolitical & Information Risk Consultant"
   footer = "&copy; Denys Kolesnyk 2019-{Year}"
   highlightjsLang = ["latex"]
   highlightjsTheme = "github"
