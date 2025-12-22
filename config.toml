@@ -29,8 +29,8 @@ footnotereturnlinkcontents = "↩"
     weight = 5
 
 [params]
-  description = "French consultant & analyst"
-  footer = "&copy; Denys Kolesnyk 2018-{Year}"
+  description = "Geopolitical and Information Risk Consultant"
+  footer = "&copy; Denys Kolesnyk 2019-{Year}"
   highlightjsLang = ["latex"]
   highlightjsTheme = "github"
   highlightjsVersion = "11.7.0"
