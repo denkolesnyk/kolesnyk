@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en-uk">
+<html lang="en-GB">
 
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
@@ -17,7 +17,7 @@
 
     
       
-      <meta property="description" content="
+      <meta name="description" content="
 A few days ago, Vladislav Surkov, the man behind the &ldquo;power vertical&rdquo; and &ldquo;sovereign democracy&rdquo; concept of Vladimir Putin&rsquo;s first presidential term, published an opinion &amp;hellip;">
       <meta property="og:description" content="
 A few days ago, Vladislav Surkov, the man behind the &ldquo;power vertical&rdquo; and &ldquo;sovereign democracy&rdquo; concept of Vladimir Putin&rsquo;s first presidential term, published an opinion &amp;hellip;">
@@ -27,10 +27,20 @@ A few days ago, Vladislav Surkov, the man behind the &ldquo;power vertical&rdquo
     
     
     
-
+    
+    
+    <meta name="twitter:image" content="http://localhost:1313/images/dk_pic.jpeg">
+    <meta property="og:image" content="http://localhost:1313/images/dk_pic.jpeg">
+    
     
 
     
+
+    <link rel="canonical" href="http://localhost:1313/post/vladislav-surkov-on-putin-long-state/">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
     
 
     <link rel="stylesheet" href="/css/style.css" />
@@ -66,6 +76,12 @@ A few days ago, Vladislav Surkov, the man behind the &ldquo;power vertical&rdquo
   
   </ul>
 </nav>
+<div class="masthead-actions">
+  <a href="https://x.com/denkolesnyk" target="_blank" rel="noopener" aria-label="@denkolesnyk on X" title="@denkolesnyk on X" class="x-link">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.73-8.835L1.254 2.25H8.08l4.253 5.622 5.912-5.622Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+  </a>
+  <button id="theme-toggle" aria-label="Toggle light/dark mode" title="Toggle light/dark mode"></button>
+</div>
 
     </header>
 
@@ -98,8 +114,8 @@ Denys Kolesnyk
 
 
 
-<p><img src="/images/vladislav-sourkov.jpg" alt=""></p>
-<p>A few days ago, Vladislav Surkov, the man behind the &ldquo;power vertical&rdquo; and &ldquo;sovereign democracy&rdquo; concept of Vladimir Putin&rsquo;s first presidential term, published an <a href="http://www.ng.ru/ideas/2019-02-11/5_7503_surkov.html">opinion piece</a> entitled &ldquo;Putin&rsquo;s long state&rdquo;. In his article, he sets out his views on several topics, including elections, the Russian state, international relations, and other issues.</p>
+<p><img src="/images/vladislav-sourkov.jpg" alt="Vladislav Surkov, Russian political strategist behind &ldquo;sovereign democracy&rdquo; and &ldquo;power vertical&rdquo;"></p>
+<p>A few days ago, Vladislav Surkov, the man behind the &ldquo;power vertical&rdquo; and &ldquo;sovereign democracy&rdquo; concept of Vladimir Putin&rsquo;s first presidential term, published an <a href="https://www.ng.ru/ideas/2019-02-11/5_7503_surkov.html">opinion piece</a> entitled &ldquo;Putin&rsquo;s long state&rdquo;. In his article, he sets out his views on several topics, including elections, the Russian state, international relations, and other issues.</p>
 <p>He explains that &ldquo;Putin&rsquo;s political machine&rdquo; is only getting bigger, and predicts that within several years Russia will remain &ldquo;Putin&rsquo;s state&rdquo;. He goes even further, referring to &ldquo;Putinism&rdquo; as an ideology of the future. According to him, the Russian political system is not only useful for his country&rsquo;s future but &ldquo;clearly has significant export potential&rdquo;.</p>
 <p>In his article, he also discusses the Turkish notion of <em>derin devlet</em>, also known as the &ldquo;deep state&rdquo;. He points out that in Russia there is no such thing as a &ldquo;deep state&rdquo;, but rather a &ldquo;deep people&rdquo;. I find this a bit exaggerated on his part, given that Russia is run by the &ldquo;Putin system&rdquo;, which is in itself a symbiosis of the &ldquo;siloviki&rdquo; (police, army, and intelligence services) and the oligarchy. Indeed, towards the end of his article, he underlines the importance of these &ldquo;siloviki&rdquo; in the Russian state apparatus, declaring that &ldquo;<em>the state military-police functions are principal and decisive</em>&rdquo;.</p>
 <p>A rather interesting passage is devoted to the difference between Western and Russian institutions. When I talk about this difference, I&rsquo;d like to warn Westerners that, despite the same apparent facade, the way institutions work in Russia is different. I like to use the term &ldquo;Potemkin Village&rdquo; because behind the façade there&rsquo;s something else. As for Sourkov, he explains that Russia has adopted Western institutions and sees them more as a necessary rite in order to &ldquo;<em>look like others</em>&rdquo;, and to make sure that &ldquo;<em>the differences in our political culture are not very visible to our neighbors so that they don&rsquo;t irritate or frighten them</em>&rdquo;.</p>
@@ -112,7 +128,32 @@ Denys Kolesnyk
 
 
   <footer>
-  
+  <script>
+(function () {
+  var root = document.documentElement;
+  var btn  = document.getElementById('theme-toggle');
+
+  function isDark() {
+    var saved = localStorage.getItem('theme');
+    if (saved) return saved === 'dark';
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+  }
+
+  function apply(dark) {
+    root.setAttribute('data-theme', dark ? 'dark' : 'light');
+    btn.textContent = dark ? '☀' : '☾';
+  }
+
+  apply(isDark());
+
+  btn.addEventListener('click', function () {
+    var dark = root.getAttribute('data-theme') !== 'dark';
+    localStorage.setItem('theme', dark ? 'dark' : 'light');
+    apply(dark);
+  });
+})();
+</script>
+
   
 
   

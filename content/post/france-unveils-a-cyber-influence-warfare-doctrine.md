@@ -9,7 +9,7 @@ tags:
   - L2I
 ---
 
-![](/images/parly_burkhard.jpeg)
+![French Defence Minister Florence Parly and Army Chief of Staff General Thierry Burkhard presenting the L2I doctrine](/images/parly_burkhard.jpeg)
 
 At a press conference on October 21, French Defense Minister Florence Parly and Army Chief of Staff General Thierry Burkhard presented the [Military Doctrine of Cyber Influence Warfare](https://www.defense.gouv.fr/sites/default/files/ema/Doctrine%20de%20lutte%20informatique%20d%25u2019influence%20%28L2I%29.pdf) (*Doctrine militaire de lutte informatique d'influence - L2I*). The publication of "public elements" of this doctrine may indicate that France recognizes and assumes the conduct of information operations, including on social media, but also demonstrates that a gap at a doctrinal level that exists in relation to Russia or China is shrinking.
 
@@ -23,7 +23,7 @@ It's also interesting to note that it was indeed Russia that crossed the 'inform
 
 Taking this context into account, and in contrast to France's policy of not attributing cyberattacks, we can assume that by revealing the "public elements" of the L2I, Paris is officially entering the Information Warfare playground where powers such as Russia, China, and other minor states have been active for some time now. However, one important difference that will distinguish French activities under the L2I from Russian activities, these activities exclude national territory and there is a pledge not to destabilise the electoral process in foreign states states.
 
-According to [Zone Militaire](http://www.opex360.com/2021/10/21/la-france-assume-de-mener-une-lutte-informatique-dinfluence-en-appui-de-ses-operations-militaires/), *military operations of influence* (OMI) were conceptualised in 2008 in the Doctrine interarmées (DIA) 3.10.1. This work was carried out by the *Centre interarmées de concepts, de doctrines et d'expérimentations* (CICDE).
+According to [Zone Militaire](https://www.opex360.com/2021/10/21/la-france-assume-de-mener-une-lutte-informatique-dinfluence-en-appui-de-ses-operations-militaires/), *military operations of influence* (OMI) were conceptualised in 2008 in the Doctrine interarmées (DIA) 3.10.1. This work was carried out by the *Centre interarmées de concepts, de doctrines et d'expérimentations* (CICDE).
 
 The L2I Doctrine explains the new term *Influence Cyber Warfare* which should be understood as:
 

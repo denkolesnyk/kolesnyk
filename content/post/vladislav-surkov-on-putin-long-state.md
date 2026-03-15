@@ -7,9 +7,9 @@ categories:
 tags:
   - Vladislav Surkov
 ---
-![](/images/vladislav-sourkov.jpg)
+![Vladislav Surkov, Russian political strategist behind "sovereign democracy" and "power vertical"](/images/vladislav-sourkov.jpg)
 
-A few days ago, Vladislav Surkov, the man behind the "power vertical" and "sovereign democracy" concept of Vladimir Putin's first presidential term, published an [opinion piece](http://www.ng.ru/ideas/2019-02-11/5_7503_surkov.html) entitled "Putin's long state". In his article, he sets out his views on several topics, including elections, the Russian state, international relations, and other issues.
+A few days ago, Vladislav Surkov, the man behind the "power vertical" and "sovereign democracy" concept of Vladimir Putin's first presidential term, published an [opinion piece](https://www.ng.ru/ideas/2019-02-11/5_7503_surkov.html) entitled "Putin's long state". In his article, he sets out his views on several topics, including elections, the Russian state, international relations, and other issues.
 
 He explains that "Putin's political machine" is only getting bigger, and predicts that within several years Russia will remain "Putin's state". He goes even further, referring to "Putinism" as an ideology of the future. According to him, the Russian political system is not only useful for his country's future but "clearly has significant export potential".
 

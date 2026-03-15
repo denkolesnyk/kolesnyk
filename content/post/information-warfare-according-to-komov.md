@@ -21,7 +21,7 @@ He identifies three main components of Information Warfare (see schema below):
 - **Information Countermeasures** focus on disrupting the enemy's ability to gather, process, and exchange information, and introducing deception and disinformation to hinder their management capabilities.
 - **Information Protection** involves safeguarding against enemy disinformation and ensuring that necessary information remains accessible, thereby enhancing the effectiveness of information support under conditions of the enemy's information countermeasures.
 
-![](/images/iw_komov_chart.webp)
+![Diagram of Komov's three components of Information Warfare: Information Support, Information Countermeasures, and Information Protection](/images/iw_komov_chart.webp)
 
 From this perspective, it becomes clear that the primary objective of Information Warfare, within the context of conventional conflict, is to attain informational superiority over the adversary. As early as 1996, Komov proposed that the Information Struggle would evolve into an independent facet of warfare, applicable across economic, diplomatic, ideological, and other domains. He further emphasized that information warfare operates at strategic, operational, and tactical levels. It is important also to mention here that Information Warfare is perpetual, occurring in both wartime and peacetime, unlike conventional warfare.
 

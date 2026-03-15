@@ -8,7 +8,7 @@ categories:
 tags:
   - war
 ---
-![](/images/russian_invasion_ukraine_bild.jpg)
+![Russian military build-up near the Ukrainian border, 2021](/images/russian_invasion_ukraine_bild.jpg)
 
 *The original article was published on [Substack](https://denkolesnyk.substack.com/p/does-the-russian-warmongering-rhetoric) on December 6, 2021.*
 

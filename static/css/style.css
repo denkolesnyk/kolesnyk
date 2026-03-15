@@ -1,10 +1,52 @@
-/* Micro Reset */
+/* =========================================================
+   CSS Custom Properties
+   ========================================================= */
+
+:root {
+  --accent: #1a56db;
+  --text: #1a1a1a;
+  --text-subtle: #555;
+  --border: #d1d5db;
+  --border-strong: #1a1a1a;
+  --bg: #ffffff;
+  --bg-code: #f5f7fa;
+  --bg-row: #f8f9fa;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --accent: #60a5fa;
+    --text: #e2e8f0;
+    --text-subtle: #94a3b8;
+    --border: #2d3748;
+    --border-strong: #4a5568;
+    --bg: #0f172a;
+    --bg-code: #1e293b;
+    --bg-row: #1e293b;
+  }
+}
+
+:root[data-theme="dark"] {
+  --accent: #60a5fa;
+  --text: #e2e8f0;
+  --text-subtle: #94a3b8;
+  --border: #2d3748;
+  --border-strong: #4a5568;
+  --bg: #0f172a;
+  --bg-code: #1e293b;
+  --bg-row: #1e293b;
+}
+
+/* =========================================================
+   Micro Reset
+   ========================================================= */
 
 html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 *, *:before, *:after {
@@ -14,6 +56,8 @@ html {
 body {
   margin: 0;
   padding: 0;
+  background-color: var(--bg);
+  color: var(--text);
 }
 
 button, input, select, textarea, label {
@@ -25,9 +69,12 @@ button, input, select, textarea, label {
 
 img {
   max-width: 100%;
+  height: auto;
 }
 
-/* Typography */
+/* =========================================================
+   Typography
+   ========================================================= */
 
 body {
   line-height: 1.75;
@@ -37,10 +84,19 @@ body {
   font-weight: 500;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;
+  color: var(--text);
+}
+
 h1, h2 {
   padding: 0;
   margin: 60px 0 30px;
-  line-height: 1.25;
+}
+
+/* Only the page title block is centred */
+.title h1,
+.title h2 {
   text-align: center;
 }
 
@@ -53,12 +109,16 @@ h2 {
 }
 
 blockquote {
-  margin: 1em 0;
-  padding: 0 2em;
-  border-left: 3px solid #ddd;
+  margin: 1.25em 0;
+  padding: 0.75em 1.5em;
+  border-left: 3px solid var(--accent);
+  color: var(--text-subtle);
+  font-style: italic;
 }
 
-/* Code */
+/* =========================================================
+   Code
+   ========================================================= */
 
 pre, code {
   font-size: .9em;
@@ -66,22 +126,29 @@ pre, code {
 
 pre code {
   display: block;
-  border: 1px solid #ddd;
-  box-shadow: 5px 5px 5px #eee;
+  border: 1px solid var(--border);
+  background: var(--bg-code);
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, .05);
   padding: 1em;
   overflow-x: auto;
   line-height: 1.75;
+  border-radius: 4px;
 }
 
 code {
-  background: #f9f9f9;
+  background: var(--bg-code);
+  padding: 1px 4px;
+  border-radius: 3px;
 }
 
 pre code {
   background: none;
+  padding: 0;
 }
 
-/* Lists */
+/* =========================================================
+   Lists
+   ========================================================= */
 
 ul, ol {
   padding: 0 0 0 20px;
@@ -92,36 +159,71 @@ li {
   padding: 0;
 }
 
-/* Links */
+/* =========================================================
+   Links
+   ========================================================= */
 
 a {
-  color: black;
+  color: var(--text);
   text-decoration: none;
-  padding-bottom: 2px;
-  border-bottom: 1px solid;
+  padding-bottom: 1px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.22);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) a {
+    border-bottom-color: rgba(255, 255, 255, 0.2);
+  }
+}
+
+:root[data-theme="dark"] a {
+  border-bottom-color: rgba(255, 255, 255, 0.2);
 }
 
 a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
 }
 
 sup a {
   border-bottom: none;
 }
 
-/* Miscellanea */
+/* Masthead links — no underline treatment */
+.masthead a {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.masthead a:hover {
+  color: var(--accent);
+}
+
+/* Active menu item */
+.masthead .menu li.active a {
+  color: var(--accent);
+  font-weight: 500;
+}
+
+/* =========================================================
+   Miscellaneous
+   ========================================================= */
 
 hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid;
+  border-top: 1px solid var(--border);
   margin: 50px auto;
   padding: 0;
-  max-width: 300px;
+  max-width: 400px;
 }
 
 .copyright {
   text-align: center;
+  color: var(--text-subtle);
+  font-size: 0.875em;
 }
 
 .post-nav {
@@ -143,29 +245,62 @@ hr {
   margin-top: 20px;
 }
 
-/* Layout */
+/* =========================================================
+   Images in content
+   ========================================================= */
+
+.main img:not(.profile-photo) {
+  display: block;
+  margin: 1.5em auto;
+  border-radius: 3px;
+}
+
+.profile-photo {
+  float: left;
+  width: 220px;
+  margin: 0 24px 16px 0;
+  border-radius: 3px;
+}
+
+@media screen and (max-width: 480px) {
+  .profile-photo {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 220px;
+    margin: 0 auto 20px;
+  }
+}
+
+/* =========================================================
+   Layout — CSS Grid
+   ========================================================= */
 
 body {
-  width: 960px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 30px 0;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  align-items: start;
 }
 
 .masthead {
-  width: 260px;
   padding: 20px 50px 20px 10px;
-  float: left;
+  position: sticky;
+  top: 30px;
+  align-self: start;
 }
 
 .main {
-  width: 700px;
   padding: 32px 10px 20px 50px;
-  margin-left: 260px;
-  border-left: 3px solid black;
+  border-left: 3px solid var(--border-strong);
   min-height: calc(100vh - 60px);
 }
 
-/* Masthead */
+/* =========================================================
+   Masthead
+   ========================================================= */
 
 .masthead h1 {
   margin-top: 0;
@@ -178,11 +313,13 @@ body {
 
 .masthead h1 a {
   border-bottom: none;
+  transition: color 0.15s ease;
 }
 
 .masthead .tagline {
   font-style: italic;
   text-align: right;
+  color: var(--text-subtle);
 }
 
 .masthead .menu {
@@ -192,6 +329,7 @@ body {
 
 .masthead .menu a {
   direction: ltr;
+  transition: color 0.15s ease;
 }
 
 .masthead .menu ul ul {
@@ -201,7 +339,7 @@ body {
 }
 
 .masthead .menu li li::before {
-  content: "•\00a\000a0\00a0"
+  content: "•\00a0\00a0\00a0";
 }
 
 #menu-check {
@@ -212,7 +350,44 @@ body {
   display: none;
 }
 
-/* Main */
+.masthead-actions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 8px;
+  margin-top: 20px;
+}
+
+.masthead-actions .x-link,
+.masthead-actions #theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  color: var(--text-subtle);
+  width: 34px;
+  height: 34px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+  padding: 0;
+  text-decoration: none;
+}
+
+.masthead-actions #theme-toggle {
+  font-size: 16px;
+}
+
+.masthead-actions .x-link:hover,
+.masthead-actions #theme-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* =========================================================
+   Main Content
+   ========================================================= */
 
 .main .title h1 {
   margin-top: 0;
@@ -224,38 +399,46 @@ body {
 }
 
 .subtitle {
-  color: #666;
+  color: var(--text-subtle);
 }
 
-/* Footnotes */
+/* =========================================================
+   Footnotes
+   ========================================================= */
 
 .footnotes {
   font-size: .9em;
+  color: var(--text-subtle);
 }
 
-/* Tables */
+/* =========================================================
+   Tables
+   ========================================================= */
 
 table {
-  margin: auto;
-  border-top: 1px solid #666;
-  border-bottom: 1px solid #666;
+  margin: 1.5em auto;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  border-collapse: collapse;
+  width: 100%;
 }
 
 table thead th {
-  border-bottom: 1px solid #666;
+  border-bottom: 1px solid var(--border);
 }
 
 th, td {
-  padding: 5px;
+  padding: 8px 12px;
+  text-align: left;
 }
 
 thead, tfoot, tr:nth-child(even) {
-  background: #f8f8f8;
+  background: var(--bg-row);
 }
 
-/**
- * Utility Styles
- */
+/* =========================================================
+   Utility Styles
+   ========================================================= */
 
 .unselectable {
   -webkit-user-select: none;
@@ -264,51 +447,30 @@ thead, tfoot, tr:nth-child(even) {
   user-select: none;
 }
 
-/**
- * -------------------------------------------------------------------------
- *  Media Queries
- * -------------------------------------------------------------------------
- *
- * The @viewport tag does the same thing as
- *
- *   <meta name="viewport" content="width=device-width">
- *
- * but in the future W3C standard way. The -ms- prefix is required for
- * IE10+ to render responsive styling in Windows 8 "snapped" views;
- * IE10+ does not honour the meta tag.
- */
+/* =========================================================
+   Media Queries
+   ========================================================= */
 
-@-ms-viewport {
-  width: device-width;
-}
-
-@viewport {
-  width: device-width;
-}
-
-/* Tablet screens and smaller */
-
+/* Tablet and smaller */
 @media screen and (max-width: 960px) {
 
   body {
-    width: auto;
+    display: block;
     max-width: 700px;
+    padding: 20px 16px;
   }
 
   .masthead {
+    position: static;
     width: auto;
-    float: none;
-    padding: 20px 0 60px;
+    padding: 20px 0 40px;
     text-align: center;
-    margin-left: 10px;
-    margin-right: 10px;
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid var(--border-strong);
   }
 
   .main {
     width: auto;
-    padding: 40px 10px;
-    margin-left: 0;
+    padding: 40px 0;
     border-left: none;
     min-height: auto;
   }
@@ -339,14 +501,14 @@ thead, tfoot, tr:nth-child(even) {
   }
 
   .masthead .menu li {
-    border-bottom: 1px solid;
+    border-bottom: 1px solid var(--border);
     list-style: none;
     margin: 0;
     padding: 0;
   }
 
   .masthead .menu li:first-child {
-    border-top: 1px solid;
+    border-top: 1px solid var(--border);
   }
 
   .masthead .menu li li:last-child {
@@ -355,8 +517,14 @@ thead, tfoot, tr:nth-child(even) {
 
   .masthead .menu a {
     display: block;
-    padding: 15px 20px;
+    padding: 13px 20px;
     border-bottom: none;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+
+  .masthead .menu a:hover {
+    background: var(--bg-code);
+    color: var(--accent);
   }
 
   .masthead .menu li li a {
@@ -372,24 +540,27 @@ thead, tfoot, tr:nth-child(even) {
   }
 
   #menu-label {
-    display: inline-block;
-    padding: 0 20px;
-    height: 50px;
-    border: 1px solid;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 18px;
+    height: 44px;
+    border: 1px solid var(--border);
+    border-radius: 4px;
     cursor: pointer;
-    line-height: 50px;
-    color: #333;
-    font-size: 20px;
-    margin-top: 10px;
+    color: var(--text);
+    font-size: 15px;
+    margin-top: 12px;
+    transition: border-color 0.15s ease, color 0.15s ease;
   }
 
-  #menu-label:hover, #menu-label:focus {
-    border: 1px solid #888;
+  #menu-label:hover {
+    border-color: var(--accent);
+    color: var(--accent);
   }
 
   #menu-label .icon {
-    padding-right: 8px;
-    width: 30px;
+    font-size: 18px;
   }
 
   #menu-check ~ label .close-icon {
@@ -397,11 +568,11 @@ thead, tfoot, tr:nth-child(even) {
   }
 
   #menu-check ~ label .open-icon {
-    display: inline-block;
+    display: inline;
   }
 
   #menu-check:checked ~ label .close-icon {
-    display: inline-block;
+    display: inline;
   }
 
   #menu-check:checked ~ label .open-icon {
@@ -414,18 +585,32 @@ thead, tfoot, tr:nth-child(even) {
 
   #menu-check:checked ~ ul {
     display: block;
-    margin-top: 50px;
+    margin-top: 8px;
     margin-bottom: 0;
   }
+
+  .masthead-actions {
+    justify-content: center;
+    margin-top: 16px;
+  }
+
 }
 
-/* Landscape phone screens and smaller */
-
+/* Landscape phones */
 @media screen and (max-width: 720px) {
+
+  body {
+    padding: 16px 14px;
+  }
+
+  .masthead h1 {
+    font-size: 36px;
+    line-height: 1.3;
+  }
+
 }
 
-/* Portrait phone screens */
-
+/* Portrait phones */
 @media screen and (max-width: 480px) {
 
   body {
@@ -437,15 +622,15 @@ thead, tfoot, tr:nth-child(even) {
   }
 
   h2 {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   h3, h4, h5, h6 {
-    font-size: 16px;
+    font-size: 17px;
   }
 
   pre, code {
-    font-size: 12px;
+    font-size: 13px;
   }
 
   .masthead {

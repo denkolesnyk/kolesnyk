@@ -1,5 +1,5 @@
-baseURL = "/"
-languageCode = "en-uk"
+baseURL = "https://kolesnyk.fr/"
+languageCode = "en-GB"
 title = "Denys Kolesnyk"
 theme = "hugo-ivy"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
@@ -35,6 +35,7 @@ footnotereturnlinkcontents = "↩"
   highlightjsTheme = "github"
   highlightjsVersion = "11.7.0"
   favicon = "favicon.ico"
+  ogImage = "/images/dk_pic.jpeg"
 
 [markup]
   [markup.highlight]

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en-uk">
+<html lang="en-GB">
 
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
@@ -17,7 +17,7 @@
 
     
       
-      <meta property="description" content="This article was originally published on January 27, 2023, on Info Ops France.
+      <meta name="description" content="This article was originally published on January 27, 2023, on Info Ops France.
 In March 2021, Andrei Ilnitski, advisor to the Russian Defense Minister, declared that &ldquo;the West, led by the United &amp;hellip;">
       <meta property="og:description" content="This article was originally published on January 27, 2023, on Info Ops France.
 In March 2021, Andrei Ilnitski, advisor to the Russian Defense Minister, declared that &ldquo;the West, led by the United &amp;hellip;">
@@ -27,10 +27,20 @@ In March 2021, Andrei Ilnitski, advisor to the Russian Defense Minister, declare
     
     
     
-
+    
+    
+    <meta name="twitter:image" content="http://localhost:1313/images/dk_pic.jpeg">
+    <meta property="og:image" content="http://localhost:1313/images/dk_pic.jpeg">
+    
     
 
     
+
+    <link rel="canonical" href="http://localhost:1313/post/mental-warfare-russian-style-cognitive-warfare/">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
     
 
     <link rel="stylesheet" href="/css/style.css" />
@@ -66,6 +76,12 @@ In March 2021, Andrei Ilnitski, advisor to the Russian Defense Minister, declare
   
   </ul>
 </nav>
+<div class="masthead-actions">
+  <a href="https://x.com/denkolesnyk" target="_blank" rel="noopener" aria-label="@denkolesnyk on X" title="@denkolesnyk on X" class="x-link">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.73-8.835L1.254 2.25H8.08l4.253 5.622 5.912-5.622Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+  </a>
+  <button id="theme-toggle" aria-label="Toggle light/dark mode" title="Toggle light/dark mode"></button>
+</div>
 
     </header>
 
@@ -157,7 +173,7 @@ Denys Kolesnyk
 <p>Karavayev&rsquo;s article attempts to lay the theoretical foundations for this new Russian concept of Mental Warfare.</p>
 <h2 id="mental-warfare-equals-cognitive-warfare">Mental Warfare equals Cognitive Warfare?</h2>
 <p>Two other authors from St. Petersburg State University, Roman Vykhodets and Konstantin Pantserev, propose in their article &ldquo;<em>Comparative analysis of modern concepts of information warfare</em>&rdquo;<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> an analysis of concepts existing in scientific discourse, describing the spheres of <strong>information confrontation</strong> (<em>cf. diagram below</em>).</p>
-<p><img src="/images/spheres-confrontation-informationnelle.jpg" alt=""></p>
+<p><img src="/images/spheres-confrontation-informationnelle.jpg" alt="Diagram of spheres of information confrontation showing the positioning of Mental Warfare and Cognitive Warfare concepts"></p>
 <p>The authors maintain that in English-language sources, Mental Warfare is referred to as Cognitive Warfare. In their view, the formation of the concept of Cognitive Warfare is linked to NATO&rsquo;s search for new forms of warfare. They cite the article &ldquo;The Cognitive Warfare Concept&rdquo; by Bernard Claverie and François du Cluzel. Understanding the phenomenon of Cognitive Warfare rests on the recognition of psychology and the human mind as a <strong>sixth domain of warfare</strong>, along with air, land, sea, space, and cyber.</p>
 <p>It&rsquo;s worth giving the definition<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> of Cognitive Warfare, as proposed by Claverie and du Cluzel - the authors cited by the Russians:</p>
 <blockquote>
@@ -189,7 +205,32 @@ Denys Kolesnyk
 
 
   <footer>
-  
+  <script>
+(function () {
+  var root = document.documentElement;
+  var btn  = document.getElementById('theme-toggle');
+
+  function isDark() {
+    var saved = localStorage.getItem('theme');
+    if (saved) return saved === 'dark';
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+  }
+
+  function apply(dark) {
+    root.setAttribute('data-theme', dark ? 'dark' : 'light');
+    btn.textContent = dark ? '☀' : '☾';
+  }
+
+  apply(isDark());
+
+  btn.addEventListener('click', function () {
+    var dark = root.getAttribute('data-theme') !== 'dark';
+    localStorage.setItem('theme', dark ? 'dark' : 'light');
+    apply(dark);
+  });
+})();
+</script>
+
   
 
   

@@ -16,7 +16,7 @@ At the end of July 2024, a military convoy of the Malian Armed Forces (FAMa) sup
 
 The occasion prompted us to take a look at this channel and its ecosystem.
 
-![](/images/greyzonetg.jpg)
+![Network graph of the GREY ZONE Telegram channel ecosystem showing green and violet communities](/images/greyzonetg.jpg)
 
 As we can see, two main communities stand out: green (32.87% of all interactions in the sample) and violet (53.91%). The main actors in the green community are Telegram channels like **Росич | Rosich** and **Канал специального назначения** (*from Russian - Special Purpose Channel*). While the violet community revolves around the **Astra Militarum [Z]** and **Квантум справедливости** (*from Russian - Quantum of Justice*) channels, while the **GREY ZONE** (https://t.me/grey_zone) itself remains important both as a channel receiving a lot of interaction and as a broadcaster, amplifying the spread of information/disinformation.
 
@@ -26,7 +26,7 @@ Then, we can distinguish users who possess an active role in spreading informati
 
 Channels with a high weighted degree are central in the network, engaging in both receiving and disseminating information. The main channels identified here are **Astra Militarum [Z]**, **Канал специального назначения** and **Росич | Rosich**. These nodes play a pivotal role in network dynamics, significantly influencing communication patterns.
 
-![](/images/greyzonetgout.jpg)
+![Network diagram showing GREY ZONE channel's outbound information dissemination flow across communities](/images/greyzonetgout.jpg)
 
 It is interesting to note that the anonymous user with the ID number **19072681168** who receives no interaction, but is the second important as far as the dissemination of content is concerned. He feeds the channel **Военный осведомитель** and **Росич | Rosich**. While **Военный осведомитель** in turn feeds the **Dambiev** channel, which pushes content to the **GREY ZONE** channel. While the latter, distributes the information/disinformation to the two communities, green and violet, pushing content to important channels in terms of interactions like **Astra Militarum [Z]** and **Квантум справедливости** (violet community), and **Канал специального назначения** and **ДШРГ Русич** (green community).
 

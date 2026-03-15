@@ -66,7 +66,7 @@ Karavayev's article attempts to lay the theoretical foundations for this new Rus
 
 Two other authors from St. Petersburg State University, Roman Vykhodets and Konstantin Pantserev, propose in their article "*Comparative analysis of modern concepts of information warfare*"[^4] an analysis of concepts existing in scientific discourse, describing the spheres of **information confrontation** (*cf. diagram below*).
 
-![](/images/spheres-confrontation-informationnelle.jpg)
+![Diagram of spheres of information confrontation showing the positioning of Mental Warfare and Cognitive Warfare concepts](/images/spheres-confrontation-informationnelle.jpg)
 
 The authors maintain that in English-language sources, Mental Warfare is referred to as Cognitive Warfare. In their view, the formation of the concept of Cognitive Warfare is linked to NATO's search for new forms of warfare. They cite the article "The Cognitive Warfare Concept" by Bernard Claverie and François du Cluzel. Understanding the phenomenon of Cognitive Warfare rests on the recognition of psychology and the human mind as a **sixth domain of warfare**, along with air, land, sea, space, and cyber.
 

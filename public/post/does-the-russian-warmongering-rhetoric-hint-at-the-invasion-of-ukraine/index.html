@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en-uk">
+<html lang="en-GB">
 
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
@@ -17,7 +17,7 @@
 
     
       
-      <meta property="description" content="
+      <meta name="description" content="
 The original article was published on Substack on December 6, 2021.
 Recently, the information about Russia massing troops near the Ukrainian border and fears of a possible invasion appeared in &amp;hellip;">
       <meta property="og:description" content="
@@ -29,10 +29,20 @@ Recently, the information about Russia massing troops near the Ukrainian border 
     
     
     
-
+    
+    
+    <meta name="twitter:image" content="http://localhost:1313/images/dk_pic.jpeg">
+    <meta property="og:image" content="http://localhost:1313/images/dk_pic.jpeg">
+    
     
 
     
+
+    <link rel="canonical" href="http://localhost:1313/post/does-the-russian-warmongering-rhetoric-hint-at-the-invasion-of-ukraine/">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
     
 
     <link rel="stylesheet" href="/css/style.css" />
@@ -68,6 +78,12 @@ Recently, the information about Russia massing troops near the Ukrainian border 
   
   </ul>
 </nav>
+<div class="masthead-actions">
+  <a href="https://x.com/denkolesnyk" target="_blank" rel="noopener" aria-label="@denkolesnyk on X" title="@denkolesnyk on X" class="x-link">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.73-8.835L1.254 2.25H8.08l4.253 5.622 5.912-5.622Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+  </a>
+  <button id="theme-toggle" aria-label="Toggle light/dark mode" title="Toggle light/dark mode"></button>
+</div>
 
     </header>
 
@@ -100,7 +116,7 @@ Denys Kolesnyk
 
 
 
-<p><img src="/images/russian_invasion_ukraine_bild.jpg" alt=""></p>
+<p><img src="/images/russian_invasion_ukraine_bild.jpg" alt="Russian military build-up near the Ukrainian border, 2021"></p>
 <p><em>The original article was published on <a href="https://denkolesnyk.substack.com/p/does-the-russian-warmongering-rhetoric">Substack</a> on December 6, 2021.</em></p>
 <p>Recently, the information about Russia massing troops near the Ukrainian border and fears of a possible invasion appeared in diverse Western media. The warmongering rhetoric also peaked in the Russian information space. The RAND’s Samuel Charap rushed to publish an <a href="https://www.politico.com/news/magazine/2021/11/19/ukraine-russia-putin-border-522989">op-ed</a> suggesting the change of approach to Russia that Biden&rsquo;s administration has to undertake. He also advocated for Washington shifting the focus from “<em>only on coercing Russia</em>” to “<em>also push Kyiv to take steps toward implementing its obligations under the Minsk II agreement</em>”. The Minsk II that he, himself, described as “<em>victor’s peace, essentially imposed by Russia on Ukraine at the barrel of a gun</em>”.</p>
 <p>Mr Charap’s op-ed is based on several assumptions that might be debatable, to say the least. One of them is the inevitability of a full-scale war between Russia and Ukraine, thus the need to coerce Kyiv to accept the Russian demands to prevent it.</p>
@@ -123,7 +139,32 @@ Denys Kolesnyk
 
 
   <footer>
-  
+  <script>
+(function () {
+  var root = document.documentElement;
+  var btn  = document.getElementById('theme-toggle');
+
+  function isDark() {
+    var saved = localStorage.getItem('theme');
+    if (saved) return saved === 'dark';
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+  }
+
+  function apply(dark) {
+    root.setAttribute('data-theme', dark ? 'dark' : 'light');
+    btn.textContent = dark ? '☀' : '☾';
+  }
+
+  apply(isDark());
+
+  btn.addEventListener('click', function () {
+    var dark = root.getAttribute('data-theme') !== 'dark';
+    localStorage.setItem('theme', dark ? 'dark' : 'light');
+    apply(dark);
+  });
+})();
+</script>
+
   
 
   

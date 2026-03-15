@@ -9,7 +9,7 @@ tags:
   - Information Confrontation
 ---
 
-After around a year and a half of work on Russia's new [National Security Strategy (NSS)](http://static.kremlin.ru/media/events/files/ru/QZw6hSk5z9gWq0plD1ZzmR5cER0g5tZC.pdf), the process was finally completed on June 2 with the publication of Decree No. 400. This document, signed by Russian President Vladimir Putin, replaces the old NSS in force since December 31, 2015.
+After around a year and a half of work on Russia's new [National Security Strategy (NSS)](https://static.kremlin.ru/media/events/files/ru/QZw6hSk5z9gWq0plD1ZzmR5cER0g5tZC.pdf), the process was finally completed on June 2 with the publication of Decree No. 400. This document, signed by Russian President Vladimir Putin, replaces the old NSS in force since December 31, 2015.
 
 The publication of the strategic document was delayed, most likely due to the presidential elections in the United States, which consequently gave rise to the need to assess the positions of the new master of the White House and to adjust certain paragraphs of the document and adapt the language.
 
@@ -33,9 +33,9 @@ The document focuses on ideological rivalry, and according to its authors, "trad
 
 The logic of civilizational confrontation runs throughout the NSS, where Russia sees itself as "under attack" from the West. Moscow sees this as "informational and psychological sabotage" against it, and sees "Westernization" as a phenomenon that "increases the threat of loss of cultural sovereignty".
 
-It is worth noting that ten days after the publication of the document, the Deputy Secretary of the Russian Security Council, Aleksandre Venediktov, presented his [commentary](http://scrf.gov.ru/news/speeches/3032/) emphasizing this "civilizational dimension" and informing that particular attention had been paid "to the support of compatriots abroad". Nor did he omit the preservation of the "pan-Russian" identity and the "strengthening of fraternal ties between the Russian, Belarusian and Ukrainian peoples".
+It is worth noting that ten days after the publication of the document, the Deputy Secretary of the Russian Security Council, Aleksandre Venediktov, presented his [commentary](https://scrf.gov.ru/news/speeches/3032/) emphasizing this "civilizational dimension" and informing that particular attention had been paid "to the support of compatriots abroad". Nor did he omit the preservation of the "pan-Russian" identity and the "strengthening of fraternal ties between the Russian, Belarusian and Ukrainian peoples".
 
-This is also in line with the article [published](http://kremlin.ru/events/president/news/66181) the day before Vladimir Putin commented on the "historical unity of Russians and Ukrainians", reiterating Russian historical myths and denying Ukrainian identity and even the Ukrainian state. It is not appropriate, however, to elaborate on this aspect.
+This is also in line with the article [published](https://kremlin.ru/events/president/news/66181) the day before Vladimir Putin commented on the "historical unity of Russians and Ukrainians", reiterating Russian historical myths and denying Ukrainian identity and even the Ukrainian state. It is not appropriate, however, to elaborate on this aspect.
 
 Returning to the NSS, another key element that absolutely must be highlighted is the right to retaliate "symmetrically and asymmetrically" to sanctions as well as to activities involving modern information and communication technologies that Moscow reserves for itself. A drastic change of tone, which differentiates this document from the NSS adopted in 2015.
 
