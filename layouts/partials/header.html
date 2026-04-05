@@ -11,7 +11,8 @@
     <title>{{ .Title }}{{ with .Params.subtitle }} - {{ . }} {{ end }} - {{ .Site.Title }}</title>
     <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
     {{ end }}
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ if eq .RelPermalink "/" }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
 
     {{ $summary := "" }}
     {{ with .Description }}
@@ -22,12 +23,16 @@
 
     {{ if eq .RelPermalink "/" }}
     <meta name="description" content="{{ .Site.Params.description }}">
+    <meta property="og:description" content="{{ .Site.Params.description }}">
+    <meta name="twitter:description" content="{{ .Site.Params.description }}">
     {{ else }}
       {{ with $summary }}
       <meta name="description" content="{{ . }}">
       <meta property="og:description" content="{{ . }}">
+      <meta name="twitter:description" content="{{ . }}">
       {{ end }}
     {{ end }}
+    <meta property="og:url" content="{{ .Permalink }}">
 
     {{ $autoImage := false }}
     {{ $autoImageURL := "" }}
