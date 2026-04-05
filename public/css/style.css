@@ -819,9 +819,10 @@ body.home .title {
   }
 
   .profile-photo {
-    width: 85px;
-    height: 85px;
-    margin: 0 0 1rem 1.25rem;
+    float: none;
+    display: block;
+    width: 180px;
+    margin: 0 auto 1.5rem;
   }
 }
 
@@ -832,8 +833,6 @@ body.home .title {
   pre, code { font-size: 0.8em; }
 
   .profile-photo {
-    float: none;
-    display: block;
-    margin: 0 auto 1.25rem;
+    width: 150px;
   }
 }
