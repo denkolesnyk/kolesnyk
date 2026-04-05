@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Denys Kolesnyk</title><link>https://kolesnyk.fr/fr/categories/</link><description>Recent content in Categories on Denys Kolesnyk</description><generator>Hugo</generator><language>fr-FR</language><lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kolesnyk.fr/fr/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Mali</title><link>https://kolesnyk.fr/fr/categories/mali/</link><pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/categories/mali/</guid><description/></item><item><title>Russie</title><link>https://kolesnyk.fr/fr/categories/russie/</link><pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/categories/russie/</guid><description/></item><item><title>Ukraine</title><link>https://kolesnyk.fr/fr/categories/ukraine/</link><pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/categories/ukraine/</guid><description/></item><item><title>France</title><link>https://kolesnyk.fr/fr/categories/france/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/categories/france/</guid><description/></item><item><title>Iran</title><link>https://kolesnyk.fr/fr/categories/iran/</link><pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/categories/iran/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Denys Kolesnyk</title>
+    <link>http://localhost:1313/fr/categories/</link>
+    <description>Recent content in Categories on Denys Kolesnyk</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mali</title>
+      <link>http://localhost:1313/fr/categories/mali/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/mali/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Russie</title>
+      <link>http://localhost:1313/fr/categories/russie/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/russie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ukraine</title>
+      <link>http://localhost:1313/fr/categories/ukraine/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/ukraine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>France</title>
+      <link>http://localhost:1313/fr/categories/france/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/france/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iran</title>
+      <link>http://localhost:1313/fr/categories/iran/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/iran/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

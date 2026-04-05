@@ -2,7 +2,10 @@
 title: About
 ---
 
-<img src="/images/dk_pic.png" alt="Denys Kolesnyk" class="profile-photo">
+<picture>
+  <source srcset="/images/dk_pic.webp" type="image/webp">
+  <img src="/images/dk_pic.png" alt="Denys Kolesnyk" class="profile-photo" width="1024" height="1152">
+</picture>
 
 Denys Kolesnyk is a French geopolitical and information risk consultant based in Paris. He specialises in security and defence issues in Central and Eastern Europe, including Poland, Ukraine, and Russia. In particular he focuses on Information Warfare and influence operations.
 

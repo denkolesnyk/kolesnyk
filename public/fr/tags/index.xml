@@ -1,1 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Denys Kolesnyk</title><link>https://kolesnyk.fr/fr/tags/</link><description>Recent content in Tags on Denys Kolesnyk</description><generator>Hugo</generator><language>fr-FR</language><lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kolesnyk.fr/fr/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Grey Zone</title><link>https://kolesnyk.fr/fr/tags/grey-zone/</link><pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/tags/grey-zone/</guid><description/></item><item><title>Telegram</title><link>https://kolesnyk.fr/fr/tags/telegram/</link><pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/tags/telegram/</guid><description/></item><item><title>Guerre De L'information</title><link>https://kolesnyk.fr/fr/tags/guerre-de-linformation/</link><pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/tags/guerre-de-linformation/</guid><description/></item><item><title>Guerre Mentale</title><link>https://kolesnyk.fr/fr/tags/guerre-mentale/</link><pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/tags/guerre-mentale/</guid><description/></item><item><title>Guerre</title><link>https://kolesnyk.fr/fr/tags/guerre/</link><pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/tags/guerre/</guid><description/></item><item><title>L2I</title><link>https://kolesnyk.fr/fr/tags/l2i/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/tags/l2i/</guid><description/></item><item><title>Confrontation Informationnelle</title><link>https://kolesnyk.fr/fr/tags/confrontation-informationnelle/</link><pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/tags/confrontation-informationnelle/</guid><description/></item><item><title>Sécurité De L'information</title><link>https://kolesnyk.fr/fr/tags/s%C3%A9curit%C3%A9-de-linformation/</link><pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/tags/s%C3%A9curit%C3%A9-de-linformation/</guid><description/></item><item><title>Contrôle Réflexif</title><link>https://kolesnyk.fr/fr/tags/contr%C3%B4le-r%C3%A9flexif/</link><pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/tags/contr%C3%B4le-r%C3%A9flexif/</guid><description/></item><item><title>Vladislav Surkov</title><link>https://kolesnyk.fr/fr/tags/vladislav-surkov/</link><pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate><guid>https://kolesnyk.fr/fr/tags/vladislav-surkov/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Denys Kolesnyk</title>
+    <link>http://localhost:1313/fr/tags/</link>
+    <description>Recent content in Tags on Denys Kolesnyk</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grey Zone</title>
+      <link>http://localhost:1313/fr/tags/grey-zone/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/grey-zone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Telegram</title>
+      <link>http://localhost:1313/fr/tags/telegram/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/telegram/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guerre De L&#39;information</title>
+      <link>http://localhost:1313/fr/tags/guerre-de-linformation/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/guerre-de-linformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guerre Mentale</title>
+      <link>http://localhost:1313/fr/tags/guerre-mentale/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/guerre-mentale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guerre</title>
+      <link>http://localhost:1313/fr/tags/guerre/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/guerre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>L2I</title>
+      <link>http://localhost:1313/fr/tags/l2i/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/l2i/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Confrontation Informationnelle</title>
+      <link>http://localhost:1313/fr/tags/confrontation-informationnelle/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/confrontation-informationnelle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sécurité De L&#39;information</title>
+      <link>http://localhost:1313/fr/tags/s%C3%A9curit%C3%A9-de-linformation/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/s%C3%A9curit%C3%A9-de-linformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contrôle Réflexif</title>
+      <link>http://localhost:1313/fr/tags/contr%C3%B4le-r%C3%A9flexif/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/contr%C3%B4le-r%C3%A9flexif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vladislav Surkov</title>
+      <link>http://localhost:1313/fr/tags/vladislav-surkov/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/vladislav-surkov/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
