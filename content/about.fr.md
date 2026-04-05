@@ -7,9 +7,7 @@ title: À propos
   <img src="/images/dk_pic.png" alt="Denys Kolesnyk" class="profile-photo" width="1024" height="1152">
 </picture>
 
-Denys Kolesnyk est un analyste en intelligence stratégique, de nationalité française, basé à Paris. Il se spécialise dans le risque géopolitique, la guerre de l'information et les opérations d'influence en Europe centrale et orientale, avec un focus sur la Russie, l'Ukraine et la Pologne.
-
-Il fournit des analyses aux décideurs pour les aider à comprendre les menaces politiques, sécuritaires et informationnelles. Il a conseillé des clients institutionnels et du secteur privé opérant dans des environnements contestés et à haut risque.
+Denys Kolesnyk est un analyste en intelligence stratégique, de nationalité française, basé à Paris. Il se spécialise dans le risque géopolitique, la guerre de l'information et les opérations d'influence en Europe centrale et orientale, avec un focus sur la Russie, l'Ukraine et la Pologne. Il conseille les décideurs institutionnels et du secteur privé sur les menaces politiques, sécuritaires et informationnelles.
 
 Il a travaillé au Bureau de liaison de l'OTAN en Ukraine, au sein d'Effective Engagement Strategies, ainsi qu'auprès d'autres organisations dans des fonctions de conseil et d'analyse. En 2022, il a fondé [Info Ops France](https://infoops.fr/), une initiative visant à renforcer la résilience de la société française face aux menaces informationnelles. Depuis mi-2023, il accompagne l'ESN en tant qu'expert en FIMI et désinformation. Il est également Président du [MENA Research Center](https://www.mena-researchcenter.org).
 
