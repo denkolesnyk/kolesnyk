@@ -73,7 +73,7 @@ defaultContentLanguageInSubdir = false
   highlightjsTheme = "github"
   highlightjsVersion = "11.7.0"
   favicon = "favicon.ico"
-  ogImage = "/images/dk_pic.webp"
+  ogImage = "/images/dk_pic.jpeg"
 
 [markup]
   [markup.highlight]
