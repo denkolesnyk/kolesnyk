@@ -7,11 +7,15 @@ title: À propos
   <img src="/images/dk_pic.png" alt="Denys Kolesnyk" class="profile-photo" width="1024" height="1152">
 </picture>
 
-Denys Kolesnyk est un consultant français en géopolitique et risques informationnels, basé à Paris. Il se spécialise dans les questions de sécurité et de défense en Europe centrale et orientale, notamment en Pologne, en Ukraine et en Russie, avec un accent particulier sur la guerre de l'information et les opérations d'influence.
+Denys Kolesnyk est un analyste en intelligence stratégique, de nationalité française, basé à Paris. Il se spécialise dans le risque géopolitique, la guerre de l'information et les opérations d'influence en Europe centrale et orientale, avec un focus sur la Russie, l'Ukraine et la Pologne.
 
-Il a travaillé au Bureau de liaison de l'OTAN en Ukraine, au sein d'Effective Engagement Strategies, ainsi que comme consultant pour de nombreuses autres entités. En 2022, il a fondé [Info Ops France](https://infoops.fr/) — une initiative visant à améliorer la résilience informationnelle de la société française. Depuis mi-2023, M. Kolesnyk accompagne l'ESN en tant qu'expert en FIMI et désinformation. Il est également Président du think-tank [MENA Research Center](https://www.mena-researchcenter.org).
+Il fournit des analyses aux décideurs pour les aider à comprendre les menaces politiques, sécuritaires et informationnelles. Il a conseillé des clients institutionnels et du secteur privé opérant dans des environnements contestés et à haut risque.
 
-M. Kolesnyk est titulaire d'un Master en Relations internationales de l'Université Paris II Panthéon-Assas et prépare actuellement un doctorat au Conservatoire national des arts et métiers (CNAM), portant sur la désinformation, les réseaux sociaux, les narratifs médiatiques et leur impact sur l'opinion publique.
+Il a travaillé au Bureau de liaison de l'OTAN en Ukraine, au sein d'Effective Engagement Strategies, ainsi qu'auprès d'autres organisations dans des fonctions de conseil et d'analyse. En 2022, il a fondé [Info Ops France](https://infoops.fr/), une initiative visant à renforcer la résilience de la société française face aux menaces informationnelles. Depuis mi-2023, il accompagne l'ESN en tant qu'expert en FIMI et désinformation. Il est également Président du [MENA Research Center](https://www.mena-researchcenter.org).
+
+Il est titulaire d'un Master en Relations internationales de l'Université Paris II Panthéon-Assas et prépare actuellement un doctorat au Conservatoire national des arts et métiers (CNAM). Ses recherches portent sur la désinformation, les réseaux sociaux, les narratifs médiatiques et leurs effets sur l'opinion publique.
+
+Il travaille en anglais, en français, en polonais, en ukrainien et en russe. Il possède également des notions d'arabe conversationnel et est capable de lire des textes en arabe.
 
 ---
 
