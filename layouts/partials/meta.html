@@ -1,24 +1,26 @@
 {{ if not .IsHome }}
 <h1>{{ .Title }}</h1>
 {{ with .Params.subtitle }}<h2 class="subtitle">{{ . }}</h2>{{ end }}
-{{ $author := false }}
 {{ if .IsPage }}
-<h3>{{ with or (or .Params.author (index (or .Site.Params.author dict) .Section)) "" }}
-{{ $author = . }}
-{{ . }}
-{{ end }}
+{{ $author := or (or .Params.author (index (or .Site.Params.author dict) .Section)) "" }}
 {{ $date := "" }}
 {{ if .Params.date }}
-{{ $date = .Date.Format "2006-01-02" }}
+  {{ if eq .Language.Lang "fr" }}
+    {{ $date = .Date | time.Format ":date_medium" }}
+  {{ else }}
+    {{ $date = .Date.Format "2 Jan 2006" }}
+  {{ end }}
 {{ else }}
-{{ with .Lastmod }}
-{{ $date = .Format "2006-01-02" }}
+  {{ with .Lastmod }}
+    {{ if eq $.Language.Lang "fr" }}
+      {{ $date = . | time.Format ":date_medium" }}
+    {{ else }}
+      {{ $date = .Format "2 Jan 2006" }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if or $author $date }}
+<p class="post-meta">{{ $author }}{{ if and $author $date }} · {{ end }}{{ $date }}{{ if .ReadingTime }} · {{ .ReadingTime }} {{ if eq .Language.Lang "fr" }}min de lecture{{ else }}min read{{ end }}{{ end }}</p>
 {{ end }}
 {{ end }}
-{{ with $date }}
-{{ if $author }} / {{ end }}
-{{ . }}
-{{ end }}</h3>
-{{ end }}
-<hr>
 {{ end }}

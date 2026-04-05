@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+
+<div class="hero">
+  <h2 class="hero-headline">{{ .Params.headline }}</h2>
+</div>
+
+<div class="home-grid">
+  <div class="home-left">
+    {{ .Content }}
+  </div>
+  <div class="home-right">
+    {{ with .Params.services_intro }}<p class="services-intro-label">{{ . }}</p>{{ end }}
+    {{ with .Params.services }}
+    <ul class="services-list">
+      {{ range . }}
+      <li><a href="{{ .url }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

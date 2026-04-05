@@ -2,10 +2,10 @@
 
 {{ .Content }}
 
-<ul>
+<ul class="post-list">
   {{ range (where (cond .IsHome .Site.RegularPages .Pages) "Section" "!=" "") }}
   <li>
-    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
+    <span class="date">{{ if eq .Language.Lang "fr" }}{{ .Date | time.Format ":date_medium" }}{{ else }}{{ .Date.Format "2 Jan 2006" }}{{ end }}</span>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </li>
   {{ end }}

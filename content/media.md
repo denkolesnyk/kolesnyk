@@ -2,7 +2,21 @@
 title: In the media
 ---
 
+## 2026
+
+Intervention at TVP World (Poland): [Macron’s Asia trip: NATO doubts and oil shock](https://www.youtube.com/watch?v=QTNqA_m7OtQ)
+
+Comment for TRT World (Turkey): [Are Ukraine and Iran wars becoming one strategic battlefield?](https://www.trtworld.com/article/cc508f0003a1)
+
+Comment for LSM LV [Darba vietā «nāves spriedums» frontē Ukrainā: Krievijas aģenti cilvēkus vervē ekonomiski vājās valstīs](https://www.lsm.lv/raksts/zinas/arzemes/07.03.2026-darba-vieta-naves-spriedums-fronte-ukraina-krievijas-agenti-cilvekus-verve-ekonomiski-vajas-valstis.a637529)
+
+Comment for TRT World (Turkey): [After Venezuela assault, will Trump really go after Greenland?](https://www.trtworld.com/article/2eb86019b3f3)
+
+Intervention at TVP World (Poland): [Ukraine peace talks stall as U.S. focus shifts to Venezuela](https://www.youtube.com/watch?v=bC0AtwGTMXU)
+
 ## 2025
+
+Comment for Le Parisien (France): [Guerre en Ukraine : ligne de défense, exigence russe… Pourquoi les pourparlers de paix bloquent toujours sur le Donbass](https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-ligne-de-defense-exigence-russe-pourquoi-les-pourparlers-de-paix-bloquent-toujours-sur-le-donbass-29-12-2025-JTIQKM5HHJA7VMJIRJL4PKLG2A.php)
 
 Article in Revue Défense of Union-IHEDN (France): [L'Europe après la guerre russo-ukrainienne : quelle place pour la Pologne ?](/images/RevueDefense_OctNov25_Kolesnyk.pdf)
 

@@ -1,15 +1,35 @@
+/* ---- Body & content — DM Sans (≈ Apercu Pro) ---- */
 body {
-  font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  font-family: 'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
 }
 
-.masthead {
-  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+/* ---- All headings — Cormorant (≈ Heldane Text) ---- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant', Georgia, 'Times New Roman', serif;
 }
 
-code {
-  font-family: 'Cascadia Code', 'Fira Code', 'Lucida Console', 'Andale Mono', monospace;
+/* ---- Navigation & UI chrome ---- */
+.masthead,
+.masthead h1,
+.masthead .menu,
+.date,
+.post-meta,
+footer,
+.copyright,
+.post-nav,
+.services-intro-label,
+.services-list a {
+  font-family: 'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
 }
 
+/* ---- Display headline — lighter weight, tighter tracking ---- */
+.hero-headline {
+  font-family: 'Cormorant', Georgia, 'Times New Roman', serif;
+  letter-spacing: -0.02em;
+}
+
+/* ---- Code ---- */
+code,
 pre code {
-  font-family: 'Cascadia Code', 'Fira Code', Consolas, 'Lucida Console', Monaco, monospace;
+  font-family: 'Cascadia Code', 'Fira Code', 'Lucida Console', monospace;
 }

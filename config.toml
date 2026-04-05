@@ -1,36 +1,74 @@
 baseURL = "https://kolesnyk.fr/"
-languageCode = "en-GB"
-title = "Denys Kolesnyk"
 theme = "hugo-ivy"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
+[languages]
+  [languages.en]
+    languageName = "EN"
+    languageCode = "en-GB"
+    title = "Denys Kolesnyk"
     weight = 1
-  [[menu.main]]
+    [languages.en.params]
+      description = "Strategic Intelligence Analyst"
+      footer = "&copy; Denys Kolesnyk 2019-{Year}"
+  [languages.fr]
+    languageName = "FR"
+    languageCode = "fr-FR"
+    title = "Denys Kolesnyk"
+    weight = 2
+    [languages.fr.params]
+      description = "Analyste en intelligence stratégique"
+      footer = "&copy; Denys Kolesnyk 2019-{Year}"
+
+[languages.en.menu]
+  [[languages.en.menu.main]]
     name = "About"
     url = "/about/"
     weight = 2
-  [[menu.main]]
+  [[languages.en.menu.main]]
     name = "Services"
     url = "/services/"
     weight = 3
-  [[menu.main]]
+  [[languages.en.menu.main]]
+    name = "Blog"
+    url = "/post/"
+    weight = 4
+  [[languages.en.menu.main]]
     name = "Media"
     url = "/media/"
-    weight = 4
-  [[menu.main]]
+    weight = 5
+  [[languages.en.menu.main]]
     name = "Contact"
     url = "mailto:dkolesnyk@pm.me"
+    weight = 6
+
+[languages.fr.menu]
+  [[languages.fr.menu.main]]
+    name = "À propos"
+    url = "/fr/about/"
+    weight = 2
+  [[languages.fr.menu.main]]
+    name = "Services"
+    url = "/fr/services/"
+    weight = 3
+  [[languages.fr.menu.main]]
+    name = "Blog"
+    url = "/fr/post/"
+    weight = 4
+  [[languages.fr.menu.main]]
+    name = "Médias"
+    url = "/fr/media/"
     weight = 5
+  [[languages.fr.menu.main]]
+    name = "Contact"
+    url = "mailto:dkolesnyk@pm.me"
+    weight = 6
 
 [params]
-  description = "Geopolitical & Information Risk Consultant"
-  footer = "&copy; Denys Kolesnyk 2019-{Year}"
   highlightjsLang = ["latex"]
   highlightjsTheme = "github"
   highlightjsVersion = "11.7.0"
