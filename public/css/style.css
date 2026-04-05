@@ -43,6 +43,7 @@ body {
   padding: 0;
   background: var(--bg);
   color: var(--text);
+  overflow-x: hidden;
 }
 
 button, input, select, textarea, label {
@@ -796,8 +797,8 @@ body.home .title {
 
   .masthead .menu a {
     display: block;
-    padding: 0.6rem 0;
-    font-size: 0.7rem;
+    padding: 0.75rem 0;
+    font-size: 0.8rem;
   }
 
   #menu-check ~ label .close-icon  { display: none; }
@@ -832,13 +833,33 @@ body.home .title {
   h3, h4, h5, h6 { font-size: 1rem; }
   pre, code { font-size: 0.8em; }
 
+  .hero-headline {
+    font-size: clamp(2rem, 10vw, 2.6rem);
+  }
+
+  .home-grid {
+    margin-top: 2rem;
+    padding-top: 2rem;
+  }
+
   .profile-photo {
     width: 150px;
+  }
+
+  .main img:not(.profile-photo) {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .services-list a:active {
+    color: var(--accent);
+    transform: translateX(6px);
   }
 
   .footer-row {
     flex-wrap: wrap;
     gap: 0.5rem 0;
+    padding-bottom: 0.5rem;
   }
 
   .footer-spacer {
@@ -861,5 +882,6 @@ body.home .title {
 
   .footer-row .x-link + .x-link {
     margin-left: 0;
+    margin-right: 0;
   }
 }
