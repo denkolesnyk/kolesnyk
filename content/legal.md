@@ -8,7 +8,7 @@ Denys Kolesnyk<br>
 Auto-entrepreneur (sole trader, France)<br>
 SIREN: 847 943 263<br>
 Issy-les-Moulineaux, France<br>
-Contact: dkolesnyk@pm.me
+Contact: contact@kolesnyk.fr
 
 ## Hosting
 

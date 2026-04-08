@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
     weight = 5
   [[languages.en.menu.main]]
     name = "Contact"
-    url = "mailto:dkolesnyk@pm.me"
+    url = "mailto:contact@kolesnyk.fr"
     weight = 6
 
 [languages.fr.menu]
@@ -65,7 +65,7 @@ defaultContentLanguageInSubdir = false
     weight = 5
   [[languages.fr.menu.main]]
     name = "Contact"
-    url = "mailto:dkolesnyk@pm.me"
+    url = "mailto:contact@kolesnyk.fr"
     weight = 6
 
 [params]
