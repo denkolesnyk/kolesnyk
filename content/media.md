@@ -12,6 +12,8 @@ Comment for TRT World (Turkey): [Are Ukraine and Iran wars becoming one strategi
 
 Comment for LSM LV [Darba vietā «nāves spriedums» frontē Ukrainā: Krievijas aģenti cilvēkus vervē ekonomiski vājās valstīs](https://www.lsm.lv/raksts/zinas/arzemes/07.03.2026-darba-vieta-naves-spriedums-fronte-ukraina-krievijas-agenti-cilvekus-verve-ekonomiski-vajas-valstis.a637529)
 
+Comment for El Correo (Spain): [La incertidumbre sobre el futuro del mercado petrolífero preocupa a Moscú](https://www.elcorreo.com/internacional/europa/incertidumbre-sobre-futuro-mercado-petrolifero-preocupa-moscu-20260113011514-ntrc.html)
+
 Comment for TRT World (Turkey): [After Venezuela assault, will Trump really go after Greenland?](https://www.trtworld.com/article/2eb86019b3f3)
 
 Intervention at TVP World (Poland): [Ukraine peace talks stall as U.S. focus shifts to Venezuela](https://www.youtube.com/watch?v=bC0AtwGTMXU)
