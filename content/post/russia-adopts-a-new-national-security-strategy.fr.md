@@ -2,6 +2,7 @@
 title: La Russie adopte une nouvelle Stratégie de sécurité nationale
 author: Denys Kolesnyk
 date: 2021-07-16
+slug: russie-adopte-nouvelle-strategie-securite-nationale
 categories:
   - Russie
 tags:

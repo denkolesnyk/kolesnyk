@@ -2,6 +2,7 @@
 title: La guerre mentale — la guerre cognitive à la russe
 author: Denys Kolesnyk
 date: 2023-10-05
+slug: guerre-mentale-guerre-cognitive-a-la-russe
 categories:
   - Russie
 tags:

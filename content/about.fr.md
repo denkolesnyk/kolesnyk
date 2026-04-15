@@ -1,5 +1,6 @@
 ---
 title: À propos
+slug: a-propos
 ---
 
 <picture>

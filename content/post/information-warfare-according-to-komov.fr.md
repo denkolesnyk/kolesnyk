@@ -2,6 +2,7 @@
 title: La guerre de l'information selon le colonel Komov
 author: Denys Kolesnyk
 date: 2019-01-23
+slug: guerre-de-linformation-selon-le-colonel-komov
 categories:
   - Russie
 tags:

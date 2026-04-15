@@ -2,6 +2,7 @@
 title: La confrontation informationnelle est-elle un nouveau concept russe ?
 author: Denys Kolesnyk
 date: 2021-10-21
+slug: confrontation-informationnelle-nouveau-concept-russe
 categories:
   - Russie
 tags:

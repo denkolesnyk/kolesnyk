@@ -2,6 +2,7 @@
 title: La rhétorique belliciste russe préfigure-t-elle une invasion de l'Ukraine ?
 author: Denys Kolesnyk
 date: 2021-12-06
+slug: rhetorique-belliciste-russe-invasion-ukraine
 categories:
   - Russie
   - Ukraine

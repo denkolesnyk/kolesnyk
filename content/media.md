@@ -4,6 +4,8 @@ title: In the media
 
 ## 2026
 
+Comment for TRT World (Turkey): [Will Orban’s election defeat lead to a dramatic change in Europe?](https://www.trtworld.com/article/4d86dec74651)
+
 Intervention at TVP World (Poland): [Macron’s Asia trip: NATO doubts and oil shock](https://www.youtube.com/watch?v=QTNqA_m7OtQ)
 
 Comment for TRT World (Turkey): [Are Ukraine and Iran wars becoming one strategic battlefield?](https://www.trtworld.com/article/cc508f0003a1)

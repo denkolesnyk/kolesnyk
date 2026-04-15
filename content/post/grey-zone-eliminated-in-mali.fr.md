@@ -2,6 +2,7 @@
 title: Grey Zone éliminé au Mali avec les mercenaires russes et les FAMa
 author: Denys Kolesnyk
 date: 2024-08-06
+slug: grey-zone-elimine-au-mali
 categories:
   - Mali
   - Russie

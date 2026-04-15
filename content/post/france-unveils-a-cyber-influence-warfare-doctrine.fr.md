@@ -2,6 +2,7 @@
 title: La France dévoile sa doctrine de lutte informatique d'influence
 author: Denys Kolesnyk
 date: 2021-11-01
+slug: france-devoile-doctrine-lutte-informatique-influence
 categories:
   - France
 tags:

@@ -2,6 +2,7 @@
 title: Vladislav Surkov sur « l'État long de Poutine »
 author: Denys Kolesnyk
 date: 2019-02-17
+slug: vladislav-surkov-sur-letat-long-de-poutine
 categories:
   - Russie
 tags:

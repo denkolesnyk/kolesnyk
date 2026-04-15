@@ -1,7 +1,8 @@
 ---
-title: Le contrôle réflexif
+title: Sur le contrôle réflexif
 author: Denys Kolesnyk
 date: 2019-11-26
+slug: sur-le-controle-reflexif
 categories:
   - Russie
 tags:

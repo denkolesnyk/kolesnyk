@@ -1,8 +1,11 @@
 ---
 title: Dans les médias
+slug: medias
 ---
 
 ## 2026
+
+Commentaire pour TRT World (Turquie) : [Will Orban’s election defeat lead to a dramatic change in Europe?](https://www.trtworld.com/article/4d86dec74651)
 
 Intervention sur TVP World (Pologne) : [Macron’s Asia trip: NATO doubts and oil shock](https://www.youtube.com/watch?v=QTNqA_m7OtQ)
 

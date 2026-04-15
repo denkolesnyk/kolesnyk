@@ -2,6 +2,7 @@
 title: La Russie et l'Iran signent un accord de coopération en matière de sécurité de l'information
 author: Denys Kolesnyk
 date: 2021-02-04
+slug: russie-iran-signent-accord-securite-information
 categories:
   - Iran
   - Russie
